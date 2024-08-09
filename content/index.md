@@ -35,7 +35,6 @@ title: Оглавление Базы Знаний
 		- 📄 [[Yandex Cloud CLI]]<br>
 		- 📄 [[Yandex Compute Cloud]]<br>
 		- 📄 [[Yandex Cloud Function]]<br>
-		- 📄 [[YC Credentials]]<br>
 		- 📄 [[Lockbox]]<br>
 		- 📄 [[Yandex Object Storage]]<br>
 - 📂 [[Task Queue]]<br>
