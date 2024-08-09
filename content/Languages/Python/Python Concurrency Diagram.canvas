@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"1b4e88b729b4ba2c","type":"text","text":"`threading`","x":-575,"y":0,"width":153,"height":50,"color":"4"},
+		{"id":"c24542a0e524f12f","type":"text","text":"**Thread**\nIO Bound","x":-409,"y":-200,"width":160,"height":80,"color":"4"},
+		{"id":"281bf77674d87527","type":"text","text":"**Coroutine**\nMany socket connections","x":520,"y":-200,"width":180,"height":80,"color":"6"},
+		{"id":"12b5acb9b021bdcd","type":"text","text":"**Process**\nCPU bound","x":65,"y":-200,"width":185,"height":80,"color":"5"},
+		{"id":"1ab1f9b4c0736a16","type":"text","text":"**Concurrency**","x":78,"y":-440,"width":160,"height":60},
+		{"id":"7843ba916cc12ed4","type":"text","text":"`asyncio`","x":548,"y":0,"width":125,"height":50,"color":"6"},
+		{"id":"bf135ce8e1e8ab3d","type":"text","text":"`multiprocessing`","x":63,"y":0,"width":190,"height":50,"color":"5"},
+		{"id":"22b700738750c55d","type":"text","text":"`concurrent.futures`","x":-258,"y":0,"width":218,"height":50},
+		{"id":"831e3996fe3fcc4e","type":"text","text":"`pool.Pool`","x":280,"y":223,"width":140,"height":50,"color":"5"},
+		{"id":"d9c04ffa1466f374","type":"text","text":"`Process`","x":433,"y":223,"width":130,"height":50,"color":"5"},
+		{"id":"554eceffd7a59743","type":"text","text":"`ProcessPoolExecutor`","x":33,"y":225,"width":230,"height":50,"color":"5"},
+		{"id":"369208d79526e9ba","type":"text","text":"`Thread`","x":-651,"y":220,"width":130,"height":60,"color":"4"},
+		{"id":"358e8e6f4f37faae","type":"text","text":"`pool.ThreadPool`","x":-243,"y":223,"width":200,"height":55,"color":"4"},
+		{"id":"d6cadf26372e5270","type":"text","text":"`ThreadPoolExecutor`","x":-483,"y":221,"width":230,"height":60,"color":"4"},
+		{"id":"e60410fb46f1ab0b","type":"text","text":"Queue, Lock, Semaphore","x":-2,"y":440,"width":250,"height":50,"color":"5"},
+		{"id":"78741f226a103f1a","type":"text","text":"Queue, Lock, Semaphore","x":450,"y":440,"width":250,"height":50,"color":"6"},
+		{"id":"e8072f2b62df5f15","type":"text","text":"Queue, Lock, Semaphore","x":-489,"y":440,"width":250,"height":50,"color":"4"}
+	],
+	"edges":[
+		{"id":"9a0dc699015b137d","fromNode":"1ab1f9b4c0736a16","fromSide":"bottom","toNode":"c24542a0e524f12f","toSide":"top"},
+		{"id":"72b1092e20e53af5","fromNode":"1ab1f9b4c0736a16","fromSide":"bottom","toNode":"12b5acb9b021bdcd","toSide":"top"},
+		{"id":"e35e98eae3d0594a","fromNode":"1ab1f9b4c0736a16","fromSide":"bottom","toNode":"281bf77674d87527","toSide":"top"},
+		{"id":"b732c0980c51b14c","fromNode":"c24542a0e524f12f","fromSide":"bottom","toNode":"1b4e88b729b4ba2c","toSide":"top"},
+		{"id":"150ed028b03e8f99","fromNode":"1b4e88b729b4ba2c","fromSide":"bottom","toNode":"369208d79526e9ba","toSide":"top"},
+		{"id":"06bcc42726c004c9","fromNode":"c24542a0e524f12f","fromSide":"bottom","toNode":"22b700738750c55d","toSide":"top"},
+		{"id":"eed897f1de2475f1","fromNode":"22b700738750c55d","fromSide":"bottom","toNode":"d6cadf26372e5270","toSide":"top"},
+		{"id":"60b339983691b5b1","fromNode":"bf135ce8e1e8ab3d","fromSide":"bottom","toNode":"831e3996fe3fcc4e","toSide":"top"},
+		{"id":"bd73da23b7aaf2c2","fromNode":"12b5acb9b021bdcd","fromSide":"bottom","toNode":"bf135ce8e1e8ab3d","toSide":"top"},
+		{"id":"0749df3058a15b8e","fromNode":"bf135ce8e1e8ab3d","fromSide":"bottom","toNode":"d9c04ffa1466f374","toSide":"top"},
+		{"id":"0372473c128a3027","fromNode":"281bf77674d87527","fromSide":"bottom","toNode":"7843ba916cc12ed4","toSide":"top"},
+		{"id":"833ae0075ebeaade","fromNode":"bf135ce8e1e8ab3d","fromSide":"bottom","toNode":"358e8e6f4f37faae","toSide":"top"},
+		{"id":"26c207f6d0039942","fromNode":"12b5acb9b021bdcd","fromSide":"bottom","toNode":"22b700738750c55d","toSide":"top"},
+		{"id":"5c7d92d53e6b2210","fromNode":"22b700738750c55d","fromSide":"bottom","toNode":"554eceffd7a59743","toSide":"top"}
+	]
+}
