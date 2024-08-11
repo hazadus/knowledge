@@ -57,3 +57,6 @@ Headers can be grouped according to their contexts:
 ----
 ## References
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
+
+----
+📂 [[HTTP]]

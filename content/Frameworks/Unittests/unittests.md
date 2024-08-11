@@ -72,3 +72,6 @@ class TestDecryptFunction(unittest.TestCase):
             with self.subTest(encrypted=encrypted, decrypted=decrypted):
                 self.assertEqual(decrypt(encrypted), decrypted)
 ```
+
+----
+📂 [[Unittests]]

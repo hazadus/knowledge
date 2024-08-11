@@ -98,3 +98,6 @@ Sign In with Apple
 > [!info] Favicon Generator for perfect icons on all browsers  
 > The ultimate favicon generator.  
 > [https://realfavicongenerator.net/](https://realfavicongenerator.net/)
+
+----
+📂 [[Tooling]]

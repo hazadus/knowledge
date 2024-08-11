@@ -24,3 +24,7 @@ def process_count(username: str) -> int:
     process_qty = int(wc_clean_output[0]) - 1  
     return process_qty
 ```
+
+
+----
+📂 [[Python]]

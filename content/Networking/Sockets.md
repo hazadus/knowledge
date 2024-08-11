@@ -71,3 +71,7 @@ Writing a server program is a little bit different.
 - [Socket Programming HOWTO](https://docs.python.org/3.12/howto/sockets.html) in Python 3.12 documentation.
 - [Introducing The Sockets API](https://beej.us/guide/bgnet0/html/split/introducing-the-sockets-api.html#introducing-the-sockets-api)
 - [_Beej’s Guide to Network Programming_](https://beej.us/guide/bgnet) – optional, for C devs.
+
+
+----
+📂 [[Networking]]

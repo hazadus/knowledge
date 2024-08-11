@@ -9,3 +9,7 @@ https://docs.djangoproject.com/en/5.0/ref/django-admin/#django-admin-inspectdb
 docker compose exec -it web bash
 python manage.py inspectdb --settings "django_project.settings"
 ```
+
+
+----
+📂 [[Django]]

@@ -6,3 +6,7 @@ Reference: https://superfastpython.com/python-concurrency-choose-api/
 
 ![[Differences-Between-ThreadPoolExecutor-and-Thread-768x354.jpg]]
 
+
+
+----
+📂 [[Python]]

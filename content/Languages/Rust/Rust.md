@@ -1,17 +1,3 @@
-Rust Features
-Data types
-Functions
-Expressions
-Functions
-Functions with Return Values
-Control Flow
-if Expressions
-Using if in a let Statement
-Loops
-Returning Values from Loops
-Loop Labels to Disambiguate Between Multiple Loops
-Looping Through a Collection with for
----
 # Rust Features
 - Rust compiles sources to byte code, then LLVM compiles it to machine code.
 - Rust compiles down to binary code with no garbage collection invoked at runtime. This gives you C-like speed. In contrast to C, however, the Rust compiler enforces memory safety at compile time.
@@ -51,3 +37,6 @@ If you have loops within loops, `break` and `continue` apply to the innermost lo
 ![[attachments/Untitled 6 5.png|Untitled 6 5.png]]
 ![[attachments/Untitled 7 4.png|Untitled 7 4.png]]
 **Source**: [Control Flow - The Rust Programming Language (rust-lang.org)](https://doc.rust-lang.org/book/ch03-05-control-flow.html)
+
+----
+📂 [[Rust]]

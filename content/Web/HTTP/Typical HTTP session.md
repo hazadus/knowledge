@@ -125,3 +125,6 @@ X-Cache: Error from cloudfront
 - [`200`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200): OK. The request has succeeded.
 - [`301`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/301): Moved Permanently. This response code means that the URI of requested resource has been changed.
 - [`404`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404): Not Found. The server cannot find the requested resource.
+
+----
+📂 [[HTTP]]

@@ -60,3 +60,6 @@
     **Network Adapter** – Another name for “network card”, the hardware on your computer that does network stuff.
     
     **MAC Address** (Media Access Control) – Ethernet interfaces have MAC addresses, which take the form `aa:bb:cc:dd:ee:ff`, where the fields are random-ish one-byte hex numbers. MAC addresses are 6 bytes long, and must be unique on the LAN. When a network adapter is manufactured, it is given a unique MAC address that it keeps for life, typically.
+
+----
+📂 [[Networking]]

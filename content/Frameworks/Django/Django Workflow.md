@@ -658,3 +658,6 @@ hey -n 1000 https://www.polstagramm.ru
 # copy all the stuff directly to polsta-30.12/
 sync -arv --exclude=.venv --exclude=.git --exclude=__pycache__ root@85.193.89.177:/root/projects/newspaper/ /Users/hazadus/webbackup/polsta-30.12/
 ```
+
+----
+📂 [[Django]]

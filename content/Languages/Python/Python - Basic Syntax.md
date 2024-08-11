@@ -560,3 +560,6 @@ class method – with cls as first parameter
     # (9, 9, 9, 8)
     # (9, 9, 9, 9)
     ```
+
+----
+📂 [[Python]]

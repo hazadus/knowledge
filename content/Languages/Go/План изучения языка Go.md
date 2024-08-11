@@ -18,3 +18,7 @@
 ### Видео
 - [BugBytes Go Programming Playlist](https://www.youtube.com/playlist?list=PL-2EBeDYMIbR1ag15E2MonJOj_cCIjUnd)
 
+
+
+----
+📂 [[Go]]

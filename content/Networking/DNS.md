@@ -160,3 +160,6 @@ In a nutshell, there are two mechanisms at play:
 2. A very short TTL on the DDNS server for that record.
 
 While DNS defines a way to send update records, a common other way is for a computer on your LAN to periodically (e.g. every 10 minutes) contact the DDNS provider with an authenticated HTTP request. The DDNS server will see the IP address it came from and use that to update its record.
+
+----
+📂 [[Networking]]

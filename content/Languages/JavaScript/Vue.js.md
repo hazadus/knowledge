@@ -77,3 +77,6 @@ Link: [https://vuejs.org/guide/essentials/list.html#v-for-with-a-component](http
 > vue3-easy-data-table is a customizable and easy-to-use data table component made with Vue.  
 > [https://hc200ok.github.io/vue3-easy-data-table-doc/introduction.html](https://hc200ok.github.io/vue3-easy-data-table-doc/introduction.html)  
 https://github.com/SortableJS/vue.draggable.next
+
+----
+📂 [[JavaScript]]

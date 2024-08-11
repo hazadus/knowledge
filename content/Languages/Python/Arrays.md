@@ -71,3 +71,7 @@ site_domains = [f"{kw}.{domain}" for kw in kwlist for domain in DOMAINS]
   
 print(site_domains)
 ```
+
+
+----
+📂 [[Python]]

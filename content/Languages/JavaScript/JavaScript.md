@@ -380,3 +380,6 @@ CSS Styling: [https://svelte.dev/tutorial/deferred-transitions](https://svelte.d
 > [!info] Media Session API - Web APIs | MDN  
 > The Media Session API provides a way to customize media notifications.  
 > [https://developer.mozilla.org/en-US/docs/Web/API/Media_Session_API](https://developer.mozilla.org/en-US/docs/Web/API/Media_Session_API)
+
+----
+📂 [[JavaScript]]

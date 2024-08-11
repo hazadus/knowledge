@@ -16,3 +16,6 @@ while (current := input("Write something: ")) != "quit":
 > [!info] When Do You Use an Ellipsis in Python? - Real Python  
 > While you can use .  
 > [https://realpython.com/python-ellipsis/](https://realpython.com/python-ellipsis/)
+
+----
+📂 [[Python]]

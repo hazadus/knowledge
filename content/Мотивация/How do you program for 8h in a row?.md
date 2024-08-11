@@ -17,3 +17,6 @@ The reason matters, because the solution is very context-dependent. 
 I’m going to assume here you decided you wanted to be more productive, coding-wise. It’s not everyone’s goal, so make sure it’s what you want, it comes with pros and cons as usual. But once you have decided that, there are actually many thing you can do rather than pushing for more hours.
 
 **Saying no, avoiding multitasking, protecting yourself from interruptions, using good tooling, and surrounding yourself with the right people are likely to yield as much, if not more productivity, than grinding**.
+
+----
+📂 [[Мотивация]]

@@ -20,3 +20,6 @@ ls -al /etc/letsencrypt/archive/hazadus.ru/
 ![[attachments/Untitled 1 4.png|Untitled 1 4.png]]
 Update `default.prod.conf` with new filenames:
 ![[attachments/Untitled 2 4.png|Untitled 2 4.png]]
+
+----
+📂 [[Tooling]]

@@ -250,3 +250,7 @@ Nevertheless, I think that since mocks are already quite a complicated topic, an
 
 At some point, you will be deep inside nested mocks with side effects and return values coming from a method of some patched object, and no, you will not have a good time.
 
+
+
+----
+📂 [[Unittests]]

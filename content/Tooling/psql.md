@@ -40,3 +40,6 @@ WHERE name = 'work_mem' \gx
 - `\gset` : Save query results in variable, e.g. `SELECT current_setting('work_mem') AS current_work_mem \gset` - result will be stored in `current_work_mem` .
 - `\set` : List all variables.
 - `\? variables` : Info about built-in variables.
+
+----
+📂 [[Tooling]]

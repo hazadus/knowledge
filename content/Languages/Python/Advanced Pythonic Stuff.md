@@ -71,3 +71,6 @@ asyncio.run(main())
 > [!info] Building Your Own Python Web Framework - WSGI  
 > Home Building Your Own Python Web Framework Part 1 WSGI Part 1, Chapter 2 Before we dive into the details of WSGI, let's look at what happens when a user uses a web application from a bird-eye's view.  
 > [https://testdriven.io/courses/python-web-framework/wsgi/#H-5-middleware](https://testdriven.io/courses/python-web-framework/wsgi/#H-5-middleware)
+
+----
+📂 [[Python]]

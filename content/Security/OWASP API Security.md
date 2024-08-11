@@ -147,3 +147,7 @@ The API might be vulnerable if:
 - Does not limit the number of resources available to process third-party services responses;
 - Does not implement timeouts for interactions with third-party services;
 
+
+
+----
+📂 [[Security]]

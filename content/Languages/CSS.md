@@ -76,3 +76,6 @@ Opacity регулирует прозрачность всего блока, в�
 > [!info] CSS Selectors: A Visual Guide & Reference  
 > Visual guide to CSS selectors, including pseudo-classes (:nth-child, :hover,.  
 > [https://fffuel.co/css-selectors/](https://fffuel.co/css-selectors/)
+
+----
+📂 [[Languages]]

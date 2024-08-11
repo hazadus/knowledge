@@ -54,3 +54,6 @@ jobs:
         run: |
           ssh target "cd /usr/projects/django-rss-reader && docker compose down && git pull && docker compose up -d --build --force-recreate"
 ```
+
+----
+📂 [[DevOps]]

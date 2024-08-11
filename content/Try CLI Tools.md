@@ -1,2 +1,0 @@
-- `lazygit`
-- `lazydocker`

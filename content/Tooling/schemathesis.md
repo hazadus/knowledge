@@ -18,3 +18,7 @@ poetry add --group dev schemathesis
 ```bash
 schemathesis run http://localhost:8000/openapi.json --experimental=openapi-3.1
 ```
+
+
+----
+📂 [[Tooling]]

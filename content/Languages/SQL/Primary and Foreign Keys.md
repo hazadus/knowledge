@@ -46,3 +46,6 @@ CREATE TABLE progress (
 		ON DELETE CASCADE
 );
 ```
+
+----
+📂 [[SQL]]

@@ -12,3 +12,7 @@
 ![[Pasted image 20240416220541.png]]
 
 ![[Pasted image 20240416220621.png]]
+
+
+----
+📂 [[Security]]

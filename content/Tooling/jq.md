@@ -12,3 +12,7 @@ apt install jq
 ```bash
 cat sample.json | jq
 ```
+
+
+----
+📂 [[Tooling]]

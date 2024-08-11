@@ -45,3 +45,6 @@ Path to the resource on the Web server. May or may not represent physical file l
 `?key1=value1&key2=value2` are extra parameters provided to the Web server. Those parameters are a list of key/value pairs separated with the `&` symbol.
 ## Fragment
 `#SomewhereInTheDocument` is an anchor to another part of the resource itself. An anchor represents a sort of "bookmark" inside the resource, giving the browser the directions to show the content located at that "bookmarked" spot.
+
+----
+📂 [[HTTP]]

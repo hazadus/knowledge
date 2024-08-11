@@ -12,3 +12,6 @@ def add_characters_to_database(characters: list[Character]) -> None:
             [(ch.name, ch.gender, ch.birth_year) for ch in characters],
         )
 ```
+
+----
+📂 [[SQL]]

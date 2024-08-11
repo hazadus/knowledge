@@ -14,3 +14,6 @@
 - [Against service layers in Django](https://www.b-list.org/weblog/2020/mar/16/no-service/) by James Bennet
 - [More on service layers in Django](https://www.b-list.org/weblog/2020/mar/23/still-no-service/) by James Bennet
 - [So Many Layers! A Note of Caution.](https://www.cosmicpython.com/blog/2020-08-13-so-many-layers.html) by Harry Percival
+
+----
+📂 [[Django]]

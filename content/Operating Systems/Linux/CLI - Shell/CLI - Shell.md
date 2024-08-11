@@ -87,3 +87,6 @@ crontab -l
 wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://testdriven.io/blog/developing-a-single-page-app-with-fastapi-and-vuejs/
 wget --directory-prefix=./uploads/pages -x --mirror --convert-links --adjust-extension --page-requisites --no-parent https://testdriven.io/blog/developing-a-single-page-app-with-fastapi-and-vuejs/
 ```
+
+----
+📂 [[CLI - Shell]]

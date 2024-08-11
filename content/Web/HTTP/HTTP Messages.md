@@ -90,3 +90,7 @@ Bodies can be broadly divided into three categories:
 ## References
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages
 - [[Julia Evans - HTTP_ Learn your browser's language!-Julia Evans 1.pdf]]
+
+
+----
+📂 [[HTTP]]

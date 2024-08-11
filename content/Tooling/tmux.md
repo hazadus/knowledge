@@ -39,3 +39,6 @@ https://github.com/gpakosz/.tmux
 > [!info] Настраиваем tmux по хардкору! Копирование из tmux, статус бар, цвета, hot keys  
 > Запущен первый курс мощной образовательной программы от Диджитализируй: «Основы компьютерных и веб-технологий с Python»  
 > [https://www.youtube.com/watch?v=LkFtvMzMwjw&list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O&index=10](https://www.youtube.com/watch?v=LkFtvMzMwjw&list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O&index=10)
+
+----
+📂 [[Tooling]]

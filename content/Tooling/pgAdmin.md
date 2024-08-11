@@ -35,3 +35,7 @@ volumes:
 	local_pgdata:  
 	pgadmin-data:
 ```
+
+
+----
+📂 [[Tooling]]

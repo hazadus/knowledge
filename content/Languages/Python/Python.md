@@ -31,3 +31,7 @@ TABLE FROM #python and #Omnivore
 > [!info] Boring Python: code quality  
 > This is the second in a series of posts I intend to write about how to build, deploy, and manage Python applications in as boring a way as possible.  
 > [https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_159](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_159)  
+
+
+----
+📂 [[Python]]

@@ -42,3 +42,6 @@ Today, every HTTP/1.1-compliant proxy and server should support pipelining, thou
 ----
 ## References
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x
+
+----
+📂 [[HTTP]]

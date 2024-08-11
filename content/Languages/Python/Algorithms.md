@@ -69,3 +69,6 @@ class Circle:
         dist = math.sqrt((self.x-other.x)**2 + (self.y-other.y)**2)
         return dist < self.r + other.r
 ```
+
+----
+📂 [[Python]]

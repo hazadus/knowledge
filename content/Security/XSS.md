@@ -12,3 +12,7 @@
 - [XSS prevention for Django](https://semgrep.dev/docs/cheat-sheets/django-xss/)
 - [HTTP **`Content-Security-Policy`** response header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy)
 
+
+
+----
+📂 [[Security]]

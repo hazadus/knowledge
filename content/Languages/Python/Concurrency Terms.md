@@ -13,3 +13,7 @@
 **Asynchronous**: Separate execution streams that can run concurrently in any order relative to each other are asynchronous. *— PAGE 265, [THE ART OF CONCURRENCY](https://amzn.to/3TkCuwX), 2009.*
 
 ----
+
+
+----
+📂 [[Python]]

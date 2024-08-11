@@ -13,3 +13,6 @@ The responsibilities in the Django MTV pattern are divided as follows:
 Django 5 By Example_Fifth Edition
 Antonio Melé
 Этот материал может быть защищен авторским правом.
+
+----
+📂 [[Django]]

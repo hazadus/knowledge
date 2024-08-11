@@ -43,3 +43,7 @@ An example of a cross-origin request: the front-end JavaScript code served fromÂ
 
 ![[Pasted image 20240418115538.png]]
 
+
+
+----
+ðŸ“‚ [[Security]]

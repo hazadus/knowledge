@@ -9,3 +9,6 @@ poetry add fastapi
 poetry add --group dev ruff
 poetry install
 ```
+
+----
+📂 [[Tooling]]

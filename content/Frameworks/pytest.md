@@ -32,3 +32,6 @@ pythonpath = [ # what to add to the python path
 - `--sw`_: start from where it stopped the previous run._
 - `--no-header` _/_ `--no-summary`_: remove the big blobs of texts in the output._
 - `--verbosity=x`_: from 0 to 3 levels of output granularity._
+
+----
+📂 [[Frameworks]]

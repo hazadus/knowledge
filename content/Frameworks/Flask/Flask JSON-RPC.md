@@ -7,3 +7,7 @@ Basic JSON-RPC implementation for your Flask-powered sites.
 - https://www.jsonrpc.org/specification
 
 ----
+
+
+----
+📂 [[Flask]]

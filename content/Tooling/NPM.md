@@ -14,3 +14,6 @@ npm install saves any specified packages into dependencies by default. Additiona
            •   -E, --save-exact: Saved dependencies will be configured with an exact version rather than using npm's default semver range operator.
            •   -B, --save-bundle: Saved dependencies will also be added to your bundleDependencies list.
 ```
+
+----
+📂 [[Tooling]]

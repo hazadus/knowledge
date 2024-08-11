@@ -43,3 +43,6 @@ logging:
 Restart services.
 
 *Create new dashboard.*
+
+----
+📂 [[Tooling]]

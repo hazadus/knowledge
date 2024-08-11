@@ -36,3 +36,7 @@
 - [OpenTelemetry FastAPI Instrumentation](https://opentelemetry-python-contrib.readthedocs.io/en/latest/instrumentation/fastapi/fastapi.html)
 - [Monitoring your FastAPI application with OpenTelemetry](https://signoz.io/blog/opentelemetry-fastapi/) tutorial
 
+
+
+----
+📂 [[FastAPI]]

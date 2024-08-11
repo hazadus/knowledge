@@ -42,3 +42,7 @@ Some of the more common injections are SQL, NoSQL, OS command, Object Relational
 
 ## **[A10:2021-Server-Side Request Forgery](https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/)**
 
+
+
+----
+📂 [[Security]]

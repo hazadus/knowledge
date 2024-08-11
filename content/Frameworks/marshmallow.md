@@ -7,3 +7,6 @@ Docs: https://marshmallow.readthedocs.io/en/stable/
 
 ## Code Examples
 - https://github.com/hazadus/flask-restx-learn/blob/main/books_app.py
+
+----
+📂 [[Frameworks]]

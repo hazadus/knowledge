@@ -166,3 +166,6 @@ hired_in_2021_count = Employee.query.filter(
 				Employee.age).count()
 print(hired_in_2021_count)
 ```
+
+----
+📂 [[Frameworks]]

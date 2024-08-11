@@ -19,3 +19,6 @@ class EndToEndTests(TestCase):
         response = self.client.get("/")
         assert response.status_code == HTTPStatus.OK
 ```
+
+----
+📂 [[HTTP]]

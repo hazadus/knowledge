@@ -62,3 +62,6 @@ sudo ufw allow 'Nginx HTTPS'
 ```Bash
 scp ./db.sqlite3 hazadus@85.193.89.177:~/projects/django-website/
 ```
+
+----
+📂 [[DevOps]]

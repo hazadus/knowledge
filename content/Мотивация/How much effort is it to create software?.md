@@ -34,3 +34,6 @@ The other is likely to solve the problem of a completely different specialty tha
 But for the software to perform accordingly, you need to develop a good understanding of the field it's going to be used in.
 
 This requires a crazy flexibility, capacity to learn, and stamina.
+
+----
+📂 [[Мотивация]]

@@ -32,3 +32,7 @@ Usage example: [flask-restx-learn](https://github.com/hazadus/flask-restx-learn/
 1. API docs are available at `http://127.0.0.1:5000/apidocs/`.
 
 ----
+
+
+----
+📂 [[Flask]]

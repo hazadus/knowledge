@@ -26,3 +26,6 @@ if __name__ == "__main__":
     register("wignorbo", "sjkadnkjasdnui31jkdwq")  
     hack()
 ```
+
+----
+📂 [[SQL]]

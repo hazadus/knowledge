@@ -87,3 +87,6 @@ cp PyCharm.desktop ~/.local/share/applications
 cp PyCharm.desktop ~/Desktop
 sudo update-desktop-database
 ```
+
+----
+📂 [[Linux]]

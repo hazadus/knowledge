@@ -57,3 +57,6 @@ docker inspect postgres-db-1 -f "{{json .NetworkSettings.Networks }}"
 # "IPAddress":"172.19.0.3",
 # "IPPrefixLen":16,"IPv6Gateway":"","GlobalIPv6Address":"","GlobalIPv6PrefixLen":0,"MacAddress":"02:42:ac:13:00:03","DriverOpts":null}}
 ```
+
+----
+📂 [[SQL]]

@@ -255,3 +255,6 @@ It takes a short while to set up the bot object, so you may want to cache it som
   
 
 Also, you should implement a way to receive messages from the user and forward them to someone that can interact with them.
+
+----
+📂 [[Django]]

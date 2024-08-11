@@ -306,3 +306,6 @@ git ls-files | xargs wc -l
 git ls-files | grep '\.js' | xargs wc -l
 ```
 [https://stackoverflow.com/questions/26881441/can-you-get-the-number-of-lines-of-code-from-a-github-repository](https://stackoverflow.com/questions/26881441/can-you-get-the-number-of-lines-of-code-from-a-github-repository)
+
+----
+📂 [[Tooling]]

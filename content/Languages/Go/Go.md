@@ -54,3 +54,6 @@ func main() {
 **NB:** by convention, semicolons are omitted in Go code, althought might be used.
 ## Packages
 Built-in Go packages: [Standard library - Go Packages](https://pkg.go.dev/std)
+
+----
+📂 [[Go]]

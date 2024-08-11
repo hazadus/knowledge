@@ -35,7 +35,7 @@ from app import Base
 target_metadata = Base.metadata
 ```
 
-Делаем инициализационную (первую) миграцию:
+Делаем первую миграцию. **Для создания миграции, должно быть возможно соединение с БД, указанной в настройках!**
 
 ```bash
 alembic revision --message="Init migration" --autogenerate
@@ -108,3 +108,6 @@ def downgrade() -> None:
     op.drop_column("profiles", "platform")
     # ### end Alembic commands ###
 ```
+
+----
+📂 [[Tooling]]

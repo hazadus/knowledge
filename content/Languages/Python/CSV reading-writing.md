@@ -23,3 +23,6 @@ with open(OUTPUT_CSV_FILE, 'w', newline='') as output_file:
 > [!info] medium-automation/word_count.py at master · hazadus/medium-automation  
 > This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below.  
 > [https://github.com/hazadus/medium-automation/blob/master/word_count.py](https://github.com/hazadus/medium-automation/blob/master/word_count.py)
+
+----
+📂 [[Python]]

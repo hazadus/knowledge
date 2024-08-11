@@ -43,3 +43,6 @@ F2 – Rename Variable
     "description": "Typescript React Function Component"
   },
 ```
+
+----
+📂 [[Tooling]]

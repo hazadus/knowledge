@@ -21,3 +21,7 @@ HTTP — это клиент-серверный протокол, то есть 
 ## Ссылки
 - https://developer.mozilla.org/ru/docs/Web/HTTP/Overview
 - [[Julia Evans - HTTP_ Learn your browser's language!-Julia Evans 1.pdf]]\
+
+
+----
+📂 [[HTTP]]

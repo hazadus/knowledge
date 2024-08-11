@@ -7,3 +7,6 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCldpOoimHbMVOc0OP5MIyRc+NGqVj5g6q/Fg2ERbz6
 ssh-keyscan host | ssh-keygen -lf -
 # credits: https://unix.stackexchange.com/questions/126908/get-ssh-server-key-fingerprint
 ```
+
+----
+📂 [[Linux]]
