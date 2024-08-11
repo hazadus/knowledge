@@ -4,7 +4,7 @@
 
 #book #python #c
 
-[[📌 План по чтению]] | [[Books About Concurrency In Python]]
+[[План по чтению]] | [[Books About Concurrency In Python]]
 
 http://library.hazadus.ru/books/46/details/
 [[Энтони Шоу - Внутри CPython (2023).pdf]]

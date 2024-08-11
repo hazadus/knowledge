@@ -64,11 +64,11 @@ title: Оглавление
 	- 📄 [[Командная строка Linux. Полное руководство]]<br>
 	- 📄 [[Eloquent JavaScript, 3rd edition]]<br>
 	- 📄 [[Programming Books]]<br>
+	- 📄 [[План по чтению]]<br>
 	- 📄 [[Чистый Agile. Основы гибкости]]<br>
 	- 📄 [[Теоретический минимум по Computer Science. Сети, криптография и data science]]<br>
 	- 📄 [[Zero To Production In Rust]]<br>
 	- 📄 [[Алгоритмы. Род Стивенс]]<br>
-	- 📄 [[📌 План по чтению]]<br>
 	- 📄 [[Books]]<br>
 	- 📄 [[Django 5 by Example]]<br>
 	- 📄 [[Django 3 Web Development Cookbook]]<br>
@@ -183,6 +183,10 @@ title: Оглавление
 	- 📂 [[Go]]<br>
 		- 📄 [[Go]]<br>
 		- 📄 [[План изучения языка Go]]<br>
+		- 📄 [[Go Proverbs]]<br>
+		- 📄 [[Многопоточность в Go]]<br>
+		- 📄 [[Почему Go?]]<br>
+		- 📄 [[Общие сведения о Go]]<br>
 	- 📂 [[Python]]<br>
 		- 📄 [[PEP 20 – The Zen of Python]]<br>
 		- 📄 [[Advanced Pythonic Stuff]]<br>

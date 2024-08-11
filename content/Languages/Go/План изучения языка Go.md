@@ -1,17 +1,23 @@
-## Основные материалы по Go
-#go | [[Go]]
+#go 
 
-Цель по Go: сравнить его с Питоном и понять для себя, в каком случае он предпочтителен.
+----
+## Цели
+
+**Цель по Go**: сравнить его с Питоном и понять для себя, в каком случае он предпочтителен.
 
 Для этого:
-- дочитать книгу Боднера
+- пройти бесплатный курс "Основы Go" от Яндекса
+- дочитать книгу [[Learning Go (Bodner)]]
 - сделать проект простого API (от начала и обязательно до деплоя).
-### Книги
-- Проработать [[Learning Go (Bodner)]]
+
+----
+## Книги
 - [[Matthew A. Titmus - Cloud Native Go_ Building Reliable Services in Unreliable Environments-O'Reilly Media (2021).pdf]]
-#### Рекомендации
+### Рекомендации
 - [[Katherine Cox-Buday - Concurrency in Go_ Tools and Techniques for Developers-O’Reilly Media (2017).pdf]]: рекомендует Боднер в конце главы 10.
-### Практика
+
+----
+## Практика
 - Выполнить [Rest API сервис на Go (Тузов)](https://youtu.be/rCJvW2xgnk0?si=hyIpCgBV-2mnqe_v)
 - Выполнить [Сервис авторизации на Go (Тузов)](https://youtu.be/EURjTg5fw-E?si=XOf8p3zJj6L95l78)
 

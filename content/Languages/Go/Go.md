@@ -1,10 +1,25 @@
-[[План изучения языка Go]]
+#Go 
 
+----
+## Оглавление
+
+- [[План изучения языка Go]]
+- Материалы книги [[Learning Go (Bodner)]]
+- [[Почему Go?]]
+- [[Общие сведения о Go]]
+	- [[Многопоточность в Go]]
+	- [[Go Proverbs]]
+
+----
 ## References
-[Effective Go - The Go Programming Language](https://go.dev/doc/effective_go)
-[CodeReviewComments · golang/go Wiki (github.com)](https://github.com/golang/go/wiki/CodeReviewComments)
-## Tools
-Download: [All releases - The Go Programming Language](https://go.dev/dl/)
+
+- [Официальный сайт](https://go.dev/)
+- [The Go Playground](https://go.dev/play/)
+- [Robert Griesemer. Go for C programmers](https://talks.golang.org/2012/goforc.slide#1)
+- [Effective Go - The Go Programming Language](https://go.dev/doc/effective_go)
+- [CodeReviewComments · golang/go Wiki (github.com)](https://github.com/golang/go/wiki/CodeReviewComments)
+
+----
 ### CLI
 ```Bash
 go version
@@ -25,19 +40,8 @@ go test
 # Detect problems:
 go vet
 ```
-### Linting
-```Bash
-# Install `revive` linter
-go install github.com/mgechev/revive@latest
-# Run it
-revive
-```
-In VSCode, open “Preferences → Extensions → Go → Extension Settings → Lint Tools”, and select “revive”.
-### Debugging
-Use “Run → Start debugging (F5)” in VS Code.
-### Formatting
-In VS Code, set “Go” as default formatter. Or, use `go fmt` from command line.
 ## Basic program structure
+
 ```Go
 // Each code file has to declare package to which its contents belong:
 package main
