@@ -18,8 +18,20 @@ ls -al /etc/letsencrypt/archive/hazadus.ru/
 # New files below with suffix "2":
 ```
 ![[attachments/Untitled 1 4.png|Untitled 1 4.png]]
+
 Update `default.prod.conf` with new filenames:
 ![[attachments/Untitled 2 4.png|Untitled 2 4.png]]
+
+## Обновить сертификат для конкретного домена
+
+Если на сервере установлены сертификаты для нескольких доменов:
+
+```bash
+# Получить инфо обо всех установленных сертификатах
+certbot certificates
+# Обновить сертификат для домена
+certbot renew --cert-name domain1.com
+```
 
 ----
 📂 [[Tooling]]
