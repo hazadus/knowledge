@@ -14,6 +14,7 @@ title: Оглавление
 ----
 
 ## Краткое оглавление
+- 📂 [[Reading]]<br>
 - 📂 [[Tooling]]<br>
 - 📂 [[Task Queue]]<br>
 - 📂 [[DevOps]]<br>
@@ -51,6 +52,28 @@ title: Оглавление
 
 
 ## Полное оглавление
+- 📂 [[Reading]]<br>
+	- 📄 [[Asyncio. Мэтью Фаулер]]<br>
+	- 📄 [[Fast API. Bill Lubanovic]]<br>
+	- 📄 [[Python. Разработка на основе тестирования]]<br>
+	- 📄 [[Books Read]]<br>
+	- 📄 [[Learning Go (Bodner)]]<br>
+	- 📄 [[Fluent Python]]<br>
+	- 📄 [[Django Styleguide]]<br>
+	- 📄 [[Speed Up Your Django Tests]]<br>
+	- 📄 [[Командная строка Linux. Полное руководство]]<br>
+	- 📄 [[Eloquent JavaScript, 3rd edition]]<br>
+	- 📄 [[Programming Books]]<br>
+	- 📄 [[Чистый Agile. Основы гибкости]]<br>
+	- 📄 [[Теоретический минимум по Computer Science. Сети, криптография и data science]]<br>
+	- 📄 [[Zero To Production In Rust]]<br>
+	- 📄 [[Алгоритмы. Род Стивенс]]<br>
+	- 📄 [[📌 План по чтению]]<br>
+	- 📄 [[Books]]<br>
+	- 📄 [[Django 5 by Example]]<br>
+	- 📄 [[Django 3 Web Development Cookbook]]<br>
+	- 📄 [[Building an Effective Dev Portfolio]]<br>
+	- 📄 [[Внутри CPYTHON. Энтони Шоу]]<br>
 - 📂 [[Tooling]]<br>
 	- 📄 [[Grafana Loki]]<br>
 	- 📄 [[pgAdmin]]<br>
