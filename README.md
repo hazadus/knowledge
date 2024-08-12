@@ -1,4 +1,4 @@
-# 🪴 База Знаний
+# 🪴 Сад Знаний
 
 🔗 [https://hazadus.github.io/knowledge/](https://hazadus.github.io/knowledge/)
 

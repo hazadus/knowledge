@@ -1,29 +1,3 @@
-## Разобраться
-
-Для отдельных вопросов делать небольшие проекты с решением отдельной задачи. Ссылки на репо, где какая задача решена.
-
-- [ ] Databases: PostgreSQL, async SQLAlchemy.
-	- `fastapi-recipes` 
-- [ ] Тестирование слоя данных с `pytest`, PostgreSQL, async SQLAlchemy.
-- [ ] Конфигурация в отдельном файле с использованием `BaseSettings`.
-- [ ] `mypy`
-- [ ] Logging
-- [ ] Authentication с защитой отдельных роутов.
-- [ ] Middleware ([video](https://youtu.be/1RLFSOwpf88?si=TA9YuHX3ykzGh7cY))
-- [ ] Migrations
-- [ ] Rate-Limit API Access
-- [ ] Deployment
-- [ ] CI/CD с тестами
-- [ ] Sentry
-- [ ] Prometheus
-- [ ] Graphana
-- [ ] Loki
-- [ ] [OpenTelemetry](https://opentelemetry.io): High-quality, ubiquitous, and portable telemetry to enable effective observability.
-- [ ] Caching
-- [ ] Using Jinja Templates
-- [ ] Cookies?
-- [x] FastAPI vs Flask vs Django
-
 ## FastAPI Facts
 - Announced in 2018 by Sebastián Ramírez.
 ## References
@@ -35,6 +9,24 @@
 - [“FastAPI Observability” page of Grafana Labs website](https://grafana.com/grafana/dashboards/16110-fastapi-observability/)
 - [OpenTelemetry FastAPI Instrumentation](https://opentelemetry-python-contrib.readthedocs.io/en/latest/instrumentation/fastapi/fastapi.html)
 - [Monitoring your FastAPI application with OpenTelemetry](https://signoz.io/blog/opentelemetry-fastapi/) tutorial
+
+## Интересные возможности
+### `response_description`
+![[telegram-cloud-photo-size-2-5316720748951362452-y.jpg]]
+
+### Share `Annotated` dependencies
+![[telegram-cloud-photo-size-2-5316720748951362463-y.jpg]]
+
+### Dependency hierarchy
+![[telegram-cloud-photo-size-2-5316720748951362464-y.jpg]]
+
+### Dependencies in path operation decorators
+
+![[telegram-cloud-photo-size-2-5316720748951362475-y.jpg]]
+
+### Global depenendencies
+
+![[telegram-cloud-photo-size-2-5316720748951362478-y.jpg]]
 
 
 
