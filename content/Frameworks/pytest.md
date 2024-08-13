@@ -14,13 +14,13 @@
 - [Developing and Testing an Asynchronous API with FastAPI and Pytest – TestDriven.io](https://testdriven.io/blog/fastapi-crud/)
 
 ## Examples
-- - [FastAPI Project Setup: The Ultimate Guide with Async Postgres, SQLModel, Pytest, & Docker](https://medium.com/@lawsontaylor/the-ultimate-fastapi-project-setup-fastapi-async-postgres-sqlmodel-pytest-and-docker-ed0c6afea11b)
+- [FastAPI Project Setup: The Ultimate Guide with Async Postgres, SQLModel, Pytest, & Docker](https://medium.com/@lawsontaylor/the-ultimate-fastapi-project-setup-fastapi-async-postgres-sqlmodel-pytest-and-docker-ed0c6afea11b)
 - [Async tests with FastAPI and Postgres](https://github.com/hazadus/fastapi-template/tree/main/backend/app/tests)
 
 ----
 ## Configuration
 
-Configure using `pyproject.toml`:
+Configure #pytest #testing using `pyproject.toml`:
 
 ```toml
 [tool.pytest.ini_options] # mandatory section name
