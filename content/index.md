@@ -15,7 +15,8 @@ title: Оглавление
 
 ## Актуальное
 
-- [[FastAPI]]
+- ⚡ [[FastAPI]]
+- 🧪 [[pytest]]
 - [[Go]]
 - 📚 [[План по чтению]]
 
@@ -82,6 +83,7 @@ title: Оглавление
 	- 📄 [[Django 3 Web Development Cookbook]]<br>
 	- 📄 [[Building an Effective Dev Portfolio]]<br>
 	- 📄 [[Внутри CPYTHON. Энтони Шоу]]<br>
+	- 📄 [[Пиши, сокращай]]<br>
 - 📂 [[Tooling]]<br>
 	- 📄 [[Grafana Loki]]<br>
 	- 📄 [[pgAdmin]]<br>
@@ -104,6 +106,7 @@ title: Оглавление
 	- 📄 [[Docker]]<br>
 	- 📄 [[Grafana]]<br>
 	- 📄 [[VSCode]]<br>
+	- 📄 [[awk]]<br>
 	- 📄 [[tmux]]<br>
 	- 📄 [[MongoDB]]<br>
 	- 📄 [[Online Web Dev Tools]]<br>
@@ -192,7 +195,9 @@ title: Оглавление
 		- 📄 [[Go]]<br>
 		- 📄 [[План изучения языка Go]]<br>
 		- 📄 [[Go Proverbs]]<br>
+		- 📄 [[Особенности языка Go]]<br>
 		- 📄 [[Многопоточность в Go]]<br>
+		- 📄 [[Настройка окружения]]<br>
 		- 📄 [[Почему Go?]]<br>
 		- 📄 [[Идеи проектов на Go]]<br>
 		- 📄 [[Общие сведения о Go]]<br>
