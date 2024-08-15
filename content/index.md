@@ -17,8 +17,9 @@ title: Оглавление
 
 - ⚡ [[FastAPI]]
 - 🧪 [[pytest]]
-- [[Go]]
+- ☁️ [[Практикум по облачной инженерии]]
 - 📚 [[План по чтению]]
+- [[Go]]
 
 ----
 
@@ -67,6 +68,8 @@ title: Оглавление
 	- 📄 [[Python. Разработка на основе тестирования]]<br>
 	- 📄 [[Books Read]]<br>
 	- 📄 [[Learning Go (Bodner)]]<br>
+	- 📄 [[XP Explained, 2nd ed]]<br>
+	- 📄 [[Как пасти котов]]<br>
 	- 📄 [[Fluent Python]]<br>
 	- 📄 [[Django Styleguide]]<br>
 	- 📄 [[Speed Up Your Django Tests]]<br>
@@ -247,10 +250,36 @@ title: Оглавление
 	- 📄 [[Подготовка к интервью]]<br>
 - 📂 [[YandexCloud]]<br>
 	- 📄 [[Yandex Cloud CLI]]<br>
+	- 📄 [[DataLens]]<br>
+	- 📄 [[Yandex Container Registry]]<br>
+	- 📄 [[Yandex Message Queue]]<br>
+	- 📄 [[Сети и подсети]]<br>
 	- 📄 [[Yandex Compute Cloud]]<br>
+	- 📄 [[Яндекс Мониторинг и алерты]]<br>
+	- 📄 [[Способы экономии]]<br>
+	- 📄 [[YDB]]<br>
+	- 📄 [[Иерархия ресурсов Облака]]<br>
+	- 📄 [[Управляемые базы данных]]<br>
+	- 📄 [[Yandex API Gateway]]<br>
+	- 📄 [[Контейнеризация]]<br>
+	- 📄 [[Cloud Functions]]<br>
 	- 📄 [[Yandex Cloud Function]]<br>
+	- 📄 [[Основная информация о виртуальных машинах]]<br>
+	- 📄 [[Оркестрация и Kubernetes]]<br>
+	- 📄 [[Clickhouse]]<br>
+	- 📄 [[Serverless]]<br>
+	- 📄 [[TLS-сертификаты]]<br>
+	- 📄 [[Лучшие практики обеспечения сетевой безопасности]]<br>
+	- 📄 [[Группы виртуальных машин]]<br>
 	- 📄 [[Lockbox]]<br>
 	- 📄 [[Yandex Object Storage]]<br>
+	- 📄 [[Принципы обеспечения сетевой безопасности]]<br>
+	- 📄 [[Балансировка нагрузки]]<br>
+	- 📄 [[Реляционные БД в облаке]]<br>
+	- 📄 [[Практикум по облачной инженерии]]<br>
+	- 📄 [[Основы безопасности в Облаке]]<br>
+	- 📄 [[Managed MongoDB]]<br>
+	- 📄 [[Object Storage (S3 compatible)]]<br>
 - 📂 [[Frameworks]]<br>
 	- 📄 [[SQLAlchemy]]<br>
 	- 📄 [[pytest]]<br>
