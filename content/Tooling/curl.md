@@ -8,6 +8,13 @@
 - Отправка POST-запроса с данными в теле запроса: `curl -d "data" <URL>`
 - Отправка POST-запроса с данными в теле запроса в формате JSON: `curl -H "Content-Type: application/json" -d '{"key": "value"}' <URL>`
 
+### Sending Curl Request with Bearer Token
+
+```bash
+curl https://reqbin.com/echo/get/json \
+  -H "Accept: application/json" \
+  -H "Authorization: Bearer {token}"
+```
 ### Запрос с cookie
 
 ```bash
@@ -29,4 +36,4 @@ curl -X 'POST' \
 
 
 ----
-📂 [[Tooling]] | Последнее изменение: 10.08.2024 09:46
+📂 [[Tooling]] | Последнее изменение: 19.08.2024 13:26
