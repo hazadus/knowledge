@@ -14,4 +14,4 @@ def add_characters_to_database(characters: list[Character]) -> None:
 ```
 
 ----
-📂 [[SQL]]
+📂 [[SQL]] | Последнее изменение: 30.01.2024 17:40

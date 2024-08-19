@@ -42,4 +42,4 @@ Yandex Cloud Functions в целом следует общей концепци�
 Практика – проверка доступности сайта: [https://practicum.yandex.ru/trainer/ycloud/lesson/8e77c32d-662a-4981-9fb6-87dd197db527/](https://practicum.yandex.ru/trainer/ycloud/lesson/8e77c32d-662a-4981-9fb6-87dd197db527/)
 
 ----
-📂 [[YandexCloud]]
+📂 [[YandexCloud]] | Последнее изменение: 15.08.2024 13:24

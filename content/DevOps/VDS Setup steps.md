@@ -64,4 +64,4 @@ scp ./db.sqlite3 hazadus@85.193.89.177:~/projects/django-website/
 ```
 
 ----
-📂 [[DevOps]]
+📂 [[DevOps]] | Последнее изменение: 04.05.2024 01:23

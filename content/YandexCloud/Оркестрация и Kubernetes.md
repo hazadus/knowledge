@@ -77,4 +77,4 @@ Cluster Autoscaler оценивает запросы подов и автома�
 Автомасштабирование в Yandex Managed Kubernetes [https://practicum.yandex.ru/trainer/ycloud/lesson/e8cadaf0-e0c4-4f19-a27a-99a58acc5a47/](https://practicum.yandex.ru/trainer/ycloud/lesson/e8cadaf0-e0c4-4f19-a27a-99a58acc5a47/)
 
 ----
-📂 [[YandexCloud]]
+📂 [[YandexCloud]] | Последнее изменение: 15.08.2024 13:21

@@ -35,4 +35,4 @@ Usage example: [flask-restx-learn](https://github.com/hazadus/flask-restx-learn/
 
 
 ----
-📂 [[Flask]]
+📂 [[Flask]] | Последнее изменение: 25.02.2024 14:36

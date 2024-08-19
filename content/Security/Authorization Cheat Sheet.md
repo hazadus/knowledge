@@ -22,4 +22,4 @@ Authorization is distinct from authentication which is the process of verifying 
 Additionally, authentication is not always required for accessing resources; an unauthenticated user may be authorized to access certain public resources, such as an image or login page, or even an entire web app.
 
 ----
-📂 [[Security]]
+📂 [[Security]] | Последнее изменение: 17.04.2024 19:27

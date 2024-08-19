@@ -11,4 +11,4 @@
 - This model doesn't work well in practice. Time and costs are generally set outside the project. That leaves quality as the only variable you can manipulate. ✅ **Lowering the quality of your work doesn't eliminate work, it just shifts it later so delays are not clearly your responsibility. You can create the illusion of progress this way, but you pay in reduced satisfaction and damaged relationships. Satisfaction comes from doing quality work.**
 
 ----
-📂 [[Reading]]
+📂 [[Reading]] | Последнее изменение: 15.08.2024 11:04

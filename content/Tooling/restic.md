@@ -23,4 +23,4 @@ restic -r s3:storage.yandexcloud.net/macbook-backup snapshots
 ```
 
 ----
-📂 [[Tooling]]
+📂 [[Tooling]] | Последнее изменение: 13.08.2024 17:00

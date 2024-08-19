@@ -59,4 +59,4 @@ docker inspect postgres-db-1 -f "{{json .NetworkSettings.Networks }}"
 ```
 
 ----
-📂 [[SQL]]
+📂 [[SQL]] | Последнее изменение: 07.02.2024 14:50

@@ -21,4 +21,4 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-c
 
 
 ----
-📂 [[DevOps]]
+📂 [[DevOps]] | Последнее изменение: 06.12.2023 14:45

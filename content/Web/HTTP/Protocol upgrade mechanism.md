@@ -28,4 +28,4 @@ Upgrade: websocket
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Protocol_upgrade_mechanism
 
 ----
-📂 [[HTTP]]
+📂 [[HTTP]] | Последнее изменение: 20.02.2024 16:33

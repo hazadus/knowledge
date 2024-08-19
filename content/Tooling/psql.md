@@ -42,4 +42,4 @@ WHERE name = 'work_mem' \gx
 - `\? variables` : Info about built-in variables.
 
 ----
-📂 [[Tooling]]
+📂 [[Tooling]] | Последнее изменение: 14.04.2024 14:28

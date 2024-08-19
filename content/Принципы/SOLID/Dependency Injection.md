@@ -5,4 +5,4 @@ Dependency injection aims to separate the concerns of constructing objects and u
 Dependency injection is often used to keep code in-line with the [[Dependency Inversion Principle (DIP)]].
 
 ----
-📂 [[SOLID]]
+📂 [[SOLID]] | Последнее изменение: 26.04.2024 09:42

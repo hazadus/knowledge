@@ -12,4 +12,4 @@ python manage.py inspectdb --settings "django_project.settings"
 
 
 ----
-📂 [[Django]]
+📂 [[Django]] | Последнее изменение: 23.06.2024 22:27

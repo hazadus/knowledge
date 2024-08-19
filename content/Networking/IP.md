@@ -14,4 +14,4 @@ Not every IP address in the IPv4 or IPv6 pool can be assigned to the machines an
 - https://www.ripe.net/about-us/press-centre/understanding-ip-addressing/
 
 ----
-📂 [[Networking]]
+📂 [[Networking]] | Последнее изменение: 21.02.2024 14:29

@@ -25,4 +25,4 @@ with open(OUTPUT_CSV_FILE, 'w', newline='') as output_file:
 > [https://github.com/hazadus/medium-automation/blob/master/word_count.py](https://github.com/hazadus/medium-automation/blob/master/word_count.py)
 
 ----
-📂 [[Python]]
+📂 [[Python]] | Последнее изменение: 07.02.2024 14:50

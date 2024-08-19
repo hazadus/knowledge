@@ -562,4 +562,4 @@ class method – with cls as first parameter
     ```
 
 ----
-📂 [[Python]]
+📂 [[Python]] | Последнее изменение: 07.02.2024 15:07

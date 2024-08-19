@@ -12,6 +12,10 @@
 
 Пригодится для своих сайтов. См. 5 projects to learn Go https://youtu.be/gXmznGEW9vo.
 
+### Хранение паролей
+
+Хранить пароли, выдавать в `stdout` по имени, например `go-lockbox ssh-hazadus.ru | pbcopy`.
+
 ### Building a Chat Application with WebSockets
 
 See [10 Project Ideas To Learn Golang In 2024](https://golang.withcodeexample.com/blog/golang-project-ideas/)
@@ -24,4 +28,4 @@ See [10 Project Ideas To Learn Golang In 2024](https://golang.withcodeexample.co
 
 
 ----
-📂 [[Go]]
+📂 [[Go]] | Последнее изменение: 19.08.2024 09:00

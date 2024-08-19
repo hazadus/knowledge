@@ -34,4 +34,4 @@ yc compute instance list
 
 
 ----
-📂 [[YandexCloud]]
+📂 [[YandexCloud]] | Последнее изменение: 24.07.2024 14:30

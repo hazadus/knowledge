@@ -7,4 +7,4 @@ uwsgi --http :9090 --wsgi-file foobar.py
 - https://uwsgi-docs.readthedocs.io/en/latest/WSGIquickstart.html#the-first-wsgi-application
 
 ----
-📂 [[Tooling]]
+📂 [[Tooling]] | Последнее изменение: 31.03.2024 13:15

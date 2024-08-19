@@ -30,4 +30,4 @@ A **cacheable** response is an HTTP response that can be cached, that is store
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
 
 ----
-📂 [[HTTP]]
+📂 [[HTTP]] | Последнее изменение: 20.02.2024 16:51

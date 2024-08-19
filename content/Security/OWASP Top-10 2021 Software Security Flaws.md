@@ -45,4 +45,4 @@ Some of the more common injections are SQL, NoSQL, OS command, Object Relational
 
 
 ----
-📂 [[Security]]
+📂 [[Security]] | Последнее изменение: 17.04.2024 19:34

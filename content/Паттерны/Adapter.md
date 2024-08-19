@@ -4,4 +4,4 @@
 Example: https://github.com/faif/python-patterns/blob/master/patterns/structural/adapter.py
 
 ----
-📂 [[Паттерны]]
+📂 [[Паттерны]] | Последнее изменение: 10.01.2024 17:13

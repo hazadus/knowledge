@@ -89,4 +89,4 @@ wget --directory-prefix=./uploads/pages -x --mirror --convert-links --adjust-ext
 ```
 
 ----
-📂 [[CLI - Shell]]
+📂 [[CLI - Shell]] | Последнее изменение: 09.08.2024 13:31

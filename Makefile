@@ -2,9 +2,9 @@ copy_content:
 	rm -rf ./content
 	mkdir ./content
 	mkdir ./content/Reading
-	cp -r "/Users/hazadus/Library/Mobile Documents/iCloud~md~obsidian/Documents/Hazadus Vault/Dev/" ./content/
-	cp -r "/Users/hazadus/Library/Mobile Documents/iCloud~md~obsidian/Documents/Hazadus Vault/Reading/" ./content/Reading/
-	cp -r "/Users/hazadus/Library/Mobile Documents/iCloud~md~obsidian/Documents/Hazadus Vault/attachments/" ./content/attachments
+	cp -rp "/Users/hazadus/Library/Mobile Documents/iCloud~md~obsidian/Documents/Hazadus Vault/Dev/" ./content/
+	cp -rp "/Users/hazadus/Library/Mobile Documents/iCloud~md~obsidian/Documents/Hazadus Vault/Reading/" ./content/Reading/
+	cp -rp "/Users/hazadus/Library/Mobile Documents/iCloud~md~obsidian/Documents/Hazadus Vault/attachments/" ./content/attachments
 	rm -rf ./content/attachments/*.pdf
 prepare:
 	make copy_content

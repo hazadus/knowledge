@@ -93,6 +93,7 @@ title: Оглавление
 	- 📄 [[pgAdmin]]<br>
 	- 📄 [[Prometheus]]<br>
 	- 📄 [[psql]]<br>
+	- 📄 [[vim]]<br>
 	- 📄 [[jq]]<br>
 	- 📄 [[Alembic]]<br>
 	- 📄 [[Nginx]]<br>

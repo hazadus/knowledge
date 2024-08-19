@@ -106,13 +106,13 @@ var isAwesome = true
 - On most 64-bit CPUs, ==`int`== is a 64-bit signed integer, just like an `int64`.
 - The third special name is `uint`. It follows the same rules as `int`, only it is unsigned.
 #### Floating point types
-- `float32` ==`float64`==
+- `float32` `float64`
 
 >[!important]
 >A floating point number cannot represent a decimal value exactly. Do not use them to represent money or any other value that must have an exact decimal representation!
 
 >[!important]
->While Go lets you use `==` and `!=` to compare floats, don’t do it. Due to the inexact nature of floats, two floating point values might not be equal when you think they should be. Instead, define a maximum allowed variance and see if the difference between two floats is less than that.
+>While Go lets you use ` == ` and `!=` to compare floats, don’t do it. Due to the inexact nature of floats, two floating point values might not be equal when you think they should be. Instead, define a maximum allowed variance and see if the difference between two floats is less than that.
 #### Complex types (you’re probably not going to use these)
 - `complex64` `complex128`
 #### Strings
@@ -159,7 +159,7 @@ x, y := 10, "hello"
 - true and false.
 - Strings.
 - Runes.
-- The built-in functions `complex`, `real`, `imag`, len`,` and `cap` .
+- The built-in functions `complex`, `real`, `imag`, `len`, and `cap` .
 - Expressions that consist of operators and the preceding values.
 
 >[!info]
@@ -186,7 +186,7 @@ fmt.Println(x[2])
 fmt.Println(len(x))
 ```
 
-You can use `==` and `!=` to compare arrays.
+You can use ` ==` and `!=` to compare arrays.
 
 Go considers the size of the array to be part of the type of the array. This makes an array that’s declared to be `[3]int` a different type from an array that’s declared to be `[4]int`. This also means that you cannot use a variable to specify the size of an array, because types must be resolved at compile time, not at runtime.
 ### Slices
@@ -206,7 +206,7 @@ var x [][]int
 var x []int  // = nil
 ```
 
-A slice is the first type we’ve seen that isn’t comparable. It is a compile-time error to use `==` to see if two slices are identical or `!=` to see if they are different. The only thing you can compare a slice with is `nil`.
+A slice is the first type we’ve seen that isn’t comparable. It is a compile-time error to use ` ==` to see if two slices are identical or `!=` to see if they are different. The only thing you can compare a slice with is `nil`.
 
 ```go
 len(x)
@@ -1171,4 +1171,4 @@ if err != nil {
 ```
 
 ----
-📂 [[Reading]]
+📂 [[Reading]] | Последнее изменение: 19.08.2024 08:56

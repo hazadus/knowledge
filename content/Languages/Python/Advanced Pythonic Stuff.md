@@ -73,4 +73,4 @@ asyncio.run(main())
 > [https://testdriven.io/courses/python-web-framework/wsgi/#H-5-middleware](https://testdriven.io/courses/python-web-framework/wsgi/#H-5-middleware)
 
 ----
-📂 [[Python]]
+📂 [[Python]] | Последнее изменение: 07.02.2024 15:09

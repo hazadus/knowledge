@@ -34,4 +34,4 @@ certbot renew --cert-name domain1.com
 ```
 
 ----
-📂 [[Tooling]]
+📂 [[Tooling]] | Последнее изменение: 11.08.2024 19:51

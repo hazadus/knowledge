@@ -37,4 +37,4 @@ select class from courses group by class having count(*) >= 5
 
 
 ----
-📂 [[SQL]]
+📂 [[SQL]] | Последнее изменение: 09.04.2024 16:43

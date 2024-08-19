@@ -123,4 +123,4 @@ yc serverless function version create \
 ```
 
 ----
-📂 [[YandexCloud]]
+📂 [[YandexCloud]] | Последнее изменение: 23.07.2024 20:29

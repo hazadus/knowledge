@@ -119,4 +119,4 @@ https://www.howtogeek.com/225487/what-is-the-difference-between-127.0.0.1-and-0.
 ![[Docker Setup]]
 
 ----
-📂 [[DevOps]]
+📂 [[DevOps]] | Последнее изменение: 06.12.2023 14:45

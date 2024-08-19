@@ -19,4 +19,4 @@ I’m going to assume here you decided you wanted to be more productive, coding-
 **Saying no, avoiding multitasking, protecting yourself from interruptions, using good tooling, and surrounding yourself with the right people are likely to yield as much, if not more productivity, than grinding**.
 
 ----
-📂 [[Мотивация]]
+📂 [[Мотивация]] | Последнее изменение: 30.06.2024 21:32

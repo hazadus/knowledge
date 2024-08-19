@@ -16,4 +16,4 @@
 - [So Many Layers! A Note of Caution.](https://www.cosmicpython.com/blog/2020-08-13-so-many-layers.html) by Harry Percival
 
 ----
-📂 [[Django]]
+📂 [[Django]] | Последнее изменение: 12.07.2024 18:20

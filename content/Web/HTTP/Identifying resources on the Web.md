@@ -47,4 +47,4 @@ Path to the resource on the Web server. May or may not represent physical file l
 `#SomewhereInTheDocument` is an anchor to another part of the resource itself. An anchor represents a sort of "bookmark" inside the resource, giving the browser the directions to show the content located at that "bookmarked" spot.
 
 ----
-📂 [[HTTP]]
+📂 [[HTTP]] | Последнее изменение: 20.02.2024 12:26

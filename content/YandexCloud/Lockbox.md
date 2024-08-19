@@ -20,4 +20,4 @@ yc lockbox secret get --name bot-secrets
 
 
 ----
-📂 [[YandexCloud]]
+📂 [[YandexCloud]] | Последнее изменение: 23.07.2024 20:13

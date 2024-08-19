@@ -187,4 +187,4 @@ class EncoderFactory(EncoderFactoryInterface):
 
 
 ----
-📂 [[SOLID]]
+📂 [[SOLID]] | Последнее изменение: 26.04.2024 09:53

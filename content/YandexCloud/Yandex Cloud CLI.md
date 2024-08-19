@@ -77,4 +77,4 @@ yc compute instance restart --help
 
 
 ----
-📂 [[YandexCloud]]
+📂 [[YandexCloud]] | Последнее изменение: 15.08.2024 11:53

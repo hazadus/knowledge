@@ -660,4 +660,4 @@ sync -arv --exclude=.venv --exclude=.git --exclude=__pycache__ root@85.193.89.17
 ```
 
 ----
-📂 [[Django]]
+📂 [[Django]] | Последнее изменение: 07.02.2024 15:04

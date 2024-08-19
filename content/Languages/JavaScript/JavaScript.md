@@ -382,4 +382,4 @@ CSS Styling: [https://svelte.dev/tutorial/deferred-transitions](https://svelte.d
 > [https://developer.mozilla.org/en-US/docs/Web/API/Media_Session_API](https://developer.mozilla.org/en-US/docs/Web/API/Media_Session_API)
 
 ----
-📂 [[JavaScript]]
+📂 [[JavaScript]] | Последнее изменение: 07.02.2024 15:09

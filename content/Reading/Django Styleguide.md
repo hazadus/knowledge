@@ -2793,4 +2793,4 @@ The way we do Django is inspired by the following things:
 - Rails service objects
 
 ----
-📂 [[Reading]]
+📂 [[Reading]] | Последнее изменение: 07.02.2024 15:05

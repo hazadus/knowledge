@@ -78,4 +78,4 @@ Opacity регулирует прозрачность всего блока, в�
 > [https://fffuel.co/css-selectors/](https://fffuel.co/css-selectors/)
 
 ----
-📂 [[Languages]]
+📂 [[Languages]] | Последнее изменение: 07.02.2024 15:10

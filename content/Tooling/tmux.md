@@ -41,4 +41,4 @@ https://github.com/gpakosz/.tmux
 > [https://www.youtube.com/watch?v=LkFtvMzMwjw&list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O&index=10](https://www.youtube.com/watch?v=LkFtvMzMwjw&list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O&index=10)
 
 ----
-📂 [[Tooling]]
+📂 [[Tooling]] | Последнее изменение: 07.02.2024 20:16

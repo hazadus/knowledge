@@ -79,4 +79,4 @@ Link: [https://vuejs.org/guide/essentials/list.html#v-for-with-a-component](http
 https://github.com/SortableJS/vue.draggable.next
 
 ----
-📂 [[JavaScript]]
+📂 [[JavaScript]] | Последнее изменение: 07.02.2024 14:50

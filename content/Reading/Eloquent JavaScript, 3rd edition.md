@@ -67,4 +67,4 @@ let numbers = [5, 1, 7]; console.log(max(...numbers));
 This “spreads” out the array into the function call, passing its elements as separate arguments. It is possible to include an array like that along with other arguments, as in `max(9, ...numbers, 2)`.
 
 ----
-📂 [[Reading]]
+📂 [[Reading]] | Последнее изменение: 06.12.2023 15:33

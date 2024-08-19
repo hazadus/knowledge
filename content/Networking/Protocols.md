@@ -124,4 +124,4 @@ And if we look at the OSI model, we can see some of the protocols that exist at 
 - https://beej.us/guide/bgnet0/html/split/the-layered-network-model.html
 
 ----
-📂 [[Networking]]
+📂 [[Networking]] | Последнее изменение: 21.02.2024 14:32

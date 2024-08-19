@@ -18,4 +18,4 @@ while (current := input("Write something: ")) != "quit":
 > [https://realpython.com/python-ellipsis/](https://realpython.com/python-ellipsis/)
 
 ----
-📂 [[Python]]
+📂 [[Python]] | Последнее изменение: 07.02.2024 15:09
