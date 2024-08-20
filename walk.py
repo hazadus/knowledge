@@ -8,6 +8,14 @@ import os
 
 CONTENT_PATH = "./content"
 
+class Note:
+    def __init__(self, title: str, updated_at: datetime.datetime) -> None:
+        self.title = title
+        self.updated_at = updated_at
+    
+    def __repr__(self) -> str:
+        return f"{self.title}, {self.updated_at}"
+
 
 def get_file_times(path: str) -> tuple[datetime.datetime, datetime.datetime]:
     """Возвращает tuple из времени создания и времени изменения файла.
@@ -34,6 +42,7 @@ exclude_folders = [
 
 toc_dirs = ""
 toc_full = ""
+notes: list[Note] = []
 
 # traverse root directory, and list directories as dirs and files as files
 for root, dirs, files in os.walk(CONTENT_PATH):
@@ -52,13 +61,21 @@ for root, dirs, files in os.walk(CONTENT_PATH):
 
     for file in files:
         if file.endswith("md"):
-            toc_full += file_tabs * "\t" + f"- 📄 [[{file[:-3]}]]<br>\n"
+            title = file[:-3]
+            toc_full += file_tabs * "\t" + f"- 📄 [[{title}]]<br>\n"
 
             # Добавим ссылку на директорию в конце каждой заметки
             full_path = os.path.join(root, file)
             dt_c, dt_m = get_file_times(full_path)
+            notes.append(Note(title=title, updated_at=dt_m))
             with open(full_path, "a") as note:
                 note.write(f"\n\n----\n📂 [[{folder}]] | Последнее изменение: {dt_m.strftime(format="%d.%m.%Y %H:%M")}")
+
+# Получить список 10 последних обновленных заметок
+notes.sort(key=lambda x: x.updated_at, reverse=True)
+last_updated_notes = ""
+for note in notes[:10]:
+    last_updated_notes += f"- [[{note.title}]]\n"
 
 index_md = f"""
 ---
@@ -82,6 +99,10 @@ title: Оглавление
 - ☁️ [[Практикум по облачной инженерии]]
 - 📚 [[План по чтению]]
 - [[Go]]
+
+### Недавно обновлённые заметки
+
+{last_updated_notes}
 
 ----
 

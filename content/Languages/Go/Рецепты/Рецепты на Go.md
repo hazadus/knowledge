@@ -158,6 +158,101 @@ func main() {
 ...
 
 ----
+## Работа с JSON
+### Marshal `struct` to JSON
+
+```go
+type Person struct {
+    Name        string    `json:"Имя"`
+    Email       string    `json:"Почта"`
+    DateOfBirth time.Time `json:"-"` // - означает, что это поле не будет сериализовано
+}
+
+func main() {
+    man := Person{
+        Name:        "Alex",
+        Email:       "alex@yandex.ru",
+        DateOfBirth: time.Now(),
+    }
+    jsMan, err := json.Marshal(man)
+    if err != nil {
+        log.Fatalln("unable marshal to json")
+    }
+    fmt.Printf("Man %v", string(jsMan)) // Man {"Имя":"Alex","Почта":"alex@yandex.ru"}
+}
+```
+
+### Unmarshal JSON string to `struct`
+
+```go
+package main
+
+import (
+    "encoding/json"
+    "fmt"
+)
+
+const rawResp = `
+{
+    "header": {
+        "code": 0,
+        "message": ""
+    },
+    "data": [{
+        "type": "user",
+        "id": 100,
+        "attributes": {
+            "email": "bob@yandex.ru",
+            "article_ids": [10, 11, 12]
+        }
+    }]
+}
+`
+
+type (
+    Response struct {
+        Header ResponseHeader `json:"header"`
+        Data   ResponseData   `json:"data,omitempty"`
+    }
+
+    ResponseHeader struct {
+        Code    int    `json:"code"`
+        Message string `json:"message,omitempty"`
+    }
+
+    ResponseData []ResponseDataItem
+
+    ResponseDataItem struct {
+        Type       string                `json:"type"`
+        Id         int                   `json:"id"`
+        Attributes ResponseDataItemAttrs `json:"attributes"`
+    }
+
+    ResponseDataItemAttrs struct {
+        Email      string `json:"email"`
+        ArticleIds []int  `json:"article_ids"`
+    }
+)
+
+func ReadResponse(rawResp string) (Response, error) {
+    resp := Response{}
+    if err := json.Unmarshal([]byte(rawResp), &resp); err != nil {
+        return Response{}, fmt.Errorf("JSON unmarshal: %w", err)
+    }
+
+    return resp, nil
+}
+
+func main() {
+    resp, err := ReadResponse(rawResp)
+    if err != nil {
+        panic(err)
+    }
+    fmt.Printf("%+v\n", resp)
+}
+```
+
+----
 ## CI/CD pipeline
 
 ```yaml
@@ -200,4 +295,4 @@ jobs:
 
 
 ----
-📂 [[Рецепты]] | Последнее изменение: 18.08.2024 09:29
+📂 [[Рецепты]] | Последнее изменение: 19.08.2024 22:50
