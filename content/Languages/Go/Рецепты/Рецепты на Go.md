@@ -24,6 +24,15 @@ go test
 go vet
 ```
 
+### Сборка для конкретной ОС
+
+Список поддерживаемых ОС: https://go.dev/src/go/build/syslist.go
+
+```bash
+# Указать целевую систему в переменной окружения и выполнить сборку:
+GOOS=windows go build
+```
+
 ----
 ## Basic program structure
 
@@ -151,6 +160,66 @@ func main() {
 ### Чтение переменных окружения
 
 ...
+
+### Рекурсивный обход всех файлов и директорий
+
+```go
+package main
+
+import (
+    "fmt"
+    "os"
+    "path/filepath"
+)
+
+func main() {
+    PrintAllFiles(".")
+}
+
+func PrintAllFiles(path string) {
+    // получаем список всех элементов в папке (и файлов, и директорий)
+    files, err := os.ReadDir(path)
+    if err != nil {
+        fmt.Println("unable to get list of files", err)
+        return
+    }
+    //  проходим по списку
+    for _, f := range files {
+        // получаем имя элемента
+        // filepath.Join — функция, которая собирает путь к элементу с разделителями
+        filename := filepath.Join(path, f.Name())
+        // печатаем имя элемента
+        fmt.Println(filename)
+        // если элемент — директория, то вызываем для него рекурсивно ту же функцию
+        if f.IsDir() {
+            PrintAllFiles(filename)
+        }
+    }
+} 
+```
+
+## Замыкания (closures)
+
+### Итератор на замыканиях
+
+```go
+func Generate(seed int) func() {
+    return func() {
+        fmt.Println(seed) // замыкание получает внешнюю переменную seed
+        seed += 2 // переменная модифицируется
+    }
+    
+}
+
+func main() {
+    iterator := Generate(0)
+    iterator()
+    iterator()
+    iterator()
+    iterator()
+    iterator()
+} 
+```
 
 ----
 ## Работа с файлами
@@ -293,6 +362,78 @@ jobs:
         # Add deployment script here        
 ```
 
+----
+## Алгоритмы
+
+Примеры реализации популярных алгоритмов на Go.
+
+### Quicksort
+
+Пример мой, возможно – не лучший.
+
+```go
+// Quicksort algorithm demo
+package main
+
+import "fmt"
+
+// SortNumbers ...
+// Sort `numbers` using quicksort algorithm
+func SortNumbers(numbers []int) []int {
+	if numbers == nil {
+		return []int{}
+	}
+
+	if len(numbers) < 2 {
+		return numbers
+	}
+
+	pivot := numbers[0]
+	var less []int
+	var more []int
+
+	for _, i := range numbers[1:] {
+		if i <= pivot {
+			less = append(less, i)
+		} else {
+			more = append(more, i)
+		}
+	}
+
+	return append(append(SortNumbers(less), pivot), SortNumbers(more)...)
+}
+
+func main() {
+	array := []int{99, 88, 77, 66, 55, 44, 33, 22, 11}
+	fmt.Println(SortNumbers(array))
+}
+```
+
+### Пример рекурсивного вычисления `n!`, факториала числа
+
+```go
+func fact(n int) int {
+    if n == 0 {    // терминальная ветка — то есть условие выхода из рекурсии
+        return 1
+    } else {    // рекурсивная ветка 
+        return n * fact(n-1)
+    }
+} 
+```
+
+### Числа Фибоначчи
+
+```go
+func Fib(n int) int {
+    switch {
+    case n <= 1:    // терминальная ветка 
+        return n
+    default:        // рекурсивная ветка
+        return Fib(n-1) + Fib(n-2)
+    }
+} 
+```
+
 
 ----
-📂 [[Рецепты]] | Последнее изменение: 19.08.2024 22:50
+📂 [[Рецепты]] | Последнее изменение: 21.08.2024 07:42
