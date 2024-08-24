@@ -23,6 +23,8 @@ No matter your level of experience, you'll learn how to think like a Go develope
 ----
 ## Go Features
 
+^71b7b5
+
 - There's no inheritance, ~~no generics~~, no aspect-oriented programming, no function overloading, no operator overloading. No pattern matching, no named parameters, no exceptions.
 - No built-in map, filter, reduce functions.
 - In Go single quotes and double quotes are *not* interchangeable.
@@ -1171,4 +1173,4 @@ if err != nil {
 ```
 
 ----
-📂 [[Reading]] | Последнее изменение: 19.08.2024 08:56
+📂 [[Reading]] | Последнее изменение: 24.08.2024 10:51
