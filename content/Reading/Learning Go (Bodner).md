@@ -23,8 +23,6 @@ No matter your level of experience, you'll learn how to think like a Go develope
 ----
 ## Go Features
 
-^71b7b5
-
 - There's no inheritance, ~~no generics~~, no aspect-oriented programming, no function overloading, no operator overloading. No pattern matching, no named parameters, no exceptions.
 - No built-in map, filter, reduce functions.
 - In Go single quotes and double quotes are *not* interchangeable.
@@ -42,11 +40,13 @@ No matter your level of experience, you'll learn how to think like a Go develope
 - The `select` statement is the other thing that sets apart Go’s concurrency model.
 
 ## Go Facts
+
 - Created in 2009.
 - Docker, Kubernetes, Prometheus are written in Go.
 - Just 25 keywords and 1 loop type (35 keywords in Python).
 - Fun fact: UTF-8 was invented in 1992 by Ken Thompson and Rob Pike, two of the creators of Go.
 ## References
+
 - Плейлист [Ботаним «Go: идиомы и паттерны проектирования», Джон Боднер](https://www.youtube.com/watch?v=YxV58FrR5ZY&list=PLAk6CfuV7hyoOF7rHcHsGg3Sv-ex7Bg10)
 - https://gobyexample.com/
 ----
@@ -114,7 +114,7 @@ var isAwesome = true
 >A floating point number cannot represent a decimal value exactly. Do not use them to represent money or any other value that must have an exact decimal representation!
 
 >[!important]
->While Go lets you use ` == ` and `!=` to compare floats, don’t do it. Due to the inexact nature of floats, two floating point values might not be equal when you think they should be. Instead, define a maximum allowed variance and see if the difference between two floats is less than that.
+>While Go lets you use ` == ` and `!= ` to compare floats, don’t do it. Due to the inexact nature of floats, two floating point values might not be equal when you think they should be. Instead, define a maximum allowed variance and see if the difference between two floats is less than that.
 #### Complex types (you’re probably not going to use these)
 - `complex64` `complex128`
 #### Strings
@@ -132,7 +132,7 @@ var z float64 = float64(x) + y
 var d int = x + int(y)
 ```
 Since all type conversions in Go are explicit, you cannot treat another Go type as a boolean.
-If you want to convert from another data type to boolean, you must use one of the comparison operators (`==`, !=, >, <, <=, or >=). For example, to check if variable x is equal to 0, the code would be `x == 0`. If you want to check if string s is empty, use `s == ""`.
+If you want to convert from another data type to boolean, you must use one of the comparison operators (` == `, !=, >, <, <=, or >=). For example, to check if variable x is equal to 0, the code would be `x == 0`. If you want to check if string s is empty, use `s == ""`.
 ### Variable Declaration
 ```go
 var x int = 10
@@ -286,7 +286,7 @@ Maps are like slices in several ways:
 - If you know how many key-value pairs you plan to insert into a map, you can use `make` to create a map with a specific initial size.
 - Passing a map to the `len` function tells you the number of key-value pairs in a map.
 - The zero value for a map is `nil`.
-- Maps are not comparable. You can check if they are equal to `nil`, but you cannot check if two maps have identical keys and values using `==` or differ using `!=`.
+- Maps are not comparable. You can check if they are equal to `nil`, but you cannot check if two maps have identical keys and values using ` == ` or differ using `!=`.
 
 >[!note]
 >You can use the `++` operator to increment the numeric value for a map key. Because a map returns its zero value by default, this works even when there’s no existing value associated with the key.
@@ -773,6 +773,7 @@ In the Go code, there is an interface, but only the caller (`Client`) knows abou
 >Interfaces specify what callers need. The client code defines the interface to specify what functionality it requires.
 
 ### Embedding and Interfaces
+
 ```go
 type Reader interface {  
 	Read(p []byte) (n int, err error)
@@ -788,6 +789,7 @@ type ReadCloser interface {
 }
 ```
 ### The Empty Interface Says Nothing
+
 Sometimes in a statically typed language, you need a way to say that a variable could store a value of any type. Go uses `interface{}` to represent this:
 ```go
 var i interface{} i = 20  
@@ -817,6 +819,7 @@ json.Unmarshal(contents, &data)
 ----
 ## Chapter 8. Errors
 ### How to Handle Errors: The Basics
+
 >[!info]
 >Go handles errors by returning a value of type error as the last return value for a function. This is entirely ==by convention, but it is such a strong convention that it should never be breached==. When a function executes as expected, `nil` is returned for the error parameter. If something goes wrong, an error value is returned instead. The calling function then checks the error return value by comparing it to nil, handling the error, or returning an error of its own.
 >
@@ -863,6 +866,7 @@ func doubleEven(i int) (int, error) {
 }
 ```
 ### Wrapping Errors
+
 When you preserve an error while adding additional information, it is called *wrapping* the error. When you have a series of wrapped errors, it is called an *error chain*.
 
 There’s a function in the Go standard library that wraps errors, and we’ve already seen it. The `fmt.Errorf` function has a special verb, `%w`. Use this to create an error whose formatted string includes the formatted string of another error and which contains the original error as well. The convention is to write: `%w` at the end of the error format string and make the error to be wrapped the last parameter passed to `fmt.Errorf`.
@@ -890,6 +894,7 @@ func main() {
 }
 ```
 ### Wrapping Errors with `defer`
+
 ```go
 func DoSomeThings(val1 int, val2 string) (_ string, err error) {
 	defer func() {
@@ -913,6 +918,7 @@ func DoSomeThings(val1 int, val2 string) (_ string, err error) {
 ```
 This pattern works well when you are wrapping every error with the same message. If you want to customize the wrapping error to provide more context about what caused the error, then put both the specific and the general message in every `fmt.Errorf`.
 ### panic and recover
+
 Go generates a panic whenever there is a situation where the Go runtime is unable to figure out what should happen next. This could be due to a programming error (like an attempt to read past the end of a slice) or environmental problem (like running out of memory). As soon as a panic happens, the current function exits immediately and any defers attached to the current function start running. When those defers complete, the defers attached to the calling function run, and so on, until main is reached. The program then exits with a message and a stack trace.
 
 ```go
@@ -950,6 +956,7 @@ func main() {
 
 ----
 ## Chapter 9. Modules, Packages, and Imports
+
 Before we can use code from packages outside of the standard library, we need to make sure that we have declared that our project is a module. Every module has a globally unique identifier. This is not unique to Go.
 
 ### `go.mod`
@@ -958,6 +965,7 @@ go mod init github.com/hazadus/go-hello/bodner/ch9/package_example
 ```
 
 ### Imports and Exports
+
 Go’s `import` statement allows you to access exported constants, variables, functions, and types in another package. A package’s exported identifiers (an *identifier* is the name of a variable, constant, type, function, method, or a field in a struct) cannot be accessed from another current package without an `import` statement.
 
 Rather than use a special keyword, Go uses *capitalization* to determine if a package-level identifier is visible outside of the package where it is declared. ==An identifier whose name starts with an uppercase letter is *exported*==. Conversely, an identifier whose name starts with a lowercase letter or underscore can only be accessed from within the package where it is declared.
@@ -970,6 +978,7 @@ You must specify an *import path* when importing from anywhere besides the stand
 [Example on how to create packages](https://github.com/hazadus/go-hello/tree/main/bodner/ch9/package-example) in Go program.
 
 ### Naming Packages
+
 It’s better to create one function called `Names` in a package called `extract` and a second function called `Names` in a package called `format`. It’s OK for these two functions to have the same name, because they will always be disambiguated by their package names. The first will be referred to as `extract.Names` when imported, and the second will be referred to as `format.Names`.
 
 ### Overriding a Package’s Name
@@ -984,6 +993,7 @@ import (
 The package name `.` places all the exported identifiers in the imported package into the current package’s namespace; you don’t need a prefix to refer to them. ==This is discouraged because it makes your source code less clear== as you no longer know whether something is defined in the current package or an imported one by simply looking at its name.
 
 ### Package Comments and godoc
+
 Go has its own format for writing comments that are automatically converted into documentation. It’s called *godoc* format and it’s very simple. There are no special symbols in a godoc comment. They just follow a convention. Here are the rules:
 - Place the comment directly before the item being documented with no blank lines between the comment and the declaration of the item.
 - Start the comment with two forward slashes (`//`) followed by the name of the item.  
@@ -993,8 +1003,10 @@ Go has its own format for writing comments that are automatically converted into
 Go includes a command-line tool called go doc that views godocs. The command `go doc PACKAGE_NAME` displays the package godocs for the specified package and a list of the identifiers in the package. Use `go doc PACKAGE_NAME.IDENTIFIER_NAME` to display the documentation for a specific identifier in the package.
 
 ### The `internal` Package
+
 See [example from the book](https://github.com/learning-go-book/internal_example/blob/master/foo/foo.go).
 ### Circular Dependencies
+
 Go does not allow you to have a circular dependency between packages.
 
 If two packages depend on each other, there’s a good chance they should be merged into a single package.
@@ -1030,6 +1042,7 @@ func runThingConcurrently(in <-chan int, out chan<- int){
 ```
 
 ### Channels
+
 Channels are one of the two things that set apart Go’s concurrency model.
 
 Goroutines communicate using *channels*. Like slices and maps, channels are a built-in type created using the `make` function:
@@ -1065,6 +1078,7 @@ If `ok` is set to `true`, then the channel is open. If it is set to `false`, the
 The responsibility for closing a channel lies with the goroutine that writes to the channel. Be aware that closing a channel is only required if there is a goroutine waiting for the channel to close (such as one using a `for`-`range` loop to read from the channel). Since a channel is just another variable, Go’s runtime can detect channels that are no longer used and garbage collect them.
 
 ### `select`
+
 The `select` statement is the other thing that sets apart Go’s concurrency model. It is the control structure for concurrency in Go, and it elegantly solves a common problem: if you can perform two concurrent operations, which one do you do first? You can’t favor one operation over others, or you’ll never process some cases.
 
 ```go
@@ -1103,9 +1117,11 @@ default:
 
 ### Concurrency Practices and Patterns
 #### Keep Your APIs Concurrency-Free
+
 Concurrency is an implementation detail, and good API design should hide implementation details as much as possible. This allows you to change how your code works without changing how your code is invoked.
 
 #### Goroutines, for Loops, and Varying Variables
+
 Any time your goroutine uses a variable whose value might change, pass the current value of the variable into the goroutine.
 ```go
 for _, v := range a {
@@ -1115,11 +1131,13 @@ for _, v := range a {
 }
 ```
 #### Always Clean Up Your Goroutines
+
 Whenever you launch a goroutine function, you must make sure that it will eventually exit. Unlike variables, the Go runtime can’t detect that a goroutine will never be used again. If a goroutine doesn’t exit, the scheduler will still periodically give it time to do nothing, which slows down your program.
 
 ----
 ## Chapter 11. The Standard Library
 ### `time`
+
 Reference: https://pkg.go.dev/time
 
 There are two main types used to represent time, `time.Duration` and `time.Time`.
@@ -1139,8 +1157,10 @@ fmt.Println(t.Format("January 2, 2006 at 3:04:05PM MST"))
 // March 13, 2016 at 12:00:00AM UTC
 ```
 ### `encoding/json`
+
 Go’s standard library includes support for converting Go data types to and from JSON. The word ==*marshaling*== means converting from a Go data type to an encoding, and ==*unmarshaling*== means converting to a Go data type.
 #### Use Struct Tags to Add Metadata
+
 Let’s say that we have to read and write the following JSON:
 ```json
 {        
@@ -1164,6 +1184,7 @@ type Item struct {
 }
 ```
 #### Unmarshaling and Marshaling
+
 ```go
 var o Order  
 err := json.Unmarshal([]byte(data), &o)
@@ -1173,4 +1194,4 @@ if err != nil {
 ```
 
 ----
-📂 [[Reading]] | Последнее изменение: 24.08.2024 10:51
+📂 [[Reading]] | Последнее изменение: 25.08.2024 11:23

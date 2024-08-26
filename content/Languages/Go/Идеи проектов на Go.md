@@ -2,8 +2,8 @@
 
 - [10 Project Ideas To Learn Golang In 2024](https://golang.withcodeexample.com/blog/golang-project-ideas/)
 - 5 projects to learn Go https://youtu.be/gXmznGEW9vo
-- Выполнить [Rest API сервис на Go (Тузов)](https://youtu.be/rCJvW2xgnk0?si=hyIpCgBV-2mnqe_v)
-- Выполнить [Сервис авторизации на Go (Тузов)](https://youtu.be/EURjTg5fw-E?si=XOf8p3zJj6L95l78)
+- Выполнить [Rest API сервис на Go (Тузов)](https://youtu.be/rCJvW2xgnk0?si=hyIpCgBV-2mnqe_v) (скачано)
+- Выполнить [Сервис авторизации на Go (Тузов)](https://youtu.be/EURjTg5fw-E?si=XOf8p3zJj6L95l78) (скачано)
 - [BugBytes Go Programming Playlist](https://www.youtube.com/playlist?list=PL-2EBeDYMIbR1ag15E2MonJOj_cCIjUnd)
 
 ----
@@ -45,4 +45,4 @@ See [10 Project Ideas To Learn Golang In 2024](https://golang.withcodeexample.co
 
 
 ----
-📂 [[Go]] | Последнее изменение: 23.08.2024 11:28
+📂 [[Go]] | Последнее изменение: 25.08.2024 21:43
