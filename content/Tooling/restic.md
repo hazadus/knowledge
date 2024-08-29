@@ -20,7 +20,13 @@ restic -r s3:storage.yandexcloud.net/macbook-backup --verbose backup ~/Projects 
 
 # List snapshots
 restic -r s3:storage.yandexcloud.net/macbook-backup snapshots
+
+# List files in directory of snapshot
+restic ls a71becf5:/Users/hazadus/Projects/ -r s3:storage.yandexcloud.net/macbook-backup
+
+# Restore specific directory in target location
+restic -r s3:storage.yandexcloud.net/macbook-backup restore a71becf5:/Users/hazadus/Projects/HelloWorld --target /tmp/restore-work/HelloWorld
 ```
 
 ----
-📂 [[Tooling]] | Последнее изменение: 13.08.2024 17:00
+📂 [[Tooling]] | Последнее изменение: 28.08.2024 08:01
