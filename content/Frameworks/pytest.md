@@ -43,6 +43,7 @@ pythonpath = [ # what to add to the python path
 - `--sw`_: start from where it stopped the previous run._
 - `--no-header` _/_ `--no-summary`_: remove the big blobs of texts in the output._
 - `--verbosity=x`_: from 0 to 3 levels of output granularity._
+- `-m`: прогнать только тесты с определенной меткой, которая устанавливается декоратором `@pytest.mark.new`, где `new` - имя метки.
 
 ----
-📂 [[Frameworks]] | Последнее изменение: 13.08.2024 09:35
+📂 [[Frameworks]] | Последнее изменение: 31.08.2024 11:12

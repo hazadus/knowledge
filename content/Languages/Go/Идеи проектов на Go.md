@@ -42,10 +42,11 @@ Web Scraping tutorial https://youtu.be/NU4OlJVj1gs?si=CYnHox_NKWI-kmk0
 Простейшая оболочка командной строки. См. *The Power of Go – Tools* для референса.
 
 ----
-### REST API
+### REST API с JWT Auth
 
 - PostgreSQL
 - Deploy
+- [[Implementing JWT Authentication in Golang REST API - Detailed Guide - codewithmukesh]]
 
 ----
 ### Key-Value Storage
@@ -92,5 +93,12 @@ See [10 Project Ideas To Learn Golang In 2024](https://golang.withcodeexample.co
 
 ...
 
+---
+### SSE
+
+Попробовать реализовать [[How to Implement Server-Sent Events in Go]].
+
+
+
 ----
-📂 [[Go]] | Последнее изменение: 29.08.2024 10:10
+📂 [[Go]] | Последнее изменение: 29.08.2024 15:17
