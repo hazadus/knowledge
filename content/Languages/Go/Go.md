@@ -50,6 +50,7 @@
 
 - [[Practical Go - Real world advice for writing maintainable Go programs]]
 - [[Паттерн Functional Options]]
+- [[How I write HTTP services in Go after 13 years]]
 - Builder Pattern (См. книгу *100 Go Mistakes*)
 
 ----
@@ -81,4 +82,4 @@
 
 
 ----
-📂 [[Go]] | Последнее изменение: 01.09.2024 14:07
+📂 [[Go]] | Последнее изменение: 01.10.2024 10:10

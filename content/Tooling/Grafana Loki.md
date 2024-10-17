@@ -44,5 +44,100 @@ Restart services.
 
 *Create new dashboard.*
 
+---
+## Примеры построения графиков в дашборде по логам:
+
+Requests Completed:
+```logql
+sum(
+	count_over_time({job="fluentbit"} | json | msg="request completed" [1m])
+)
+```
+
 ----
-📂 [[Tooling]] | Последнее изменение: 22.01.2024 20:40
+## Сбор логов из файла с Fluentbit
+
+`fluent-bit.conf`
+```
+[SERVICE]
+   flush       1
+   log_level   info
+[INPUT]
+   name        tail
+   path        /etc/data/data.log
+   tag         log_generator
+[OUTPUT]
+   Name        stdout
+   Match       *
+[OUTPUT]
+   # for sending logs to local Loki instance
+   name        loki
+   match       *
+   host        loki
+   port        3100
+   labels      job=fluentbit
+   drop_single_key raw
+   line_format     json
+```
+
+Заменить имя файла с логом `/usr/projects/go-anvlink/stdout.log` на корректное, остальное можно не трогать. Графана будет на порту 3001.
+
+`docker-compose.yml`:
+```yml
+version: "3"
+
+networks:
+  loki:
+
+services:
+  fluent-bit:
+    image: fluent/fluent-bit
+    volumes:
+      - ./fluent-bit.conf:/fluent-bit/etc/fluent-bit.conf
+      - /usr/projects/go-anvlink/stdout.log:/etc/data/data.log
+    depends_on:
+      - loki
+    networks:
+      - loki
+
+  loki:
+    image: grafana/loki:2.7.0
+    ports:
+      - "3100:3100"
+    command: -config.file=/etc/loki/local-config.yaml
+    networks:
+      - loki
+
+  grafana:
+    image: grafana/grafana:latest
+    ports:
+      - "3001:3000"
+    networks:
+      - loki
+    environment:
+      - GF_PATHS_PROVISIONING=/etc/grafana/provisioning
+      - GF_AUTH_ANONYMOUS_ENABLED=true
+      - GF_AUTH_ANONYMOUS_ORG_ROLE=Admin
+    entrypoint:
+      - sh
+      - -euc
+      - |
+        mkdir -p /etc/grafana/provisioning/datasources
+        cat > /etc/grafana/provisioning/datasources/ds.yaml << EOF
+        apiVersion: 1
+        datasources:
+        - name: Loki
+          type: loki
+          access: proxy
+          orgId: 1
+          url: http://loki:3100
+          basicAuth: false
+          isDefault: true
+          version: 1
+          editable: true
+        EOF
+        /run.sh
+```
+
+----
+📂 [[Tooling]] | Последнее изменение: 07.10.2024 08:44

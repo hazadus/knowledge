@@ -7,7 +7,7 @@
 - [BugBytes Go Programming Playlist](https://www.youtube.com/playlist?list=PL-2EBeDYMIbR1ag15E2MonJOj_cCIjUnd)
 
 ----
-## Приложения #go
+## Приложения Go
 ### ✅ Менеджер паролей
 
 CLI tool для удобного хранения и использования паролей.
@@ -33,7 +33,7 @@ CLI tool для удобного хранения и использования 
 ----
 ### Поиск "битых" ссылок на сайте
 
-Пригодится для своих сайтов. См. 5 projects to learn Go https://youtu.be/gXmznGEW9vo.
+Пригодится для своих сайтов. См. 5 projects to learn #Go https://youtu.be/gXmznGEW9vo.
 Web Scraping tutorial https://youtu.be/NU4OlJVj1gs?si=CYnHox_NKWI-kmk0
 
 ----
@@ -44,8 +44,7 @@ Web Scraping tutorial https://youtu.be/NU4OlJVj1gs?si=CYnHox_NKWI-kmk0
 ----
 ### REST API с JWT Auth
 
-- PostgreSQL
-- Deploy
+- См. книгу *Let's Go Further*.
 - [[Implementing JWT Authentication in Golang REST API - Detailed Guide - codewithmukesh]]
 
 ----
@@ -91,14 +90,24 @@ See [10 Project Ideas To Learn Golang In 2024](https://golang.withcodeexample.co
 ----
 ### gRPC Server / Client
 
-...
+- [Introduction to gRPC in Go](https://mail.google.com/mail/u/0/#inbox/WhctKLbMzLTkLCTTfSNbLlJtQvQLLWfxjnnchQwPQFZVLZcxGFrhMkCMPwGjWQsZhMtkqXQ) (рассылка от Jon Calhoun)
+- Видео *gRPC сервис (Тузов)* (скачано)
+- См. книгу *gRPC: запуск и эксплуатация облачных приложений* (скачана).
 
 ---
 ### SSE
 
 Попробовать реализовать [[How to Implement Server-Sent Events in Go]].
 
+----
+### Simple Redis Server From Scratch In Golang
 
+См. скачанное видео.
 
 ----
-📂 [[Go]] | Последнее изменение: 29.08.2024 15:17
+### Distributed File Storage In Go
+
+См. скачанное видео.
+
+----
+📂 [[Go]] | Последнее изменение: 17.10.2024 09:04

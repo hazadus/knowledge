@@ -23,16 +23,16 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
-- [[PostgreSQL]]
+- [[Идеи проектов на Go]]
 - [[План изучения языка Go]]
-- [[Poetry]]
-- [[Ошибки в Go]]
-- [[Интерфейсы в тестировании]]
+- [[Grafana Loki]]
+- [[cloc]]
+- [[How I write HTTP services in Go after 13 years]]
 - [[Go]]
-- [[Юнит-тесты и покрытие кода]]
-- [[pytest]]
-- [[Функции panic и recover]]
-- [[Рефлексия]]
+- [[Caddy]]
+- [[Аутентификация – Authentication]]
+- [[PostgreSQL]]
+- [[Poetry]]
 
 
 ----
@@ -109,10 +109,12 @@ title: Оглавление
 	- 📄 [[Prometheus]]<br>
 	- 📄 [[psql]]<br>
 	- 📄 [[vim]]<br>
+	- 📄 [[cloc]]<br>
 	- 📄 [[jq]]<br>
 	- 📄 [[Alembic]]<br>
 	- 📄 [[Nginx]]<br>
 	- 📄 [[restic]]<br>
+	- 📄 [[Caddy]]<br>
 	- 📄 [[Locust]]<br>
 	- 📄 [[nc]]<br>
 	- 📄 [[harlequin]]<br>
@@ -162,6 +164,7 @@ title: Оглавление
 	- 📄 [[OWASP Top-10 2021 Software Security Flaws]]<br>
 	- 📄 [[XSS]]<br>
 - 📂 [[Web]]<br>
+	- 📄 [[Аутентификация – Authentication]]<br>
 	- 📄 [[Python Web Frameworks]]<br>
 	- 📄 [[REST API]]<br>
 	- 📄 [[Web]]<br>
@@ -260,6 +263,7 @@ title: Оглавление
 		- 📂 [[Best Practices]]<br>
 			- 📄 [[Practical Go - Real world advice for writing maintainable Go programs]]<br>
 			- 📄 [[Паттерн Functional Options]]<br>
+			- 📄 [[How I write HTTP services in Go after 13 years]]<br>
 		- 📂 [[Рецепты]]<br>
 			- 📄 [[Рецепты на Go]]<br>
 	- 📂 [[Python]]<br>
