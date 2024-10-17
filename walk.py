@@ -8,11 +8,12 @@ import os
 
 CONTENT_PATH = "./content"
 
+
 class Note:
     def __init__(self, title: str, updated_at: datetime.datetime) -> None:
         self.title = title
         self.updated_at = updated_at
-    
+
     def __repr__(self) -> str:
         return f"{self.title}, {self.updated_at}"
 
@@ -21,7 +22,7 @@ def get_file_times(path: str) -> tuple[datetime.datetime, datetime.datetime]:
     """Возвращает tuple из времени создания и времени изменения файла.
     - `path`: полный путь до файла.
     """
-    
+
     # file creation timestamp in float
     c_time = os.path.getctime(path)
     # convert creation timestamp into DateTime object
@@ -69,7 +70,9 @@ for root, dirs, files in os.walk(CONTENT_PATH):
             dt_c, dt_m = get_file_times(full_path)
             notes.append(Note(title=title, updated_at=dt_m))
             with open(full_path, "a") as note:
-                note.write(f"\n\n----\n📂 [[{folder}]] | Последнее изменение: {dt_m.strftime(format="%d.%m.%Y %H:%M")}")
+                note.write(
+                    f"\n\n----\n📂 [[{folder}]] | Последнее изменение: {dt_m.strftime(format="%d.%m.%Y %H:%M")}"
+                )
 
 # Получить список 10 последних обновленных заметок
 notes.sort(key=lambda x: x.updated_at, reverse=True)
@@ -89,6 +92,9 @@ title: Оглавление
 Информация может быть неполной, неактуальной – используйте на свой страх и риск ☠️!
 
 О концепции _цифрового сада_ вы можете почитать [тут](https://jzhao.xyz/posts/networked-thought).
+
+Загляните также к коллегам-садоводам:
+- [https://chrnmaxim.github.io/knowledge/](https://chrnmaxim.github.io/knowledge/)
 
 ----
 

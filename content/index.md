@@ -11,6 +11,9 @@ title: Оглавление
 
 О концепции _цифрового сада_ вы можете почитать [тут](https://jzhao.xyz/posts/networked-thought).
 
+Загляните также к коллегам-садоводам:
+- [https://chrnmaxim.github.io/knowledge/](https://chrnmaxim.github.io/knowledge/)
+
 ----
 
 ## Актуальное
