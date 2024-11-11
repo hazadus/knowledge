@@ -10,7 +10,7 @@
 - Параллельно:
 	- Делать REST API [[go-anvlink]] и изучать необходимое для этого.
 		- ✅ Проработать *Let's Go Further* by Alex Edwards.
-		- Проработать *Let's Go* by Alex Edwards.
+		- ✅ Проработать *Let's Go* by Alex Edwards.
 		- Проработать 📖 *Shipping Go*.
 	- Дочитать 📖 [[Learning Go (Bodner)]] (Гл. 7-14, стр. 129-324).
 	- Проработать [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests) (онлайн-учебник)
@@ -21,6 +21,7 @@
 	- [Introduction to gRPC in Go](https://mail.google.com/mail/u/0/#inbox/WhctKLbMzLTkLCTTfSNbLlJtQvQLLWfxjnnchQwPQFZVLZcxGFrhMkCMPwGjWQsZhMtkqXQ) (рассылка от Jon Calhoun)
 	- Видео *gRPC сервис (Тузов)* (скачано)
 	- См. книгу *gRPC: запуск и эксплуатация облачных приложений* (скачана).
+	- Поискать https://www.bytesizego.com/grpc-with-go?coupon=jonsentme
 - Видео туториалы по разработке мини-проектов (скачаны):
 	- *gRPC сервис (Тузов)*
 	- *Simple Redis Server From Scratch In Golang*
@@ -33,7 +34,7 @@
 
 ### 📖 Обязательно читать
 
-- 📖 *Let's Go*
+- ✅ *Let's Go*
 - ✅ *Let's Go Further*
 - 📖 *Powerful Command-Line Applications in Go* – подробное описание процесса создания интересных мини-проектов.
 - *Shipping Go* – настройка процесса CI/CD с примерами для проектов на Go.
@@ -129,4 +130,4 @@
 		- Разработка gRPC клиента (агента?) и сервера
 
 ----
-📂 [[Go]] | Последнее изменение: 16.10.2024 08:58
+📂 [[Go]] | Последнее изменение: 10.11.2024 22:53

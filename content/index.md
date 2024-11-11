@@ -30,16 +30,16 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[Структуры]]
+- [[План изучения языка Go]]
+- [[bash]]
 - [[План по чтению]]
 - [[Идеи проектов на Go]]
-- [[План изучения языка Go]]
 - [[Grafana Loki]]
 - [[cloc]]
 - [[How I write HTTP services in Go after 13 years]]
 - [[Go]]
 - [[Caddy]]
-- [[Аутентификация – Authentication]]
-- [[PostgreSQL]]
 
 
 ----
@@ -144,6 +144,7 @@ title: Оглавление
 	- 📄 [[awk]]<br>
 	- 📄 [[sed]]<br>
 	- 📄 [[tmux]]<br>
+	- 📄 [[bash]]<br>
 	- 📄 [[MongoDB]]<br>
 	- 📄 [[Online Web Dev Tools]]<br>
 	- 📄 [[schemathesis]]<br>
