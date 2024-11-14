@@ -30,16 +30,16 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[migrate]]
+- [[План по чтению]]
 - [[Структуры]]
 - [[План изучения языка Go]]
 - [[bash]]
-- [[План по чтению]]
 - [[Идеи проектов на Go]]
 - [[Grafana Loki]]
 - [[cloc]]
 - [[How I write HTTP services in Go after 13 years]]
 - [[Go]]
-- [[Caddy]]
 
 
 ----
@@ -123,6 +123,7 @@ title: Оглавление
 	- 📄 [[restic]]<br>
 	- 📄 [[Caddy]]<br>
 	- 📄 [[Locust]]<br>
+	- 📄 [[migrate]]<br>
 	- 📄 [[nc]]<br>
 	- 📄 [[harlequin]]<br>
 	- 📄 [[Sentry]]<br>
