@@ -7,6 +7,8 @@
 
 ## Примеры команд
 
+Если репозитории создавались с использованием `sudo`, то для остальных команд его тоже нужно использовать.
+
 ```bash
 # Set keys
 export AWS_ACCESS_KEY_ID=<MY_ACCESS_KEY>
@@ -29,4 +31,4 @@ restic -r s3:storage.yandexcloud.net/macbook-backup restore a71becf5:/Users/haza
 ```
 
 ----
-📂 [[Tooling]] | Последнее изменение: 28.08.2024 08:01
+📂 [[Tooling]] | Последнее изменение: 15.11.2024 17:11
