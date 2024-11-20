@@ -30,6 +30,7 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[Building a Second Brain]]
 - [[Указатели]]
 - [[restic]]
 - [[migrate]]
@@ -39,7 +40,6 @@ title: Оглавление
 - [[bash]]
 - [[Идеи проектов на Go]]
 - [[Grafana Loki]]
-- [[cloc]]
 
 
 ----
@@ -104,6 +104,7 @@ title: Оглавление
 	- 📄 [[Теоретический минимум по Computer Science. Сети, криптография и data science]]<br>
 	- 📄 [[Zero To Production In Rust]]<br>
 	- 📄 [[Алгоритмы. Род Стивенс]]<br>
+	- 📄 [[Building a Second Brain]]<br>
 	- 📄 [[Books]]<br>
 	- 📄 [[Django 5 by Example]]<br>
 	- 📄 [[Django 3 Web Development Cookbook]]<br>
