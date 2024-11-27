@@ -50,8 +50,8 @@
 
 - [[Practical Go - Real world advice for writing maintainable Go programs]]
 - [[Паттерн Functional Options]]
+- [[Builder Pattern]] (См. также книгу *100 Go Mistakes*)
 - [[How I write HTTP services in Go after 13 years]]
-- Builder Pattern (См. книгу *100 Go Mistakes*)
 
 ----
 ### Практика
@@ -66,6 +66,8 @@
 - 🎓[go-todo](https://github.com/hazadus/go-todo)
 - 🎓[go-wc](https://github.com/hazadus/go-wc)
 - 🔒🎓[go-hello](https://github.com/hazadus/go-hello)
+- 🔒[go-anvlink](https://github.com/hazadus/go-anvlink)
+- 🔒[go-postcard](https://github.com/hazadus/go-postcard)
 
 ----
 ## References
@@ -82,4 +84,4 @@
 
 
 ----
-📂 [[Go]] | Последнее изменение: 01.10.2024 10:10
+📂 [[Go]] | Последнее изменение: 27.11.2024 14:34

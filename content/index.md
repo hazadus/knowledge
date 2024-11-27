@@ -30,6 +30,9 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[Паттерн Functional Options]]
+- [[Go]]
+- [[Builder Pattern]]
 - [[restic]]
 - [[Atomic Habits Tiny Changes, Remarkable Results]]
 - [[json_build_object, json_object, array_agg, json_agg]]
@@ -37,9 +40,6 @@ title: Оглавление
 - [[Идеи проектов на Go]]
 - [[Building a Second Brain]]
 - [[Указатели]]
-- [[migrate]]
-- [[План по чтению]]
-- [[Структуры]]
 
 
 ----
@@ -273,6 +273,7 @@ title: Оглавление
 		- 📄 [[Пустой интерфейс и приведение типов]]<br>
 		- 📂 [[Best Practices]]<br>
 			- 📄 [[Practical Go - Real world advice for writing maintainable Go programs]]<br>
+			- 📄 [[Builder Pattern]]<br>
 			- 📄 [[Паттерн Functional Options]]<br>
 			- 📄 [[How I write HTTP services in Go after 13 years]]<br>
 		- 📂 [[Рецепты]]<br>
