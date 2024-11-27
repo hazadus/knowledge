@@ -109,5 +109,12 @@ See [10 Project Ideas To Learn Golang In 2024](https://golang.withcodeexample.co
 
 См. скачанное видео.
 
+---
+## Video Streaming
+
+...
+
+
+
 ----
-📂 [[Go]] | Последнее изменение: 17.10.2024 09:04
+📂 [[Go]] | Последнее изменение: 22.11.2024 15:20

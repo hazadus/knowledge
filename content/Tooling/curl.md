@@ -1,10 +1,13 @@
 📂 [[Tooling]]
 
+Reference: https://everything.curl.dev/index.html
+
 ----
 ## Примеры запросов
 
 - Отправка GET-запроса: `curl <URL>`
 - Отправка GET-запроса с параметрами: `curl "<URL>?param1=value1&param2=value2"`
+- Follow redirect: `-L` aka `--location`
 - Отправка POST-запроса с данными в теле запроса: `curl -d "data" <URL>`
 - Отправка POST-запроса с данными в теле запроса в формате JSON: `curl -H "Content-Type: application/json" -d '{"key": "value"}' <URL>`
 
@@ -36,4 +39,4 @@ curl -X 'POST' \
 
 
 ----
-📂 [[Tooling]] | Последнее изменение: 19.08.2024 13:26
+📂 [[Tooling]] | Последнее изменение: 23.11.2024 23:33

@@ -30,16 +30,16 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[restic]]
+- [[Atomic Habits Tiny Changes, Remarkable Results]]
+- [[json_build_object, json_object, array_agg, json_agg]]
+- [[curl]]
+- [[Идеи проектов на Go]]
 - [[Building a Second Brain]]
 - [[Указатели]]
-- [[restic]]
 - [[migrate]]
 - [[План по чтению]]
 - [[Структуры]]
-- [[План изучения языка Go]]
-- [[bash]]
-- [[Идеи проектов на Go]]
-- [[Grafana Loki]]
 
 
 ----
@@ -87,6 +87,7 @@ title: Оглавление
 ## Полное оглавление
 - 📂 [[Reading]]<br>
 	- 📄 [[Asyncio. Мэтью Фаулер]]<br>
+	- 📄 [[Atomic Habits Tiny Changes, Remarkable Results]]<br>
 	- 📄 [[Fast API. Bill Lubanovic]]<br>
 	- 📄 [[Python. Разработка на основе тестирования]]<br>
 	- 📄 [[Books Read]]<br>
@@ -303,6 +304,7 @@ title: Оглавление
 		- 📄 [[SQL]]<br>
 		- 📄 [[INSERT statement]]<br>
 		- 📄 [[JOIN, UNION]]<br>
+		- 📄 [[json_build_object, json_object, array_agg, json_agg]]<br>
 		- 📄 [[PostgreSQL]]<br>
 		- 📄 [[Primary and Foreign Keys]]<br>
 - 📂 [[Тестирование]]<br>

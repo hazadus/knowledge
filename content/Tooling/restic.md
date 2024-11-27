@@ -20,6 +20,8 @@ restic -r s3:storage.yandexcloud.net/macbook-backup init
 # Create snapshot - dry run
 restic -r s3:storage.yandexcloud.net/macbook-backup --verbose backup ~/Projects ~/Documents ~/Downloads ~/PycharmProjects  --dry-run
 
+sudo restic -r s3:storage.yandexcloud.net/macbook-backup --verbose backup ~/Projects ~/Documents ~/Downloads ~/PycharmProjects ~/Music "/Users/hazadus/Library/Mobile Documents/iCloud~md~obsidian/Documents"
+
 # List snapshots
 restic -r s3:storage.yandexcloud.net/macbook-backup snapshots
 
@@ -31,4 +33,4 @@ restic -r s3:storage.yandexcloud.net/macbook-backup restore a71becf5:/Users/haza
 ```
 
 ----
-📂 [[Tooling]] | Последнее изменение: 15.11.2024 17:11
+📂 [[Tooling]] | Последнее изменение: 27.11.2024 13:50
