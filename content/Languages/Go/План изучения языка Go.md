@@ -34,20 +34,21 @@
 
 ### 📖 Обязательно читать
 
-- ✅ *Let's Go*
-- ✅ *Let's Go Further*
+- ✅ *Let's Go* Alex Edwards
+- ✅ *Let's Go Further* Alex Edwards
 - 📖 *Powerful Command-Line Applications in Go* – подробное описание процесса создания интересных мини-проектов.
 - *Shipping Go* – настройка процесса CI/CD с примерами для проектов на Go.
 - John Arundel – *The Power of Go – Tools* – практика написания простых CLI-tool, пример простойшей shell.
-- *100 Go Mistakes and How to Avoid Them* – есть также в виде сайта.
+- *100 Go Mistakes and How to Avoid Them* – есть также в виде сайта [100go.co](https://100go.co).
 
 ### Претенденты
 
-- **Рассмотреть**: *gRPC: запуск и эксплуатация облачных приложений* – скачана. Тема важная.
-- **Рассмотреть**: *Go Cookbook* – скачана. Сборник рецептов, может быть что-то полезное.
+- *Effective Go Recipes: Fast Solutions to Common Tasks* by Miki Tebeka от [PragProg](https://pragprog.com/titles/mtgo/effective-go-recipes/) – 2024 год, интересные рецепты. Скачана.
+- *gRPC: запуск и эксплуатация облачных приложений* – скачана. Тема важная.
+- *Go Cookbook* – скачана. Сборник рецептов, может быть что-то полезное.
 - John Arundel – *Know Go Generics* – скачана. С дженериками нужно разобраться.
 - John Arundel – *The Power of Go Tests* – найти, если нужны будут дополнительные книги по тестам.
-- **Рассмотреть**: Simion A. - *Test-Driven Development in Go* - 2023 – про тесты, тема важная. Должно быть интересно!
+- Simion A. - *Test-Driven Development in Go* - 2023 – про тесты, тема важная. Должно быть интересно!
 - [[Matthew A. Titmus - Cloud Native Go_ Building Reliable Services in Unreliable Environments-O'Reilly Media (2021).pdf]]: рассматривает особенности и принципы разработки "под облако". Любопытный пример проекта key-value storage.
 - [[Katherine Cox-Buday - Concurrency in Go_ Tools and Techniques for Developers-O’Reilly Media (2017).pdf]]: рекомендует Боднер в конце главы 10. Компактная книга (230 стр.).
 - *Learn Concurrent Programming with Go* (James Cutajar, Manning) – тема интересная, книга свежая. Просмотрел: рассматриваются разные аспекты конкуррентности. Минусы – не увидел интересных примеров, всё какие-то очень схематичные.
@@ -130,4 +131,4 @@
 		- Разработка gRPC клиента (агента?) и сервера
 
 ----
-📂 [[Go]] | Последнее изменение: 10.11.2024 22:53
+📂 [[Go]] | Последнее изменение: 29.11.2024 14:26

@@ -1,4 +1,5 @@
 ## References
+
 - [Poetry docs: Basic usage](https://python-poetry.org/docs/basic-usage/)
 
 ## Examples
@@ -12,4 +13,4 @@ poetry install
 
 
 ----
-📂 [[Tooling]] | Последнее изменение: 05.09.2024 15:02
+📂 [[Tooling]] | Последнее изменение: 30.11.2024 08:29

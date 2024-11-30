@@ -30,16 +30,16 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[Alembic]]
+- [[ruff]]
+- [[Poetry]]
+- [[План изучения языка Go]]
 - [[Паттерн Functional Options]]
 - [[Go]]
 - [[Builder Pattern]]
 - [[restic]]
 - [[Atomic Habits Tiny Changes, Remarkable Results]]
 - [[json_build_object, json_object, array_agg, json_agg]]
-- [[curl]]
-- [[Идеи проектов на Go]]
-- [[Building a Second Brain]]
-- [[Указатели]]
 
 
 ----
@@ -113,6 +113,7 @@ title: Оглавление
 	- 📄 [[Внутри CPYTHON. Энтони Шоу]]<br>
 	- 📄 [[Пиши, сокращай]]<br>
 - 📂 [[Tooling]]<br>
+	- 📄 [[ruff]]<br>
 	- 📄 [[Grafana Loki]]<br>
 	- 📄 [[pgAdmin]]<br>
 	- 📄 [[Prometheus]]<br>

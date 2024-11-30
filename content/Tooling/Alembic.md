@@ -1,18 +1,17 @@
-🔗 [[Миграции БД]] | [[Tooling]]
-
-----
 ## References
 
 - [Alembic Documentation](https://alembic.sqlalchemy.org/en/latest/)
 
 ----
 ## Достоинства
+
 - Простое внедрение, работа с SQLAlchemy.
 - Автоматическая генерация кода миграций на основе ORM-моделей.
 - Возможность использования Python внутри кода с миграциями.
 - Фиксация миграций в отдельной таблице `alembic_version`.
 
 ## Недостатки
+
 - Не фиксирует изменения имён таблиц и имён колонок (проверить в актуальной версии!)
 
 ---
@@ -21,7 +20,7 @@
 Инициализация – создаст директорию `./alembic/` и файл `./alembic.ini`:
 
 ```bash
-alembic init alembic
+alembic init -t async alembic
 ```
 
 Как настроить с SQLModel – [см. на TestDriven](https://testdriven.io/blog/fastapi-sqlmodel/#alembic).
@@ -35,13 +34,19 @@ from app import Base
 target_metadata = Base.metadata
 ```
 
+Также в `env.py` нужно корректно устанавливать строку для соединения с БД, исходя из настроек приложения. Что-то вроде:
+
+```python
+config.set_main_option("sqlalchemy.url", f"{settings.DATABASE_URL}?async_fallback=True")
+```
+
 Делаем первую миграцию. **Для создания миграции, должно быть возможно соединение с БД, указанной в настройках!**
 
 ```bash
 alembic revision --message="Init migration" --autogenerate
 ```
 
-В директории `./alembic/versions/` повится `.py`-файл миграции.
+В директории `./alembic/versions/` появится `.py`-файл миграции.
 
 Чтобы применить созданную миграцию, нужно выполнить:
 
@@ -109,5 +114,9 @@ def downgrade() -> None:
     # ### end Alembic commands ###
 ```
 
+---
+🔗 [[Миграции БД]] | [[Tooling]]
+
+
 ----
-📂 [[Tooling]] | Последнее изменение: 11.08.2024 09:08
+📂 [[Tooling]] | Последнее изменение: 30.11.2024 10:57
