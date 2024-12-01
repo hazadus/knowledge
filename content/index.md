@@ -30,6 +30,7 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[bash]]
 - [[Alembic]]
 - [[ruff]]
 - [[Poetry]]
@@ -39,7 +40,6 @@ title: Оглавление
 - [[Builder Pattern]]
 - [[restic]]
 - [[Atomic Habits Tiny Changes, Remarkable Results]]
-- [[json_build_object, json_object, array_agg, json_agg]]
 
 
 ----
@@ -222,7 +222,6 @@ title: Оглавление
 	- 📄 [[Мультипоточность]]<br>
 	- 📄 [[Operating Systems]]<br>
 	- 📂 [[Linux]]<br>
-		- 📄 [[Bash script]]<br>
 		- 📄 [[SSH]]<br>
 		- 📄 [[Linux]]<br>
 		- 📂 [[CLI - Shell]]<br>
