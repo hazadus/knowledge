@@ -30,16 +30,16 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[Мутексы в Go]]
+- [[Go]]
+- [[Implementing an in-memory cache in Go]]
+- [[Ошибки в Go]]
+- [[Python - Basic Syntax]]
+- [[Guard Expression и цикломатическая сложность кода]]
 - [[bash]]
 - [[Alembic]]
 - [[ruff]]
 - [[Poetry]]
-- [[План изучения языка Go]]
-- [[Паттерн Functional Options]]
-- [[Go]]
-- [[Builder Pattern]]
-- [[restic]]
-- [[Atomic Habits Tiny Changes, Remarkable Results]]
 
 
 ----
@@ -258,6 +258,7 @@ title: Оглавление
 		- 📄 [[ООП в Go]]<br>
 		- 📄 [[Методы в Go]]<br>
 		- 📄 [[Идеи проектов на Go]]<br>
+		- 📄 [[Мутексы в Go]]<br>
 		- 📄 [[Внешние зависимости]]<br>
 		- 📄 [[Функции]]<br>
 		- 📄 [[Общие сведения о Go]]<br>
@@ -274,10 +275,12 @@ title: Оглавление
 		- 📂 [[Best Practices]]<br>
 			- 📄 [[Practical Go - Real world advice for writing maintainable Go programs]]<br>
 			- 📄 [[Builder Pattern]]<br>
+			- 📄 [[Guard Expression и цикломатическая сложность кода]]<br>
 			- 📄 [[Паттерн Functional Options]]<br>
 			- 📄 [[How I write HTTP services in Go after 13 years]]<br>
 		- 📂 [[Рецепты]]<br>
 			- 📄 [[Рецепты на Go]]<br>
+			- 📄 [[Implementing an in-memory cache in Go]]<br>
 	- 📂 [[Python]]<br>
 		- 📄 [[PEP 20 – The Zen of Python]]<br>
 		- 📄 [[Advanced Pythonic Stuff]]<br>

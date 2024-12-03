@@ -339,6 +339,14 @@ print(zipped)
 ```
 ## **Аргументы *args и **kwargs**
 ![[attachments/Untitled 3 8.png|Untitled 3 8.png]]
+
+Iterate over `kwargs`: 
+
+```python
+for key, value in kwargs.items():
+	...
+```
+
 ## Exceptions
 ![[attachments/Untitled 4 7.png|Untitled 4 7.png]]
 ## Библиотеки
@@ -562,4 +570,4 @@ class method – with cls as first parameter
     ```
 
 ----
-📂 [[Python]] | Последнее изменение: 07.02.2024 15:07
+📂 [[Python]] | Последнее изменение: 02.12.2024 23:00
