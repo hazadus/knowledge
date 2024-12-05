@@ -30,6 +30,7 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[youtubedr]]
 - [[Мутексы в Go]]
 - [[Go]]
 - [[Implementing an in-memory cache in Go]]
@@ -39,7 +40,6 @@ title: Оглавление
 - [[bash]]
 - [[Alembic]]
 - [[ruff]]
-- [[Poetry]]
 
 
 ----
