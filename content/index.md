@@ -30,6 +30,7 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[Code Review]]
 - [[youtubedr]]
 - [[Мутексы в Go]]
 - [[Go]]
@@ -39,13 +40,13 @@ title: Оглавление
 - [[Guard Expression и цикломатическая сложность кода]]
 - [[bash]]
 - [[Alembic]]
-- [[ruff]]
 
 
 ----
 
 ## Краткое оглавление
 - 📂 [[Reading]]<br>
+- 📂 [[Misc]]<br>
 - 📂 [[Tooling]]<br>
 - 📂 [[Task Queue]]<br>
 - 📂 [[DevOps]]<br>
@@ -112,6 +113,8 @@ title: Оглавление
 	- 📄 [[Building an Effective Dev Portfolio]]<br>
 	- 📄 [[Внутри CPYTHON. Энтони Шоу]]<br>
 	- 📄 [[Пиши, сокращай]]<br>
+- 📂 [[Misc]]<br>
+	- 📄 [[Code Review]]<br>
 - 📂 [[Tooling]]<br>
 	- 📄 [[ruff]]<br>
 	- 📄 [[Grafana Loki]]<br>

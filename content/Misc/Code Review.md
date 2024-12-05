@@ -25,3 +25,6 @@ In doing a code review, you should make sure that:
 
 - [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 - [How to Perform Code Reviews in Tech – The Painless Way](https://www.freecodecamp.org/news/how-to-perform-code-reviews-in-tech-the-painless-way/)
+
+----
+📂 [[Misc]] | Последнее изменение: 04.12.2024 16:57
