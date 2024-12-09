@@ -30,6 +30,8 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[shot-scraper]]
+- [[План изучения языка Go]]
 - [[Code Review]]
 - [[youtubedr]]
 - [[Мутексы в Go]]
@@ -38,8 +40,6 @@ title: Оглавление
 - [[Ошибки в Go]]
 - [[Python - Basic Syntax]]
 - [[Guard Expression и цикломатическая сложность кода]]
-- [[bash]]
-- [[Alembic]]
 
 
 ----
@@ -136,6 +136,7 @@ title: Оглавление
 	- 📄 [[curl]]<br>
 	- 📄 [[uWSGI]]<br>
 	- 📄 [[Ngrok]]<br>
+	- 📄 [[shot-scraper]]<br>
 	- 📄 [[rsync]]<br>
 	- 📄 [[Let’s Encrypt certbot]]<br>
 	- 📄 [[youtubedr]]<br>
