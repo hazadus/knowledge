@@ -30,6 +30,7 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[open]]
 - [[shot-scraper]]
 - [[План изучения языка Go]]
 - [[Code Review]]
@@ -39,7 +40,6 @@ title: Оглавление
 - [[Implementing an in-memory cache in Go]]
 - [[Ошибки в Go]]
 - [[Python - Basic Syntax]]
-- [[Guard Expression и цикломатическая сложность кода]]
 
 
 ----
@@ -116,6 +116,7 @@ title: Оглавление
 - 📂 [[Misc]]<br>
 	- 📄 [[Code Review]]<br>
 - 📂 [[Tooling]]<br>
+	- 📄 [[open]]<br>
 	- 📄 [[ruff]]<br>
 	- 📄 [[Grafana Loki]]<br>
 	- 📄 [[pgAdmin]]<br>
