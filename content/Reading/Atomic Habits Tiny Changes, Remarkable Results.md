@@ -34,7 +34,30 @@
 
 - Finally, the response delivers a reward. Rewards are the end goal of every habit. The cue is about noticing the reward. The craving is about wanting the reward. The response is about obtaining the reward. We chase rewards because they serve two purposes: (1) they satisfy us and (2) they teach us. ([View Highlight](https://read.readwise.io/read/01jdm84gdhnadbpd16aapk13sm))
 
+## New highlights added December 10, 2024 at 12:34 PM
+- When scientists analyze people who appear to have tremendous self-control, it turns out those individuals aren’t all that different from those who are struggling. Instead, “disciplined” people are better at structuring their lives in a way that *does not require* heroic willpower and self-control. In other words, they spend less time in tempting situations. ([View Highlight](https://read.readwise.io/read/01je3405kpw2fx78yhw7y33hc8))
+    - Note: Согласен: планирование, тайм-блоки помогают не отвлекаться от запланированных задач.
+
+- Here’s the punch line: You can break a habit, but you’re unlikely to forget it. Once the mental grooves of habit have been carved into your brain, they are nearly impossible to remove entirely—even if they go unused for quite a while. And that means that simply resisting temptation is an ineffective strategy. ([View Highlight](https://read.readwise.io/read/01je357wmw0msxdatkgx0zgwhz))
+
+- Every action requires a certain amount of energy. The more energy required, the less likely it is to occur. If your goal is to do a hundred push-ups per day, that’s a lot of energy! In the beginning, when you’re motivated and excited, you can muster the strength to get started. But after a few days, such a massive effort feels exhausting. Meanwhile, sticking to the habit of doing one push-up per day requires almost no energy to get started. And the less energy a habit requires, the more likely it is to occur. ([View Highlight](https://read.readwise.io/read/01je3p9bmcm73b9tk1trvnvdyw))
+
+- When you start a new habit, it should take less than two minutes to do. ([View Highlight](https://read.readwise.io/read/01je60k6r92b3hybjxf53w3rak))
+
+- People often think it’s weird to get hyped about reading one page or meditating for one minute or making one sales call. But the point is not to do one thing. The point is to master the habit of showing up. The truth is, a habit must be established before it can be improved. If you can’t learn the basic skill of showing up, then you have little hope of mastering the finer details. Instead of trying to engineer a perfect habit from the start, do the easy thing on a more consistent basis. You have to standardize before you can optimize. ([View Highlight](https://read.readwise.io/read/01je60pqbz98xz31ehbz4vh017))
+
+- Furthermore, it’s not always about what happens during the workout. It’s about being the type of person who doesn’t miss workouts. It’s easy to train when you feel good, but it’s crucial to show up when you don’t feel like it—even if you do less than you hope. Going to the gym for five minutes may not improve your performance, but it reaffirms your identity. ([View Highlight](https://read.readwise.io/read/01jed9fsga9ext236z3mb46cf2))
+
+- “When a measure becomes a target, it ceases to be a good measure.” Measurement is only useful when it guides you and adds context to a larger picture, not when it consumes you. ([View Highlight](https://read.readwise.io/read/01jeda1137jfgh8xbc1exnjzqm))
+
+- There is tremendous internal pressure to comply with the norms of the group. The reward of being accepted is often greater than the reward of winning an argument, looking smart, or finding truth. Most days, we’d rather be wrong with the crowd than be right by ourselves. ([View Highlight](https://read.readwise.io/read/01je38pdtqdwv8z232qx943xyk))
+
+- Here’s the powerful part: there are many different ways to address the same underlying motive. One person might learn to reduce stress by smoking a cigarette. Another person learns to ease their anxiety by going for a run. Your current habits are not necessarily the best way to solve the problems you face; they are just the methods you learned to use. Once you associate a solution with the problem you need to solve, you keep coming back to it. ([View Highlight](https://read.readwise.io/read/01je3atsk8jzfgffn4bzzfv25z))
+
+- When you binge-eat or light up or browse social media, what you really want is *not* a potato chip or a cigarette or a bunch of likes. What you really want is to *feel* different. ([View Highlight](https://read.readwise.io/read/01je3b16cfzkbvg6kgv9z1hegs))
+
+
 
 
 ----
-📂 [[Reading]] | Последнее изменение: 27.11.2024 13:46
+📂 [[Reading]] | Последнее изменение: 10.12.2024 12:34

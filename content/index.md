@@ -30,6 +30,8 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[Pydantic]]
+- [[Atomic Habits Tiny Changes, Remarkable Results]]
 - [[open]]
 - [[shot-scraper]]
 - [[План изучения языка Go]]
@@ -38,8 +40,6 @@ title: Оглавление
 - [[Мутексы в Go]]
 - [[Go]]
 - [[Implementing an in-memory cache in Go]]
-- [[Ошибки в Go]]
-- [[Python - Basic Syntax]]
 
 
 ----
