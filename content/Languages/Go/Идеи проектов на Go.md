@@ -33,8 +33,14 @@ CLI tool для удобного хранения и использования 
 ----
 ### Поиск "битых" ссылок на сайте
 
+`go-broken`
+
 Пригодится для своих сайтов. См. 5 projects to learn #Go https://youtu.be/gXmznGEW9vo.
 Web Scraping tutorial https://youtu.be/NU4OlJVj1gs?si=CYnHox_NKWI-kmk0
+
+- репо с запуском GitHub Action по расписанию
+- отправка результатов по Телеграм
+- сохранение файла с отчётом в репо
 
 ----
 ### Shell
@@ -114,7 +120,12 @@ See [10 Project Ideas To Learn Golang In 2024](https://golang.withcodeexample.co
 
 ...
 
+----
+## Web Crawler + Elasticsearch
+
+Пример: https://github.com/Ravikisha/RelaxSearch
+- https://medium.com/@ravikishan63392/building-a-high-performance-full-text-search-engine-in-go-f2e4ec63e643
 
 
 ----
-📂 [[Go]] | Последнее изменение: 22.11.2024 15:20
+📂 [[Go]] | Последнее изменение: 17.12.2024 10:20

@@ -30,16 +30,16 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
-- [[Pydantic]]
-- [[Atomic Habits Tiny Changes, Remarkable Results]]
-- [[open]]
-- [[shot-scraper]]
-- [[План изучения языка Go]]
-- [[Code Review]]
-- [[youtubedr]]
-- [[Мутексы в Go]]
+- [[uv uvx]]
+- [[Conventions in Go]]
 - [[Go]]
-- [[Implementing an in-memory cache in Go]]
+- [[Generics in Go]]
+- [[Channels]]
+- [[Race Conditions in Go]]
+- [[Профилирование в Go]]
+- [[Pipelines]]
+- [[Wait Groups]]
+- [[Time]]
 
 
 ----
@@ -122,6 +122,7 @@ title: Оглавление
 	- 📄 [[pgAdmin]]<br>
 	- 📄 [[Prometheus]]<br>
 	- 📄 [[psql]]<br>
+	- 📄 [[hey]]<br>
 	- 📄 [[vim]]<br>
 	- 📄 [[cloc]]<br>
 	- 📄 [[jq]]<br>
@@ -131,7 +132,9 @@ title: Оглавление
 	- 📄 [[Caddy]]<br>
 	- 📄 [[Locust]]<br>
 	- 📄 [[migrate]]<br>
+	- 📄 [[golangci-lint]]<br>
 	- 📄 [[nc]]<br>
+	- 📄 [[dayone2]]<br>
 	- 📄 [[harlequin]]<br>
 	- 📄 [[Sentry]]<br>
 	- 📄 [[curl]]<br>
@@ -152,6 +155,7 @@ title: Оглавление
 	- 📄 [[VSCode]]<br>
 	- 📄 [[awk]]<br>
 	- 📄 [[sed]]<br>
+	- 📄 [[uv uvx]]<br>
 	- 📄 [[tmux]]<br>
 	- 📄 [[bash]]<br>
 	- 📄 [[MongoDB]]<br>
@@ -244,8 +248,10 @@ title: Оглавление
 		- 📄 [[Рефлексия]]<br>
 		- 📄 [[Слайсы]]<br>
 		- 📄 [[План изучения языка Go]]<br>
+		- 📄 [[Race Conditions in Go]]<br>
 		- 📄 [[Go Proverbs]]<br>
 		- 📄 [[Переменные и константы]]<br>
+		- 📄 [[Pipelines]]<br>
 		- 📄 [[Указатели]]<br>
 		- 📄 [[Интерфейсы в стандартной библиотеке]]<br>
 		- 📄 [[Особенности языка Go]]<br>
@@ -256,25 +262,32 @@ title: Оглавление
 		- 📄 [[Операторы ветвления]]<br>
 		- 📄 [[Циклы]]<br>
 		- 📄 [[Оператор отложенного вызова]]<br>
+		- 📄 [[Channels]]<br>
 		- 📄 [[Настройка окружения]]<br>
 		- 📄 [[Почему Go?]]<br>
 		- 📄 [[Область видимости]]<br>
 		- 📄 [[Мапы]]<br>
+		- 📄 [[Профилирование в Go]]<br>
 		- 📄 [[ООП в Go]]<br>
 		- 📄 [[Методы в Go]]<br>
+		- 📄 [[Time]]<br>
 		- 📄 [[Идеи проектов на Go]]<br>
 		- 📄 [[Мутексы в Go]]<br>
 		- 📄 [[Внешние зависимости]]<br>
+		- 📄 [[Conventions in Go]]<br>
 		- 📄 [[Функции]]<br>
 		- 📄 [[Общие сведения о Go]]<br>
+		- 📄 [[Generics in Go]]<br>
 		- 📄 [[Структуры]]<br>
 		- 📄 [[Фишки Go, которые надо знать и использовать]]<br>
 		- 📄 [[Функции panic и recover]]<br>
+		- 📄 [[Wait Groups]]<br>
 		- 📄 [[Интерфейсы в тестировании]]<br>
 		- 📄 [[Эмбеддинг (композиция)]]<br>
 		- 📄 [[Организация кода в проекте]]<br>
 		- 📄 [[Ошибки в Go]]<br>
 		- 📄 [[Интерфейсы в Go]]<br>
+		- 📄 [[Goroutines]]<br>
 		- 📄 [[Модули в Go]]<br>
 		- 📄 [[Пустой интерфейс и приведение типов]]<br>
 		- 📂 [[Best Practices]]<br>
@@ -363,6 +376,7 @@ title: Оглавление
 - 📂 [[Frameworks]]<br>
 	- 📄 [[SQLAlchemy]]<br>
 	- 📄 [[pytest]]<br>
+	- 📄 [[pytest_mock]]<br>
 	- 📄 [[Pydantic]]<br>
 	- 📄 [[marshmallow]]<br>
 	- 📂 [[Flask]]<br>

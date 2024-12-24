@@ -1,21 +1,24 @@
 ## Цели и задачи
 
 **Цель по #Go**:
+
 - сравнить его с Питоном и понять для себя, для каких задач он предпочтителен.
 - получить практику разработки в тех сферах, где язык актуален (CLI tools, API).
 
 **Для этого**:
+
 - ✅ Пройти бесплатный курс "Основы Go" от Яндекса.
 - ✅ Выписать вопросы для изучения из [[1f_vs_2f.pdf|плана курсов Яндекса]] *(см. ниже)*.
-- Параллельно:
-	- ✅ Делать REST API [[go-anvlink]] и изучать необходимое для этого.
-		- ✅ Проработать *Let's Go Further* by Alex Edwards.
-		- ✅ Проработать *Let's Go* by Alex Edwards.
-		- Проработать 📖 *Shipping Go*.
-	- Дочитать 📖 [[Learning Go (Bodner)]] (Гл. 7-14, стр. 129-324).
-	- Проработать [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests) (онлайн-учебник)
-- Проработать оставшиеся главы из 📖 *Powerful Command-Line Applications in Go*.
-	- со стр.110 *расписать, что сделано, и что осталось*
+- ✅ Делать REST API [[go-anvlink]] и изучать необходимое для этого.
+	- ✅ Проработать *Let's Go Further* by Alex Edwards.
+	- ✅ Проработать *Let's Go* by Alex Edwards.
+	- Проработать 📖 *Shipping Go*.
+	- TUI из 📖 *Powerful Command-Line Applications in Go*.
+		- со стр.110 *расписать, что сделано, и что осталось*
+	- *Effective Go Recipes: Fast Solutions to Common Tasks*
+
+- Дочитать 📖 [[Learning Go (Bodner)]] (Гл. 7-14, стр. 129-324).
+- Проработать [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests) (онлайн-учебник)
 - Доработать 🔑 **go-lockbox** до конца – [Issues](https://github.com/hazadus/go-lockbox/issues).
 - Изучить способы автоматической генерации документации API в Go.
 - Ознакомиться с популярными ORM.
@@ -39,13 +42,12 @@
 - ✅ *Let's Go* Alex Edwards
 - ✅ *Let's Go Further* Alex Edwards
 - 📖 *Powerful Command-Line Applications in Go* – подробное описание процесса создания интересных мини-проектов.
-- *Shipping Go* – настройка процесса CI/CD с примерами для проектов на Go.
-- John Arundel – *The Power of Go – Tools* – практика написания простых CLI-tool, пример простойшей shell.
+- 📖 *Shipping Go* – настройка процесса CI/CD с примерами для проектов на Go.
+- *Effective Go Recipes: Fast Solutions to Common Tasks* by Miki Tebeka от [PragProg](https://pragprog.com/titles/mtgo/effective-go-recipes/) – 2024 год, интересные рецепты. Скачана.
 - *100 Go Mistakes and How to Avoid Them* – есть также в виде сайта [100go.co](https://100go.co).
-
+- John Arundel – *The Power of Go – Tools* – практика написания простых CLI-tool, пример простойшей shell.
 ### Претенденты
 
-- *Effective Go Recipes: Fast Solutions to Common Tasks* by Miki Tebeka от [PragProg](https://pragprog.com/titles/mtgo/effective-go-recipes/) – 2024 год, интересные рецепты. Скачана.
 - *gRPC: запуск и эксплуатация облачных приложений* – скачана. Тема важная.
 - *Go Cookbook* – скачана. Сборник рецептов, может быть что-то полезное.
 - John Arundel – *Know Go Generics* – скачана. С дженериками нужно разобраться.
@@ -133,4 +135,4 @@
 		- Разработка gRPC клиента (агента?) и сервера
 
 ----
-📂 [[Go]] | Последнее изменение: 08.12.2024 22:07
+📂 [[Go]] | Последнее изменение: 12.12.2024 10:13

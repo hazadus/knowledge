@@ -57,7 +57,30 @@
 - When you binge-eat or light up or browse social media, what you really want is *not* a potato chip or a cigarette or a bunch of likes. What you really want is to *feel* different. ([View Highlight](https://read.readwise.io/read/01je3b16cfzkbvg6kgv9z1hegs))
 
 
+## New highlights added December 19, 2024 at 2:22 PM
+- When you can’t win by being better, you can win by being different. By combining your skills, you reduce the level of competition, which makes it easier to stand out. You can shortcut the need for a genetic advantage (or for years of practice) by rewriting the rules. A good player works hard to win the game everyone else is playing. A great player creates a new game that favors their strengths and avoids their weaknesses. ([View Highlight](https://read.readwise.io/read/01jer19has4jtvj9ae1rba4tkf))
+
+- Once a habit has been established, however, it’s important to continue to advance in small ways. These little improvements and new challenges keep you engaged. And if you hit the Goldilocks Zone just right, you can achieve a *flow state*.[*](#footnote_1) ([View Highlight](https://read.readwise.io/read/01jer3yc7a36gq7wyke9cy60g4))
+
+- I can guarantee that if you manage to start a habit and keep sticking to it, there will be days when you feel like quitting. When you start a business, there will be days when you don’t feel like showing up. When you’re at the gym, there will be sets that you don’t feel like finishing. When it’s time to write, there will be days that you don’t feel like typing. But stepping up when it’s annoying or painful or draining to do so, that’s what makes the difference between a professional and an amateur.
+  Professionals stick to the schedule; amateurs let life get in the way. Professionals know what is important to them and work toward it with purpose; amateurs get pulled off course by the urgencies of life. ([View Highlight](https://read.readwise.io/read/01jer4aesd0v5w4xq6zxdbmd06))
+    - Note: Отличие профессионала от любителя - профессионал делает свою работу не смотря ни на какие препятствия.
+
+- However, the benefits of habits come at a cost. At first, each repetition develops fluency, speed, and skill. But then, as a habit becomes automatic, you become less sensitive to feedback. You fall into mindless repetition. It becomes easier to let mistakes slide. When you can do it “good enough” on autopilot, you stop thinking about how to do it better. ([View Highlight](https://read.readwise.io/read/01jewnmj70552w2m9s7a7dve3v))
+
+- The less energy you spend on trivial choices, the more you can spend it on what really matters. ([View Highlight](https://read.readwise.io/read/01jewnp1ddmjns5cw15v0pdpnt))
+
+- Improvement is not just about learning habits, it’s also about fine-tuning them. Reflection and review ensures that you spend your time on the right things and make course corrections whenever necessary—like Pat Riley adjusting the effort of his players on a nightly basis. You don’t want to keep practicing a habit if it becomes ineffective. ([View Highlight](https://read.readwise.io/read/01jewx2442w7sj0x4d7dh8430f))
+    - Note: Ещё одно подтверждение важности проведения регулярных ревью своих целей, планов, результатов. Это касается не только привычек, но и в целом всей деятельности.
+
+- When you cling too tightly to one identity, you become brittle. Lose that one thing and you lose yourself. ([View Highlight](https://read.readwise.io/read/01jexcvra59kdcj2rbxm9a9gnv))
+
+- Habits deliver numerous benefits, but the downside is that they can lock us into our previous patterns of thinking and acting—even when the world is shifting around us. Everything is impermanent. Life is constantly changing, so you need to periodically check in to see if your old habits and beliefs are still serving you.
+  A lack of self-awareness is poison. Reflection and review is the antidote. ([View Highlight](https://read.readwise.io/read/01jexcyz9pjv1wejjma38tk4wd))
+    - Note: Опять возвращаемся к необходимости регулярных ревью.
+
+
 
 
 ----
-📂 [[Reading]] | Последнее изменение: 10.12.2024 12:34
+📂 [[Reading]] | Последнее изменение: 19.12.2024 14:22

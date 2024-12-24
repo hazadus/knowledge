@@ -33,6 +33,7 @@
 	- [[Модули в Go|Модули]]
 	- [[Внешние зависимости]]
 	- [[Правила хорошего тона при поддержке собственных модулей]]
+		- [[Conventions in Go|Conventions]]
 - [[ООП в Go|ООП]]
 	- [[Методы в Go|Методы]]
 	- [[Эмбеддинг (композиция)]]
@@ -46,8 +47,20 @@
 	- [[Юнит-тесты и покрытие кода]]
 	- [[Интерфейсы в тестировании]]
 - Concurrency
-	- [[Мутексы в Go|Мутексы]]
-
+	- Основы
+		- 📖 [[Goroutines]]
+		- 📖 [[Channels]]
+		- 📖 [[Pipelines]]
+		- 📖 [[Time]]
+		- Context
+	- Синхронизация
+		- 📖 [[Wait Groups]]
+		- 📖 [[Race Conditions in Go|Race Conditions]]
+		- [[Мутексы в Go|Мутексы]]
+- Generics
+	- 📖 [[Generics in Go|Generics]]
+- Производительность
+	- 📖 [[Профилирование в Go|Профилирование]]
 ### Best Practices
 
 - [[Practical Go - Real world advice for writing maintainable Go programs]]
@@ -88,4 +101,4 @@
 
 
 ----
-📂 [[Go]] | Последнее изменение: 03.12.2024 10:31
+📂 [[Go]] | Последнее изменение: 24.12.2024 14:15
