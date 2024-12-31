@@ -30,16 +30,16 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[Go]]
+- [[How to Take Smart Notes One Simple Technique to Boost Writing, Learning and Thinking – For Students, Academics and Nonfiction Book Writers]]
+- [[Race Conditions in Go]]
+- [[Организация кода в проекте]]
 - [[uv uvx]]
 - [[Conventions in Go]]
-- [[Go]]
 - [[Generics in Go]]
 - [[Channels]]
-- [[Race Conditions in Go]]
 - [[Профилирование в Go]]
 - [[Pipelines]]
-- [[Wait Groups]]
-- [[Time]]
 
 
 ----
@@ -93,6 +93,7 @@ title: Оглавление
 	- 📄 [[Python. Разработка на основе тестирования]]<br>
 	- 📄 [[Books Read]]<br>
 	- 📄 [[Learning Go (Bodner)]]<br>
+	- 📄 [[How to Take Smart Notes One Simple Technique to Boost Writing, Learning and Thinking – For Students, Academics and Nonfiction Book Writers]]<br>
 	- 📄 [[XP Explained, 2nd ed]]<br>
 	- 📄 [[Как пасти котов]]<br>
 	- 📄 [[Fluent Python]]<br>
