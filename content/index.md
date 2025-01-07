@@ -32,6 +32,7 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[hey]]
 - [[Building a Second Brain]]
 - [[How to Take Smart Notes One Simple Technique to Boost Writing, Learning and Thinking – For Students, Academics and Nonfiction Book Writers]]
 - [[Channels]]
@@ -41,7 +42,6 @@ title: Оглавление
 - [[Context]]
 - [[Race Conditions in Go]]
 - [[Организация кода в проекте]]
-- [[uv uvx]]
 
 
 ----
