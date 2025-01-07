@@ -101,6 +101,9 @@ title: Оглавление
 Загляните также к коллегам-садоводам:
 - [https://chrnmaxim.github.io/knowledge/](https://chrnmaxim.github.io/knowledge/)
 
+Ещё интересные базы знаний:
+- [https://github.com/alexey-goloburdin/knowledge-base](https://github.com/alexey-goloburdin/knowledge-base)
+
 ----
 
 ## Актуальное
@@ -108,7 +111,6 @@ title: Оглавление
 - [[Go]]
 - ⚡ [[FastAPI]]
 - 🧪 [[pytest]]
-- 📚 [[План по чтению]]
 
 ### Недавно обновлённые заметки
 
@@ -123,6 +125,5 @@ title: Оглавление
 {toc_full}
 """
 
-print(index_md)
 with open(f"{CONTENT_PATH}/index.md", "w") as file:
     file.write(index_md)

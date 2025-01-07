@@ -43,7 +43,23 @@
 
 
 
+## New highlights added January 7, 2025 at 9:31 AM
+- 4.Now add your new permanent notes to the slip-box by:
+  a)   Filing each one behind one or more related notes (with a program, you can put one note “behind” multiple notes; if you use pen and paper like Luhmann, you have to decidewhere it fits best and add manual links to the other notes). Look to which note the new one directly relates or, if it does not relate directly to any other note yet, just file it behind the last one.
+  b)    Adding links to related notes.
+  c)   Making sure you will be able to find this note later by either linking to it from your index or by making a link to it on a note that you use as an entry point to a discussion or topic and is itself linked to the index. ([View Highlight](https://read.readwise.io/read/01jg5wxd6p9ee5pqxzj0b40czj))
+    - Note: Установить связи между заметками, добавить темы.
+
+- 5.Develop your topics, questions and research projects bottom up from within the system. See what is there, what is missing and what questions arise. Read more to challenge and strengthen your arguments and change and develop your arguments according to the new information you are learning about. Take more notes, develop ideas further and see where things will take you. ([View Highlight](https://read.readwise.io/read/01jg5x999g7ekr6whvstjkwtyx))
+    - Note: Прорабатывать темы, задавать вопросы, делать новые заметки и дорабатывать существующие.
+
+- 6.After a while, you will have developed ideas far enough to decide on a topic to write about. Your topic is now based on what youhave, not based on an unfounded idea about what the literature you are about to read might provide. Look through the connections and collect all the relevant notes on this topic ([View Highlight](https://read.readwise.io/read/01jg5xccfr2mfczw0axefzm1t3))
+
+- As the only way to find out if something is worth reading is by reading it (even just bits of it), it makes sense to use the time spent in the best possible way. We constantly encounter interesting ideas along the way and only a fraction of them are useful for the particular paper we started reading it for. Why let them go to waste? ([View Highlight](https://read.readwise.io/read/01jg6c8gvf0771d5xbdb8s151g))
+    - Note: Интересные идеи, найденные или появившиеся во время чтения, нужно фиксировать - независимо от того, нужны ли они для текущей работы.
+
+
 
 
 ----
-📂 [[Reading]] | Последнее изменение: 27.12.2024 23:36
+📂 [[Reading]] | Последнее изменение: 07.01.2025 09:31

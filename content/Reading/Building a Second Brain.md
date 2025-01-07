@@ -99,7 +99,15 @@
 
 - The purpose of knowledge is to be shared. What’s the point of knowing something if it doesn’t positively impact anyone, not even yourself? Learning shouldn’t be about hoarding stockpiles of knowledge like gold coins. Knowledge is the only resource that gets better and more valuable the more it multiplies. If I share a new way of thinking about your health, or finances, or business, or spirituality, that knowledge isn’t less valuable to me. It’s more valuable! Now we can speak the same language, coordinate our efforts, and share our progress in applying it. Knowledge becomes more powerful as it spreads. ([View Highlight](https://read.readwise.io/read/01jd4ma0gm78ry58g3ktbkt10m))
 
+## New highlights added January 7, 2025 at 9:31 AM
+- Progressive Summarization is not a method for remembering as much as possible—it is a method for forgetting as much as possible. As you distill your ideas, they naturally improve, because when you drop the merely good parts, the great parts can shine more brightly. To be clear, it takes skill and courage to let the details fall away. ([View Highlight](https://read.readwise.io/read/01jctw8mz6ee44fjdtn3z1r8wd))
+
+- “When should I be doing this highlighting?” The answer is that you should do it *when you’re getting ready to create something.* ([View Highlight](https://read.readwise.io/read/01jctwkqsp4fm64e94jwh1613b))
+
+- For example, when I’m preparing to write a blog post or article, I’ll usually start by highlighting the most interesting points from a group of notes that I think will be relevant to the topic at hand. That way I have a predictable, not-too-difficult task to get me warmed up for writing, the same way an athlete might have a warm-up and stretching routine. ([View Highlight](https://read.readwise.io/read/01jctwmztzqkfbkxmvh74v0zw4))
+
+
 
 
 ----
-📂 [[Reading]] | Последнее изменение: 20.11.2024 14:52
+📂 [[Reading]] | Последнее изменение: 07.01.2025 09:31

@@ -50,11 +50,11 @@
 	- *Найти материал*
 - Concurrency
 	- Основы
-		- 📖 [[Goroutines]]
-		- 📖 [[Channels]]
+		- ✅ [[Goroutines]]
+		- ✅ [[Channels]]
 		- 📖 [[Pipelines]]
 		- 📖 [[Time]]
-		- Context
+		- [[Context]]
 	- Синхронизация
 		- 📖 [[Wait Groups]]
 		- 📖 [[Race Conditions in Go|Race Conditions]]
@@ -103,4 +103,4 @@
 
 
 ----
-📂 [[Go]] | Последнее изменение: 30.12.2024 18:55
+📂 [[Go]] | Последнее изменение: 02.01.2025 19:11

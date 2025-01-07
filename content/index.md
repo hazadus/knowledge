@@ -19,6 +19,9 @@ title: Оглавление
 Загляните также к коллегам-садоводам:
 - [https://chrnmaxim.github.io/knowledge/](https://chrnmaxim.github.io/knowledge/)
 
+Ещё интересные базы знаний:
+- [https://github.com/alexey-goloburdin/knowledge-base](https://github.com/alexey-goloburdin/knowledge-base)
+
 ----
 
 ## Актуальное
@@ -26,20 +29,19 @@ title: Оглавление
 - [[Go]]
 - ⚡ [[FastAPI]]
 - 🧪 [[pytest]]
-- 📚 [[План по чтению]]
 
 ### Недавно обновлённые заметки
 
-- [[Go]]
+- [[Building a Second Brain]]
 - [[How to Take Smart Notes One Simple Technique to Boost Writing, Learning and Thinking – For Students, Academics and Nonfiction Book Writers]]
+- [[Channels]]
+- [[Goroutines]]
+- [[Go]]
+- [[Wait Groups]]
+- [[Context]]
 - [[Race Conditions in Go]]
 - [[Организация кода в проекте]]
 - [[uv uvx]]
-- [[Conventions in Go]]
-- [[Generics in Go]]
-- [[Channels]]
-- [[Профилирование в Go]]
-- [[Pipelines]]
 
 
 ----
@@ -251,6 +253,7 @@ title: Оглавление
 		- 📄 [[План изучения языка Go]]<br>
 		- 📄 [[Race Conditions in Go]]<br>
 		- 📄 [[Go Proverbs]]<br>
+		- 📄 [[Context]]<br>
 		- 📄 [[Переменные и константы]]<br>
 		- 📄 [[Pipelines]]<br>
 		- 📄 [[Указатели]]<br>
