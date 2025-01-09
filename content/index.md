@@ -32,6 +32,7 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[SSE]]
 - [[Meetings]]
 - [[hey]]
 - [[Building a Second Brain]]
@@ -41,7 +42,6 @@ title: Оглавление
 - [[Go]]
 - [[Wait Groups]]
 - [[Context]]
-- [[My Approach to Running a Link Blog]]
 
 
 ----
@@ -193,6 +193,7 @@ title: Оглавление
 	- 📄 [[Python Web Frameworks]]<br>
 	- 📄 [[REST API]]<br>
 	- 📄 [[Web]]<br>
+	- 📄 [[SSE]]<br>
 	- 📄 [[Tokens]]<br>
 	- 📄 [[DoS Attack]]<br>
 	- 📂 [[HTTP]]<br>

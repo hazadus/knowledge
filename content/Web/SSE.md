@@ -116,3 +116,6 @@ func sseHandler(w http.ResponseWriter, r *http.Request) {
 
 - https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events
 - https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events
+
+----
+📂 [[Web]] | Последнее изменение: 09.01.2025 21:51
