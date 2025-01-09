@@ -32,6 +32,7 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[Meetings]]
 - [[hey]]
 - [[Building a Second Brain]]
 - [[How to Take Smart Notes One Simple Technique to Boost Writing, Learning and Thinking – For Students, Academics and Nonfiction Book Writers]]
@@ -40,8 +41,7 @@ title: Оглавление
 - [[Go]]
 - [[Wait Groups]]
 - [[Context]]
-- [[Race Conditions in Go]]
-- [[Организация кода в проекте]]
+- [[My Approach to Running a Link Blog]]
 
 
 ----
@@ -58,6 +58,7 @@ title: Оглавление
 	- 📂 [[HTTP]]<br>
 - 📂 [[Мотивация]]<br>
 - 📂 [[Networking]]<br>
+- 📂 [[Articles]]<br>
 - 📂 [[Идеи]]<br>
 - 📂 [[Libraries]]<br>
 - 📂 [[Базы данных]]<br>
@@ -219,6 +220,105 @@ title: Оглавление
 	- 📄 [[DNS]]<br>
 	- 📄 [[Terms]]<br>
 	- 📄 [[Protocols]]<br>
+- 📂 [[Articles]]<br>
+	- 📄 [[Заимствования В Русском Языке — Википедия]]<br>
+	- 📄 [[Django REST Framework and Vue Versus Django and HTMX  TestDriven.io]]<br>
+	- 📄 [[Periodic Face-to-Face]]<br>
+	- 📄 [[Getting Started With Nuxt Image]]<br>
+	- 📄 [[The Thaumaturge Обзор RPG От создателей «Ведьмака»  StopGame]]<br>
+	- 📄 [[Pt.1 - How to Design a RESTful API Architecture From a Human-Language Spec – O’Reilly]]<br>
+	- 📄 [[Writing a Blog on the Internet]]<br>
+	- 📄 [[Marshmallow vs. Pydantic - Python's 2 Best Libraries for Data Serialization and Validation]]<br>
+	- 📄 [[Mental Health in Open Source]]<br>
+	- 📄 [[Переход В Айти]]<br>
+	- 📄 [[The AI bullshit singularity  Successful Software]]<br>
+	- 📄 [[11 Obsidian Tips for Newcomers Improve Your Note-Taking - Face Dragons]]<br>
+	- 📄 [[Programming Stuff Я Выгорел]]<br>
+	- 📄 [[Single and Double Underscores in Python Names – Real Python]]<br>
+	- 📄 [[Testing With Python (Part 2) Moving to Pytest]]<br>
+	- 📄 [[Why I Write]]<br>
+	- 📄 [[Dark Souls III Прохождение  StopGame - P.1]]<br>
+	- 📄 [[A unified theory of fucks  A Working Library]]<br>
+	- 📄 [[Programming Stuff Главный Навык Программиста]]<br>
+	- 📄 [[Everything You Need to Know About Sorcery in Dark Souls 3]]<br>
+	- 📄 [[How to Get Started With Golang – A Developer Roadmap]]<br>
+	- 📄 [[Why I'm Not Writing a Productivity Series - Jacob Kaplan-Moss]]<br>
+	- 📄 [[Python News Roundup November 2024]]<br>
+	- 📄 [[My Diverse Hiring Playbook - Jacob Kaplan-Moss]]<br>
+	- 📄 [[Dec 8 Suite Smells Undertesting and Overtesting]]<br>
+	- 📄 [[Unexpected Glass Ceilings for Junior Developers]]<br>
+	- 📄 [[How to Contribute to Open Source  Open Source Guides]]<br>
+	- 📄 [[Last Week in Fediverse – Ep 60 – The Fediverse Report]]<br>
+	- 📄 [[Programming Stuff О Мотивации]]<br>
+	- 📄 [[How to Fix Snapd Process Consuming Lot of Data and CPU]]<br>
+	- 📄 [[The Curse of the Senior Software Engineer - Dmitry Kudryavtsev]]<br>
+	- 📄 [[How much effort is it to create software - Bite code!]]<br>
+	- 📄 [[The Fediverse, Explained Mastodon, Threads, and the Open Future of Social Networking - The Verge]]<br>
+	- 📄 [[Fluent Python]]<br>
+	- 📄 [[Let’s Build A Web Server. Part 1. - Ruslan's Blog]]<br>
+	- 📄 [[Making Use of Code Coverage  Epic Web Dev]]<br>
+	- 📄 [[Pt.3 - How a RESTful API Represents Resources – O’Reilly]]<br>
+	- 📄 [[Why Engineers Should Focus on Writing - Dmitry Kudryavtsev]]<br>
+	- 📄 [[Tim Ferriss on tolerable mediocrity, false idols, diversifying your identity, and the advice he gives startups – Signal v. Noise]]<br>
+	- 📄 [[Пол Макги - Мастерство Общения]]<br>
+	- 📄 [[Pt.2 - How a RESTful API Server Reacts to Requests – O’Reilly]]<br>
+	- 📄 [[The Multiple Meanings of Nameserver and DNS Resolver]]<br>
+	- 📄 [[Common Testing Mistakes]]<br>
+	- 📄 [[The Beautiful Theory of TDD and the Reality Check of Practice]]<br>
+	- 📄 [[Where’s That Log File Debugging Failed Docker Builds]]<br>
+	- 📄 [[Palworld Купить Пропустить Скачать Бесплатно Наш Обзор  Видеоигры  Мир Фантастики И Фэнтези]]<br>
+	- 📄 [[Redis and Python 20% of Effort, 80% of Effects]]<br>
+	- 📄 [[How to Stay Junior Forever - Dmitry Kudryavtsev]]<br>
+	- 📄 [[The True Purpose of Testing  Epic Web Dev]]<br>
+	- 📄 [[(3) Асинхронный SQLAlchemy 2 улучшение кода, методы обновления и удаления данных]]<br>
+	- 📄 [[Shipping Go Develop, deliver, discuss, design, and go again]]<br>
+	- 📄 [[10 Reasons I Stick to Django Rather Than FastAPI]]<br>
+	- 📄 [[Достопримечательности Пскова В 2024 Году Список Из 10 Мест, C Фото И Картой]]<br>
+	- 📄 [[Configuring Gunicorn for Docker]]<br>
+	- 📄 [[Что Должно Быть В Портфолио Джуна-Разработчика Мнение Руководителей  Хабр]]<br>
+	- 📄 [[Культура Брожения — Авторевю]]<br>
+	- 📄 [[Soft Skills 18 Самых Востребованных Навыков В 2023 Году — Виктория Самарская На vc.ru]]<br>
+	- 📄 [[Let’s Build A Simple Interpreter. Part 2. - Ruslan's Blog]]<br>
+	- 📄 [[Software Estimation Is Hard. Do It Anyway.]]<br>
+	- 📄 [[Глава Московского Района «Все Хотят Самую Лучшую Школу И Самый Лучший Садик — Во Дворе Своего Дома»]]<br>
+	- 📄 [[Tracking Engineering Time - Jacob Kaplan-Moss]]<br>
+	- 📄 [[Стоит Ли Идти В IT И Становиться Программистом Как Пройти Путь От Джуна До Сеньора  Skillbox Media]]<br>
+	- 📄 [[Что Работодатели Ждут От Джуниоров-Разработчиков В 2024 Году — Карьера На vc.ru]]<br>
+	- 📄 [[Tailwind Marketing and Misinformation Engine]]<br>
+	- 📄 [[10 Книг, Которые Помогут Прокачать Навыки Общения - Лайфхакер]]<br>
+	- 📄 [[Let’s Build A Simple Interpreter. Part 1. - Ruslan's Blog]]<br>
+	- 📄 [[Programming Stuff О Пользе Ведения Блога]]<br>
+	- 📄 [[What’s Running in Production Making Your Docker Images Identifiable]]<br>
+	- 📄 [[Best Journaling App for iPhone, iPad, and Mac — The Sweet Setup]]<br>
+	- 📄 [[Pydantic 2 Полное Руководство Для Python-Разработчиков — От Основ До Продвинутых Техник]]<br>
+	- 📄 [[Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024  SleepEasy Website Monitor]]<br>
+	- 📄 [[The Dark Side of Open Source - kettanaito.com]]<br>
+	- 📄 [[How to Perform Code Reviews in Tech – The Painless Way]]<br>
+	- 📄 [[Programming Stuff О Книге Джона Сонмеза “The Complete Software Developer’s Career Guide”]]<br>
+	- 📄 [[Managing Technical Debt - Jacob Kaplan-Moss]]<br>
+	- 📄 [[Tips for Writing Clean Go Code]]<br>
+	- 📄 [[So you've been reorg'd... - Jacob Kaplan-Moss]]<br>
+	- 📄 [[My Approach to Running a Link Blog]]<br>
+	- 📄 [[Dunning–Kruger Effect]]<br>
+	- 📄 [[Get your work recognized write a brag document]]<br>
+	- 📄 [[How to Learn Stuff Quickly]]<br>
+	- 📄 [[Unexpected python traps for beginners - Bite code!]]<br>
+	- 📄 [[The Secret Power of ‘Read It Later’ Apps]]<br>
+	- 📄 [[Programming Stuff Эффект Плато]]<br>
+	- 📄 [[Псков 2024 Что Посмотреть За 1 День Самостоятельно]]<br>
+	- 📄 [[My Software Estimation Technique - Jacob Kaplan-Moss]]<br>
+	- 📄 [[Breaking Down Tasks - Jacob Kaplan-Moss]]<br>
+	- 📄 [[Dark Souls III Прохождение  StopGame - P.3]]<br>
+	- 📄 [[(1) Асинхронный SQLAlchemy 2 простой пошаговый гайд по настройке, моделям, связям и миграциям с использованием Alembic]]<br>
+	- 📄 [[Meetings]]<br>
+	- 📄 [[Knowing How You Work Best is a Cheat Code for Better Productivity – The Sweet Setup]]<br>
+	- 📄 [[Mastering the Reading to Knowledge Pipeline With Omnivore]]<br>
+	- 📄 [[The Art of DJing CCL · Feature ⟋ RA]]<br>
+	- 📄 [[Jan 14 A career ending mistake]]<br>
+	- 📄 [[Ghost Engineers]]<br>
+	- 📄 [[(2) Асинхронный SQLAlchemy 2 пошаговый гайд по управлению сессиями, добавлению и извлечению данных с Pydantic]]<br>
+	- 📄 [[Что Джуну Без Опыта Показать На Собеседовании Вклад В Open Source Или Пет-Проекты  Хабр]]<br>
+	- 📄 [[2023 Gems of the year winners - Obsidian]]<br>
 - 📂 [[Идеи]]<br>
 	- 📄 [[Попробовать в проектах]]<br>
 	- 📄 [[Идеи приложений]]<br>
