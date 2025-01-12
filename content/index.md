@@ -32,6 +32,8 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[Рецепты на Go]]
+- [[bash]]
 - [[SSE]]
 - [[Meetings]]
 - [[hey]]
@@ -40,8 +42,6 @@ title: Оглавление
 - [[Channels]]
 - [[Goroutines]]
 - [[Go]]
-- [[Wait Groups]]
-- [[Context]]
 
 
 ----

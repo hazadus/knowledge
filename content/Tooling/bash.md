@@ -14,11 +14,33 @@ LC_ALL=C tr -dc 'A-Za-z0-9@#%^&*()_+=-{}[]:;<>,.?/' \
 
 ## Цикл `for`
 
+More examples: https://www.cyberciti.biz/faq/bash-for-loop/
+
 Пример:
 
 ```bash
 for i in {1..6}; do curl http://localhost:4000/v1/healthcheck; done
 ```
 
+### Infinite loop
+
+```bash
+for (( ; ; ))
+do
+   echo "infinite loops [ hit CTRL+C to stop]"
+done
+```
+
+## Add Numbers
+
+```bash
+num=$((num1 + num2))
+num=$(($num1 + $num2))       # Also works
+num=$((num1 + 2 + 3))        # ...
+num=$[num1+num2]             # Old, deprecated arithmetic expression syntax
+```
+
+
+
 ----
-📂 [[Tooling]] | Последнее изменение: 01.12.2024 13:53
+📂 [[Tooling]] | Последнее изменение: 11.01.2025 19:12

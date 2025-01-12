@@ -7,7 +7,8 @@ With **server-sent events**, it's possible for a server to send new data to a we
 
 ## Особенности и недостатки
 
-- Нет возможности отправлять данные с клиента на сервер.
+- Так как каждый клиент имеет отдельное соединение с сервером, нет возможности разослать одновременно одно и то же сообщение с сервера всем подключенным клиентам (broadcast).
+- Это очевидно, но тем не менее – нет возможности отправлять данные с клиента на сервер.
 
 ## Events
 
@@ -118,4 +119,4 @@ func sseHandler(w http.ResponseWriter, r *http.Request) {
 - https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events
 
 ----
-📂 [[Web]] | Последнее изменение: 09.01.2025 21:51
+📂 [[Web]] | Последнее изменение: 09.01.2025 22:09

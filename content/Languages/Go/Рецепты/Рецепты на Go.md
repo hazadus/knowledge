@@ -227,7 +227,15 @@ func main() {
 ----
 ## Работа с файлами
 
-...
+### Проверка существования файла
+
+```go
+// fileExists возвращает true, eсли файл filePath существует, и false в противном случае.
+func fileExists(filePath string) bool {
+	_, err := os.Stat(filePath)
+	return !errors.Is(err, os.ErrNotExist)
+}
+```
 
 ----
 ## Работа с JSON
@@ -439,4 +447,4 @@ func Fib(n int) int {
 
 
 ----
-📂 [[Рецепты]] | Последнее изменение: 25.08.2024 10:59
+📂 [[Рецепты]] | Последнее изменение: 12.01.2025 18:24
