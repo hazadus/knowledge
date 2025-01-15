@@ -32,6 +32,8 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[План по чтению]]
+- [[План изучения языка Go]]
 - [[Рецепты на Go]]
 - [[bash]]
 - [[SSE]]
@@ -40,8 +42,6 @@ title: Оглавление
 - [[Building a Second Brain]]
 - [[How to Take Smart Notes One Simple Technique to Boost Writing, Learning and Thinking – For Students, Academics and Nonfiction Book Writers]]
 - [[Channels]]
-- [[Goroutines]]
-- [[Go]]
 
 
 ----

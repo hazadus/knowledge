@@ -1,38 +1,44 @@
-## Цели и задачи
+## Цели
 
-**Цель по #Go**:
-
-- сравнить его с Питоном и понять для себя, для каких задач он предпочтителен.
+- сравнить его с другими языками и понять для себя, для каких задач он предпочтителен.
 - получить практику разработки в тех сферах, где язык актуален (CLI tools, API).
 
-**Для этого**:
+----
+## Задачи
 
 - ✅ Пройти бесплатный курс "Основы Go" от Яндекса.
 - ✅ Выписать вопросы для изучения из [[1f_vs_2f.pdf|плана курсов Яндекса]] *(см. ниже)*.
 - ✅ Делать REST API [[go-anvlink]] и изучать необходимое для этого.
 	- ✅ Проработать *Let's Go Further* by Alex Edwards.
 	- ✅ Проработать *Let's Go* by Alex Edwards.
-	- Проработать 📖 *Shipping Go*.
+	- ✅ Проработать 📖 *Shipping Go*.
 	- TUI из 📖 *Powerful Command-Line Applications in Go*.
 		- со стр.110 *расписать, что сделано, и что осталось*
 	- *Effective Go Recipes: Fast Solutions to Common Tasks*
 
-- Дочитать 📖 [[Learning Go (Bodner)]] (Гл. 7-14, стр. 129-324).
-- Проработать [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests) (онлайн-учебник)
-- Доработать 🔑 **go-lockbox** до конца – [Issues](https://github.com/hazadus/go-lockbox/issues).
 - Изучить способы автоматической генерации документации API в Go.
 - Ознакомиться с популярными ORM.
-- gRPC
+- Проверить по [[1f_vs_2f.pdf|плану курсов Яндекса]], какие вопросы осталось проработать.
+
+### Практика
+
+*Формат практика + необходимая под неё теория.*
+
+- [ ] 👨‍💻 [[go-logstream]] → 🎓 [[Channels]], `fsnotify`, `embed`, `templates`
+- [ ] 👨‍💻 [gophercises](https://courses.calhoun.io/courses/cor_gophercises) → 🎓 теория по необходимости
+
+*Ещё идеи и материалы для учебных проектов:*
+
+- [ ] gRPC
 	- [Introduction to gRPC in Go](https://mail.google.com/mail/u/0/#inbox/WhctKLbMzLTkLCTTfSNbLlJtQvQLLWfxjnnchQwPQFZVLZcxGFrhMkCMPwGjWQsZhMtkqXQ) (рассылка от Jon Calhoun)
 	- Видео *gRPC сервис (Тузов)* (скачано)
 	- См. книгу *gRPC: запуск и эксплуатация облачных приложений* (скачана).
 	- Поискать https://www.bytesizego.com/grpc-with-go?coupon=jonsentme
 - Видео туториалы по разработке мини-проектов (скачаны):
-	- *gRPC сервис (Тузов)*
 	- *Simple Redis Server From Scratch In Golang*
 	- *Distributed File Storage In Go*
-- Реализовать [[Идеи проектов на Go]].
-- Проверить по [[1f_vs_2f.pdf|плану курсов Яндекса]], какие вопросы осталось проработать.
+-  [[Идеи проектов на Go]].
+- 💡 Проекты DIY (`tag:DIY`, `tag:Try`) в Readwise.
 
 ----
 ## 📚 Книги
@@ -42,7 +48,9 @@
 - ✅ *Let's Go* Alex Edwards
 - ✅ *Let's Go Further* Alex Edwards
 - 📖 *Powerful Command-Line Applications in Go* – подробное описание процесса создания интересных мини-проектов.
-- 📖 *Shipping Go* – настройка процесса CI/CD с примерами для проектов на Go.
+- ✅ *Shipping Go* – настройка процесса CI/CD с примерами для проектов на Go.
+- [[Язык программирования Go (Донован, Керниган)]]
+- Дочитать 📖 [[Learning Go (Bodner)]] (Гл. 7-14, стр. 129-324).
 - *Effective Go Recipes: Fast Solutions to Common Tasks* by Miki Tebeka от [PragProg](https://pragprog.com/titles/mtgo/effective-go-recipes/) – 2024 год, интересные рецепты. Скачана.
 - *100 Go Mistakes and How to Avoid Them* – есть также в виде сайта [100go.co](https://100go.co).
 - John Arundel – *The Power of Go – Tools* – практика написания простых CLI-tool, пример простойшей shell.
@@ -74,7 +82,7 @@
 	- Сторонние сериализаторы
 - Пакет `compress`. Сжатие данных
 	- ✅ Код умеет сжимать данные ответа с помощью `gzip`
-- Пакет `os`. Чтение и запись в файл
+- ✅ Пакет `os`. Чтение и запись в файл
 - Пакет `time`
 	- Время: даты, интервалы, таймеры
 - Пакет `context`. Отмена операций и управление временем выполнения
@@ -135,4 +143,4 @@
 		- Разработка gRPC клиента (агента?) и сервера
 
 ----
-📂 [[Go]] | Последнее изменение: 12.12.2024 10:13
+📂 [[Go]] | Последнее изменение: 13.01.2025 00:08
