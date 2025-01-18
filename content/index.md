@@ -32,16 +32,16 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[Alembic]]
+- [[tuna]]
+- [[Рецепты на Go]]
 - [[План по чтению]]
 - [[План изучения языка Go]]
-- [[Рецепты на Go]]
 - [[bash]]
 - [[SSE]]
 - [[Meetings]]
 - [[hey]]
 - [[Building a Second Brain]]
-- [[How to Take Smart Notes One Simple Technique to Boost Writing, Learning and Thinking – For Students, Academics and Nonfiction Book Writers]]
-- [[Channels]]
 
 
 ----
@@ -128,6 +128,7 @@ title: Оглавление
 	- 📄 [[psql]]<br>
 	- 📄 [[hey]]<br>
 	- 📄 [[vim]]<br>
+	- 📄 [[tuna]]<br>
 	- 📄 [[cloc]]<br>
 	- 📄 [[jq]]<br>
 	- 📄 [[Alembic]]<br>

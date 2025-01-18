@@ -238,6 +238,33 @@ func fileExists(filePath string) bool {
 ```
 
 ----
+## Web
+### Print Request Body
+
+```go
+	// a map[string]any to hold your data
+	dataStructure := new(map[string]any)
+
+	// a buffer to hold the raw bytes
+	buf := new(bytes.Buffer)
+
+	// read the response into the buffer
+	_, err := buf.ReadFrom(r.Body)
+	if err != nil {
+		app.ResponseError(w, r, "failed to decode request body", 500, err)
+		return
+	}
+
+	// unmarshal the buffer into your map[string]any
+	json.Unmarshal(buf.Bytes(), dataStructure)
+
+	log.Debug(
+		"Request body",
+		"body", dataStructure,
+	)
+```
+
+----
 ## Работа с JSON
 ### Marshal `struct` to JSON
 
@@ -447,4 +474,4 @@ func Fib(n int) int {
 
 
 ----
-📂 [[Рецепты]] | Последнее изменение: 12.01.2025 18:24
+📂 [[Рецепты]] | Последнее изменение: 17.01.2025 10:17
