@@ -12,7 +12,16 @@ ruff check --select I --fix
 ruff format
 ```
 
+---
+## Check and Fix Unused Imports
 
+```bash
+# Check
+uv run ruff check . && uv run ruff check --select I . && uv run ruff format --check .
+
+# Fix
+uv run ruff check --fix . && uv run ruff check --fix --select I . && uv run ruff format .
+```
 
 ----
-📂 [[Tooling]] | Последнее изменение: 30.11.2024 09:24
+📂 [[Tooling]] | Последнее изменение: 19.01.2025 11:10

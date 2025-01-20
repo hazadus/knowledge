@@ -103,6 +103,7 @@ title: Оглавление
 
 Ещё интересные базы знаний:
 - [https://github.com/alexey-goloburdin/knowledge-base](https://github.com/alexey-goloburdin/knowledge-base)
+- [https://notes.hamatti.org](https://notes.hamatti.org)
 
 ----
 

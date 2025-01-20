@@ -122,9 +122,23 @@ def downgrade() -> None:
 alembic history
 ```
 
+## Передача параметров при запуске миграции
+
+При запуске Alembic передаём параметр `param` со значением `value`:
+
+```bash
+alembic -x param=value upgrade heads
+```
+
+Получаем это значение в `env.py`:
+
+```python
+param = context.get_x_argument(as_dictionary=True).get("param")
+```
+
 ---
 🔗 [[Миграции БД]] | [[Tooling]]
 
 
 ----
-📂 [[Tooling]] | Последнее изменение: 18.01.2025 14:27
+📂 [[Tooling]] | Последнее изменение: 19.01.2025 11:20

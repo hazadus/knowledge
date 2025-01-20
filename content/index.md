@@ -21,6 +21,7 @@ title: Оглавление
 
 Ещё интересные базы знаний:
 - [https://github.com/alexey-goloburdin/knowledge-base](https://github.com/alexey-goloburdin/knowledge-base)
+- [https://notes.hamatti.org](https://notes.hamatti.org)
 
 ----
 
@@ -33,15 +34,15 @@ title: Оглавление
 ### Недавно обновлённые заметки
 
 - [[Alembic]]
+- [[ruff]]
+- [[SQLAlchemy]]
+- [[План по чтению]]
 - [[tuna]]
 - [[Рецепты на Go]]
-- [[План по чтению]]
 - [[План изучения языка Go]]
 - [[bash]]
 - [[SSE]]
 - [[Meetings]]
-- [[hey]]
-- [[Building a Second Brain]]
 
 
 ----

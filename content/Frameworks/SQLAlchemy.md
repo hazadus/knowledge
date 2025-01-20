@@ -3,10 +3,12 @@
 ORM – это библиотека, которая связывает БД с концепциями объектно-ориентированных языков. Избавляет от работы с чистым SQL. Меньше кода, проект легче сопровождать.
 
 Из минусов использования ORM: снижение скорости работы с БД, затраченное время на освоение ORM, потеря контроля над SQL-запросами.
+
 # Documentation and Tutorials
 - [Flask-SQLAlchemy - Flask-SQLAlchemy Documentation (2.x) ](https://flask-sqlalchemy.palletsprojects.com/en/2.x/index.html)  
 - [How To Query Tables and Paginate Data in Flask-SQLAlchemy | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-query-tables-and-paginate-data-in-flask-sqlalchemy)  
 - [SQLAlchemy 1.4 Documentation](https://docs.sqlalchemy.org/en/14/)  
+
 # Code snippets
 ## **Querying Records**
 ```Python
@@ -168,4 +170,9 @@ print(hired_in_2021_count)
 ```
 
 ----
-📂 [[Frameworks]] | Последнее изменение: 08.03.2024 08:31
+# Async SQLAlchemy
+
+- Для класса `database.Base` добавить наследование от [AsyncAttrs](https://docs.sqlalchemy.org/en/20/orm/extensions/asyncio.html#sqlalchemy.ext.asyncio.AsyncAttrs.awaitable_attrs): необходимо для доступа к "лениво" загружаемым объектам, например `lazy="select"`, с использованием `await`. В противном случае доступ к объектам будет [невозможен](https://docs.sqlalchemy.org/en/20/orm/extensions/asyncio.html#asyncio-orm-avoid-lazyloads).
+
+----
+📂 [[Frameworks]] | Последнее изменение: 19.01.2025 10:45
