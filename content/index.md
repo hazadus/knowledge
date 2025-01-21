@@ -33,16 +33,16 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
-- [[Alembic]]
-- [[ruff]]
-- [[SQLAlchemy]]
-- [[План по чтению]]
-- [[tuna]]
-- [[Рецепты на Go]]
-- [[План изучения языка Go]]
-- [[bash]]
-- [[SSE]]
-- [[Meetings]]
+- [[Недостатки Go]]
+- [[Go]]
+- [[Large Legacy Codebases]]
+- [[Mistakes Engineers Make in Large Established Codebases]]
+- [[Мы Не Пьем, А Лечимся]]
+- [[Why Goals Fail]]
+- [[Let's Go]]
+- [[Division of Labor]]
+- [[Tips and Resources for Learning Go in 2025]]
+- [[3 Hours or Nothing]]
 
 
 ----
@@ -120,6 +120,7 @@ title: Оглавление
 	- 📄 [[Пиши, сокращай]]<br>
 - 📂 [[Misc]]<br>
 	- 📄 [[Code Review]]<br>
+	- 📄 [[Large Legacy Codebases]]<br>
 - 📂 [[Tooling]]<br>
 	- 📄 [[open]]<br>
 	- 📄 [[ruff]]<br>
@@ -231,15 +232,18 @@ title: Оглавление
 	- 📄 [[The Thaumaturge Обзор RPG От создателей «Ведьмака»  StopGame]]<br>
 	- 📄 [[Pt.1 - How to Design a RESTful API Architecture From a Human-Language Spec – O’Reilly]]<br>
 	- 📄 [[Writing a Blog on the Internet]]<br>
+	- 📄 [[Tips and Resources for Learning Go in 2025]]<br>
 	- 📄 [[Marshmallow vs. Pydantic - Python's 2 Best Libraries for Data Serialization and Validation]]<br>
 	- 📄 [[Mental Health in Open Source]]<br>
 	- 📄 [[Переход В Айти]]<br>
 	- 📄 [[The AI bullshit singularity  Successful Software]]<br>
 	- 📄 [[11 Obsidian Tips for Newcomers Improve Your Note-Taking - Face Dragons]]<br>
+	- 📄 [[Air Time]]<br>
 	- 📄 [[Programming Stuff Я Выгорел]]<br>
 	- 📄 [[Single and Double Underscores in Python Names – Real Python]]<br>
 	- 📄 [[Testing With Python (Part 2) Moving to Pytest]]<br>
 	- 📄 [[Why I Write]]<br>
+	- 📄 [[Why Goals Fail]]<br>
 	- 📄 [[Dark Souls III Прохождение  StopGame - P.1]]<br>
 	- 📄 [[A unified theory of fucks  A Working Library]]<br>
 	- 📄 [[Programming Stuff Главный Навык Программиста]]<br>
@@ -251,6 +255,8 @@ title: Оглавление
 	- 📄 [[Dec 8 Suite Smells Undertesting and Overtesting]]<br>
 	- 📄 [[Unexpected Glass Ceilings for Junior Developers]]<br>
 	- 📄 [[How to Contribute to Open Source  Open Source Guides]]<br>
+	- 📄 [[Effective Changelogs  xavd.id]]<br>
+	- 📄 [[3 Hours or Nothing]]<br>
 	- 📄 [[Last Week in Fediverse – Ep 60 – The Fediverse Report]]<br>
 	- 📄 [[Programming Stuff О Мотивации]]<br>
 	- 📄 [[How to Fix Snapd Process Consuming Lot of Data and CPU]]<br>
@@ -259,7 +265,9 @@ title: Оглавление
 	- 📄 [[The Fediverse, Explained Mastodon, Threads, and the Open Future of Social Networking - The Verge]]<br>
 	- 📄 [[Fluent Python]]<br>
 	- 📄 [[Let’s Build A Web Server. Part 1. - Ruslan's Blog]]<br>
+	- 📄 [[Division of Labor]]<br>
 	- 📄 [[Making Use of Code Coverage  Epic Web Dev]]<br>
+	- 📄 [[Мы Не Пьем, А Лечимся]]<br>
 	- 📄 [[Pt.3 - How a RESTful API Represents Resources – O’Reilly]]<br>
 	- 📄 [[Why Engineers Should Focus on Writing - Dmitry Kudryavtsev]]<br>
 	- 📄 [[Tim Ferriss on tolerable mediocrity, false idols, diversifying your identity, and the advice he gives startups – Signal v. Noise]]<br>
@@ -271,6 +279,7 @@ title: Оглавление
 	- 📄 [[Where’s That Log File Debugging Failed Docker Builds]]<br>
 	- 📄 [[Palworld Купить Пропустить Скачать Бесплатно Наш Обзор  Видеоигры  Мир Фантастики И Фэнтези]]<br>
 	- 📄 [[Redis and Python 20% of Effort, 80% of Effects]]<br>
+	- 📄 [[Mistakes Engineers Make in Large Established Codebases]]<br>
 	- 📄 [[How to Stay Junior Forever - Dmitry Kudryavtsev]]<br>
 	- 📄 [[The True Purpose of Testing  Epic Web Dev]]<br>
 	- 📄 [[(3) Асинхронный SQLAlchemy 2 улучшение кода, методы обновления и удаления данных]]<br>
@@ -280,9 +289,11 @@ title: Оглавление
 	- 📄 [[Configuring Gunicorn for Docker]]<br>
 	- 📄 [[Что Должно Быть В Портфолио Джуна-Разработчика Мнение Руководителей  Хабр]]<br>
 	- 📄 [[Культура Брожения — Авторевю]]<br>
+	- 📄 [[Let's Go]]<br>
 	- 📄 [[Soft Skills 18 Самых Востребованных Навыков В 2023 Году — Виктория Самарская На vc.ru]]<br>
 	- 📄 [[Let’s Build A Simple Interpreter. Part 2. - Ruslan's Blog]]<br>
 	- 📄 [[Software Estimation Is Hard. Do It Anyway.]]<br>
+	- 📄 [[Time Management]]<br>
 	- 📄 [[Глава Московского Района «Все Хотят Самую Лучшую Школу И Самый Лучший Садик — Во Дворе Своего Дома»]]<br>
 	- 📄 [[Tracking Engineering Time - Jacob Kaplan-Moss]]<br>
 	- 📄 [[Стоит Ли Идти В IT И Становиться Программистом Как Пройти Путь От Джуна До Сеньора  Skillbox Media]]<br>
@@ -369,6 +380,7 @@ title: Оглавление
 		- 📄 [[Операторы ветвления]]<br>
 		- 📄 [[Циклы]]<br>
 		- 📄 [[Оператор отложенного вызова]]<br>
+		- 📄 [[Недостатки Go]]<br>
 		- 📄 [[Channels]]<br>
 		- 📄 [[Настройка окружения]]<br>
 		- 📄 [[Почему Go?]]<br>

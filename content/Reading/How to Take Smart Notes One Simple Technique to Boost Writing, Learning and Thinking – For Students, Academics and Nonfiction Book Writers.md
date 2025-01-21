@@ -59,7 +59,28 @@
     - Note: Интересные идеи, найденные или появившиеся во время чтения, нужно фиксировать - независимо от того, нужны ли они для текущей работы.
 
 
+## New highlights added January 20, 2025 at 11:31 AM
+- As the only way to find out if something is worth reading is by reading it (even just bits of it), it makes sense to use the time spent in the best possible way. We constantly encounter interesting ideas along the way and only a fraction of them are useful for the particular paper we started reading it for. Why let them go to waste? Make a note and add it to your slip-box. It improves it. Every idea adds to what can become a critical mass that turns a mere collection of ideas into an idea-generator. ([View Highlight](https://read.readwise.io/read/01jhmvhkp893vfg294x48qfxxr))
+
+- How focused you want to read depends on your priorities. You don’t have to read anything you don’t consider an absolute necessity for finishing your most urgent paper, but you will still encounter a lot of other ideas and information along the way. Spending the little extra time to add them to your system will make all the difference, because the accidental encounters make up the majority of what we learn. ([View Highlight](https://read.readwise.io/read/01jhmx72x6src8qnzcb3jra40n))
+
+- Good tools do not add features and more options to what we already have, but help to reduce distractions from the main work, which here isthinking. ([View Highlight](https://read.readwise.io/read/01jhmxdv0p1wxcm4xtstbbrcnh))
+
+- To have an undistracted brain to think with and a reliable collection of notes to think in is pretty much all we need. Everything else is just clutter. ([View Highlight](https://read.readwise.io/read/01jhmxefrpqv77p4dsad1zj400))
+
+- The slip-box is the shipping container of the academic world. Instead of having different storage for different ideas, everything goes into the same slip-box and is standardised into the same format. Instead of focusing on the in-between steps and trying to make a science out of underlining systems, reading techniques or excerpt writing, everything is streamlined towards one thing only: insight that can be published. The biggest advantage compared to a top-down storage system organised by topics is that the slip-box becomes more and more valuable the more it grows, instead of getting messy and confusing. ([View Highlight](https://read.readwise.io/read/01jhmzkcw6wcww6tayxhqt9qaq))
+    - Note: Интересное сравнение заметок с универсальными контейнерами. Действительно, когда все заметки находятся в одном месте и имеют стандартную структуру, становится не важно, откуда они и как будут использоваться. Их легко найти, дополнить, использовать.
+
+- To achieve a critical mass, it is crucial to distinguish clearly between three types of notes:
+  1.  Fleeting notes, which are only reminders of information, can be written in any kind of way and will end up in the trash within a day or two.
+  2.    Permanent notes, which willneverbe thrown away and contain the necessary information in themselves in a permanently understandable way. They are always stored in the same way in the same place, either in the reference system or, written as if for print, in the slip-box.
+  3.   Project notes, which are only relevant to one particular project. They are kept within a project-specific folder and can be discarded or archived after the project is finished.
+  Only if the notes of these three categories are kept separated it will be possible to build acriticalmass of ideas within the slip-box. One of the major reasons for not getting much writing or publishing done lies in the confusion of these categories. ([View Highlight](https://read.readwise.io/read/01jhmztp4e2b478p8bpadesybb))
+    - Note: Было в книге чуть ранее, но здесь более кратко сформулировано деление заметок на три вида. Поддерживаю такую структуру.
+
+- In contrast to the fleeting notes, every permanent note for the slip-box is elaborated enough to have the potential to become part of or inspire a final written piece, but that can not be decided on up front as their relevance depends on future thinking and developments. The notes are no longer reminders of thoughts or ideas, but contain the actual thought or idea in written form. This is a crucial difference. ([View Highlight](https://read.readwise.io/read/01jhn0as3d9dwx4a3mbza9hqnp))
+
 
 
 ----
-📂 [[Reading]] | Последнее изменение: 07.01.2025 09:31
+📂 [[Reading]] | Последнее изменение: 20.01.2025 11:31
