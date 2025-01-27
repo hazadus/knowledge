@@ -37,7 +37,12 @@
 
 
 
+## New highlights added January 21, 2025 at 10:44 AM
+- profile: Mapped["Profile"] = relationship( "Profile", back_populates="user", uselist=False, # Ключевой параметр для связи один-к-одному lazy="joined" # Автоматически подгружает profile при запросе user ) ([View Highlight](https://read.readwise.io/read/01jj3segdvwsm1vh8ascex89sx))
+
+- user: Mapped["User"] = relationship( "User", back_populates="profile", uselist=False ) ([View Highlight](https://read.readwise.io/read/01jj3scjk3nx4xja2e9f7t9xzz))
+
 
 
 ----
-📂 [[Articles]] | Последнее изменение: 10.12.2024 14:19
+📂 [[Articles]] | Последнее изменение: 21.01.2025 10:44

@@ -73,14 +73,46 @@
 
 - To achieve a critical mass, it is crucial to distinguish clearly between three types of notes:
   1.  Fleeting notes, which are only reminders of information, can be written in any kind of way and will end up in the trash within a day or two.
-  2.    Permanent notes, which willneverbe thrown away and contain the necessary information in themselves in a permanently understandable way. They are always stored in the same way in the same place, either in the reference system or, written as if for print, in the slip-box.
+  2. Permanent notes, which will never be thrown away and contain the necessary information in themselves in a permanently understandable way. They are always stored in the same way in the same place, either in the reference system or, written as if for print, in the slip-box.
   3.   Project notes, which are only relevant to one particular project. They are kept within a project-specific folder and can be discarded or archived after the project is finished.
   Only if the notes of these three categories are kept separated it will be possible to build acriticalmass of ideas within the slip-box. One of the major reasons for not getting much writing or publishing done lies in the confusion of these categories. ([View Highlight](https://read.readwise.io/read/01jhmztp4e2b478p8bpadesybb))
     - Note: Было в книге чуть ранее, но здесь более кратко сформулировано деление заметок на три вида. Поддерживаю такую структуру.
 
 - In contrast to the fleeting notes, every permanent note for the slip-box is elaborated enough to have the potential to become part of or inspire a final written piece, but that can not be decided on up front as their relevance depends on future thinking and developments. The notes are no longer reminders of thoughts or ideas, but contain the actual thought or idea in written form. This is a crucial difference. ([View Highlight](https://read.readwise.io/read/01jhn0as3d9dwx4a3mbza9hqnp))
 
+## New highlights added January 23, 2025 at 7:40 AM
+- By focusing on what is interesting and keeping written track of your own intellectual development, topics, questions and arguments will emerge from the material without force. Not only does it means that finding a topic or a research question will become easier, as we don’t have to squeeze it out of the few ideas that are on top of our head anymore, every question that emerges out of our slip-box will naturally and handily come with material to work with. ([View Highlight](https://read.readwise.io/read/01jj6fs3wm308re7sj4s4n6n3v))
+
+- Having trouble finding the right topic is a symptom of the wrong attempt to rely heavily on the limitations of the brain, not the inevitable problematic starting point, as most study guides insinuate. If you on the other hand develop your thinking in writing, open questions will become clearly visible and give you an abundance of possible topics to elaborate further in writing. ([View Highlight](https://read.readwise.io/read/01jj6gnyktd3rrddqr8n6k5f46))
+    - Note: Если прорабатывать материал письменно, темы и вопросы для дальнейшей разработки и публикаций придут сами.
+
+- And the only chance to improve in something is getting timely and concrete feedback. Seeking feedback, not avoiding it, is the first virtue of anyone who wants to learn, or in the more general terms of psychologist Carol Dweck, togrow. Dweck shows convincingly that the most reliable predictor for long-term success is having a “growth mindset.” To actively seek and welcome feedback, be it positive or negative, is one of the most important factors for success (and happiness) in the long run. Conversely, nothing is a bigger hindrance to personal growth than having a “fixed mindset.” Those who fear and avoid feedback because it might damage their cherished positive self-image might feel better in the short term, but will quickly fall behind in actual performance (Dweck 2006; 2013). ([View Highlight](https://read.readwise.io/read/01jj6hqpgc5aavn230740eaz71))
+    - Note: Свовременная, честная обратная связь - обязательное условие для развития.
+
+- Embracing a growth mindset means to get pleasure out of changing for the better (which is mostly inwardly rewarding) instead of getting pleasure in being praised (which is outwardly rewarding). The orientation towards the latter makes one stick to safe, proven areas. The orientation towards the first draws the attention to the areas most in need of improvement. To seek as many opportunities to learn as possible is the most reliable long-term growth strategy. ([View Highlight](https://read.readwise.io/read/01jj6hy6q4n43985ytcprgccab))
+
+- We tend to think we understand what we read – until we try to rewrite it in our own words. By doing this, we not only get a better sense of our ability to understand, but also increase our ability to clearly and concisely express our understanding – which in return helps to grasp ideas more quickly. If we try to fool ourselves here and write down incomprehensible words, we will detect it in the next step when we try to turn our literature notes into permanent notes and try to connect them with others. ([View Highlight](https://read.readwise.io/read/01jj6j4qckw18snkw5ppv19db7))
+
+- The same goes for writing permanent notes, which have another feedback loop built-in: Expressing our own thoughts in writing makes us realise if we really thought them through. The moment we try to combine them with previously written notes, the system will unambiguously show us contradictions, inconsistencies and repetitions. ([View Highlight](https://read.readwise.io/read/01jj6jp4pb53cabza93prx468b))
+
+- The slip-box is not a collection of notes. Working with it is less about retrieving specific notes and more about being pointed to relevant facts and generating insight by letting ideas mingle. Its usability grows with its size, not just linearly but exponentially. When we turn to the slip-box, its inner connectedness will not just provide us with isolated facts, but with lines of developed thoughts. Moreover, because of its inner complexity, a search thought the slip-box will confront us with related notes we did not look for. This is a very significant difference that becomes more and more relevant over time. ([View Highlight](https://read.readwise.io/read/01jj6jqyky4ak37ppxkz8znf3t))
+
+- But we know today that the more connected information we already have, the easier it is to learn, because new information can dock to that information. ([View Highlight](https://read.readwise.io/read/01jj6jsc9ce8djw780h6m3hb6f))
+    - Note: Где-то это уже было. Новая информация лучше усваивается, "стыкуюясь" в голове с уже существующими знаниями. Прежде, чем углубляться в тему, стоит прочитать обзорный материал - как раз для достижения этого эффекта.
+
+- 9.2      Multitasking is not a good idea
+  If more than one thing tries to catch your attention, the temptation is great to look at more than one thing at the same time – to multitask. Many people claim to be quite good at multitasking. For some, it is one of the most important skills to cope with today’s informational overload. It is a common belief that the younger generations are better at it, that it even comes naturally to them as they grew up among the attention-seeking new media. And studies show that those who claim to multitask a lot also claim to be very good at it. Those interviewed in these studies do not see their productivity impaired by it. On the contrary, they think it’s improved. But they usually don’t test themselves in comparison with a control group.
+  Psychologists who interviewed the multitaskers did test them instead of just asking. They gave them different tasks to accomplish and compared their results with another group that was instructed to do only one thing at a time. The outcome is unambiguous: While those who multitaskedfeltmore productive, their productivity actually decreased – a lot (Wang and Tchernev 2012; Rosen 2008; Ophir, Nass, and Wagner 2009). Not only the quantity but also the quality of their accomplishments lagged significantly behind that of the control group. ([View Highlight](https://read.readwise.io/read/01jj6tejga0chty0ejx4nwng9y))
+
+- When we think we multitask, what we really do is shift our attention quickly between two (or more) things. And every shift is a drain on our ability to shift and delays the moment we manage to get focused again. Trying to multitask fatigues us and decreases our ability to deal with more than one task. ([View Highlight](https://read.readwise.io/read/01jj6ve84q744fzhq19034b0se))
+
+- Writing a paper involves much more than just typing on the keyboard. It also means reading, understanding, reflecting, getting ideas, making connections, distinguishing terms, finding the right words, structuring, organizing, editing, correcting and rewriting. All these are not just different tasks, but tasks requiring a different kind of attention. ([View Highlight](https://read.readwise.io/read/01jj6vgt4esdfch710yndp4s97))
+    - Note: Хорошо описано, что включает в себя написание текста.
+
+- Reading in itself can require very different kinds of attention, depending on the text. Some texts need to be read slowly and carefully, while others are only worth skimming. It would be ridiculous to adhere to a general formula and read every text in the same way, even though that is what many study guides or speed-reading courses try to convince us of. ([View Highlight](https://read.readwise.io/read/01jj6w2h30jhksmzetn90bae21))
+    - Note: О разном подходе к чтению текстов писал Поварнин С.И. в "Как читать книги".
+
 
 
 ----
-📂 [[Reading]] | Последнее изменение: 20.01.2025 11:31
+📂 [[Reading]] | Последнее изменение: 23.01.2025 07:41

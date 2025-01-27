@@ -33,16 +33,21 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
-- [[Недостатки Go]]
-- [[Go]]
-- [[Large Legacy Codebases]]
-- [[Mistakes Engineers Make in Large Established Codebases]]
-- [[Мы Не Пьем, А Лечимся]]
-- [[Why Goals Fail]]
-- [[Let's Go]]
-- [[Division of Labor]]
-- [[Tips and Resources for Learning Go in 2025]]
-- [[3 Hours or Nothing]]
+- [[План по чтению]]
+- [[Эвристический алгоритм (эвристика)]]
+- [[Инвариант (Invariant)]]
+- [[Код – это не актив, это ответственность]]
+- [[Хороший программист пишет код, который будет понятен людям]]
+- [[Полностью завершить можно только неудачное ПО]]
+- [[Код, который умещается в голове]]
+- [[say]]
+- [[Как читать книги]]
+- [[How I Ship Projects at Big Tech Companies]]
+- [[Getting the Path to the Note I Have Open in Obsidian]]
+- [[How to Take Smart Notes One Simple Technique to Boost Writing, Learning and Thinking – For Students, Academics and Nonfiction Book Writers]]
+- [[Отказ – затем отступление]]
+- [[Взаимные уступки]]
+- [[Правило взаимного обмена]]
 
 
 ----
@@ -78,6 +83,7 @@ title: Оглавление
 - 📂 [[Структуры данных]]<br>
 - 📂 [[Computer Science]]<br>
 - 📂 [[Интервью]]<br>
+- 📂 [[Slip-box]]<br>
 - 📂 [[YandexCloud]]<br>
 - 📂 [[Frameworks]]<br>
 	- 📂 [[Flask]]<br>
@@ -103,6 +109,7 @@ title: Оглавление
 	- 📄 [[Fluent Python]]<br>
 	- 📄 [[Django Styleguide]]<br>
 	- 📄 [[Speed Up Your Django Tests]]<br>
+	- 📄 [[Код, который умещается в голове]]<br>
 	- 📄 [[Командная строка Linux. Полное руководство]]<br>
 	- 📄 [[Eloquent JavaScript, 3rd edition]]<br>
 	- 📄 [[Programming Books]]<br>
@@ -110,8 +117,10 @@ title: Оглавление
 	- 📄 [[Чистый Agile. Основы гибкости]]<br>
 	- 📄 [[Теоретический минимум по Computer Science. Сети, криптография и data science]]<br>
 	- 📄 [[Zero To Production In Rust]]<br>
+	- 📄 [[System Design, Алекс Сюй]]<br>
 	- 📄 [[Алгоритмы. Род Стивенс]]<br>
 	- 📄 [[Building a Second Brain]]<br>
+	- 📄 [[Психология влияния]]<br>
 	- 📄 [[Books]]<br>
 	- 📄 [[Django 5 by Example]]<br>
 	- 📄 [[Django 3 Web Development Cookbook]]<br>
@@ -119,6 +128,8 @@ title: Оглавление
 	- 📄 [[Внутри CPYTHON. Энтони Шоу]]<br>
 	- 📄 [[Пиши, сокращай]]<br>
 - 📂 [[Misc]]<br>
+	- 📄 [[Changelog]]<br>
+	- 📄 [[Invariants]]<br>
 	- 📄 [[Code Review]]<br>
 	- 📄 [[Large Legacy Codebases]]<br>
 - 📂 [[Tooling]]<br>
@@ -168,6 +179,7 @@ title: Оглавление
 	- 📄 [[MongoDB]]<br>
 	- 📄 [[Online Web Dev Tools]]<br>
 	- 📄 [[schemathesis]]<br>
+	- 📄 [[say]]<br>
 	- 📄 [[Poetry]]<br>
 - 📂 [[Task Queue]]<br>
 	- 📄 [[Celery]]<br>
@@ -235,6 +247,7 @@ title: Оглавление
 	- 📄 [[Tips and Resources for Learning Go in 2025]]<br>
 	- 📄 [[Marshmallow vs. Pydantic - Python's 2 Best Libraries for Data Serialization and Validation]]<br>
 	- 📄 [[Mental Health in Open Source]]<br>
+	- 📄 [[Go Composition Does Not Compose Well With Implicit Interfaces]]<br>
 	- 📄 [[Переход В Айти]]<br>
 	- 📄 [[The AI bullshit singularity  Successful Software]]<br>
 	- 📄 [[11 Obsidian Tips for Newcomers Improve Your Note-Taking - Face Dragons]]<br>
@@ -256,6 +269,7 @@ title: Оглавление
 	- 📄 [[Unexpected Glass Ceilings for Junior Developers]]<br>
 	- 📄 [[How to Contribute to Open Source  Open Source Guides]]<br>
 	- 📄 [[Effective Changelogs  xavd.id]]<br>
+	- 📄 [[Getting the Path to the Note I Have Open in Obsidian]]<br>
 	- 📄 [[3 Hours or Nothing]]<br>
 	- 📄 [[Last Week in Fediverse – Ep 60 – The Fediverse Report]]<br>
 	- 📄 [[Programming Stuff О Мотивации]]<br>
@@ -270,6 +284,7 @@ title: Оглавление
 	- 📄 [[Мы Не Пьем, А Лечимся]]<br>
 	- 📄 [[Pt.3 - How a RESTful API Represents Resources – O’Reilly]]<br>
 	- 📄 [[Why Engineers Should Focus on Writing - Dmitry Kudryavtsev]]<br>
+	- 📄 [[Protecting Your Time From Predators in Large Tech Companies]]<br>
 	- 📄 [[Tim Ferriss on tolerable mediocrity, false idols, diversifying your identity, and the advice he gives startups – Signal v. Noise]]<br>
 	- 📄 [[Пол Макги - Мастерство Общения]]<br>
 	- 📄 [[Pt.2 - How a RESTful API Server Reacts to Requests – O’Reilly]]<br>
@@ -280,6 +295,7 @@ title: Оглавление
 	- 📄 [[Palworld Купить Пропустить Скачать Бесплатно Наш Обзор  Видеоигры  Мир Фантастики И Фэнтези]]<br>
 	- 📄 [[Redis and Python 20% of Effort, 80% of Effects]]<br>
 	- 📄 [[Mistakes Engineers Make in Large Established Codebases]]<br>
+	- 📄 [[What Color Is Your Function]]<br>
 	- 📄 [[How to Stay Junior Forever - Dmitry Kudryavtsev]]<br>
 	- 📄 [[The True Purpose of Testing  Epic Web Dev]]<br>
 	- 📄 [[(3) Асинхронный SQLAlchemy 2 улучшение кода, методы обновления и удаления данных]]<br>
@@ -305,6 +321,7 @@ title: Оглавление
 	- 📄 [[What’s Running in Production Making Your Docker Images Identifiable]]<br>
 	- 📄 [[Best Journaling App for iPhone, iPad, and Mac — The Sweet Setup]]<br>
 	- 📄 [[Pydantic 2 Полное Руководство Для Python-Разработчиков — От Основ До Продвинутых Техник]]<br>
+	- 📄 [[How I Ship Projects at Big Tech Companies]]<br>
 	- 📄 [[Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024  SleepEasy Website Monitor]]<br>
 	- 📄 [[The Dark Side of Open Source - kettanaito.com]]<br>
 	- 📄 [[How to Perform Code Reviews in Tech – The Painless Way]]<br>
@@ -316,6 +333,7 @@ title: Оглавление
 	- 📄 [[Dunning–Kruger Effect]]<br>
 	- 📄 [[Get your work recognized write a brag document]]<br>
 	- 📄 [[How to Learn Stuff Quickly]]<br>
+	- 📄 [[Как читать книги]]<br>
 	- 📄 [[Unexpected python traps for beginners - Bite code!]]<br>
 	- 📄 [[The Secret Power of ‘Read It Later’ Apps]]<br>
 	- 📄 [[Programming Stuff Эффект Плато]]<br>
@@ -460,6 +478,21 @@ title: Оглавление
 	- 📄 [[Системы счисления]]<br>
 - 📂 [[Интервью]]<br>
 	- 📄 [[Подготовка к интервью]]<br>
+- 📂 [[Slip-box]]<br>
+	- 📄 [[Код – это не актив, это ответственность]]<br>
+	- 📄 [[Инвариант (Invariant)]]<br>
+	- 📄 [[Permanent Notes]]<br>
+	- 📄 [[Эвристический алгоритм (эвристика)]]<br>
+	- 📄 [[Принцип контраста]]<br>
+	- 📄 [[Literature Notes]]<br>
+	- 📄 [[Хороший программист пишет код, который будет понятен людям]]<br>
+	- 📄 [[Fleeting Notes]]<br>
+	- 📄 [[Отказ – затем отступление]]<br>
+	- 📄 [[Автоматическое поведение]]<br>
+	- 📄 [[Полностью завершить можно только неудачное ПО]]<br>
+	- 📄 [[Взаимные уступки]]<br>
+	- 📄 [[Правило взаимного обмена]]<br>
+	- 📄 [[Дорогой – лучший]]<br>
 - 📂 [[YandexCloud]]<br>
 	- 📄 [[Yandex Cloud CLI]]<br>
 	- 📄 [[DataLens]]<br>

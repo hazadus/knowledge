@@ -7,6 +7,7 @@ import datetime
 import os
 
 CONTENT_PATH = "./content"
+LAST_UPDATED_QTY = 15
 
 
 class Note:
@@ -74,10 +75,10 @@ for root, dirs, files in os.walk(CONTENT_PATH):
                     f"\n\n----\n📂 [[{folder}]] | Последнее изменение: {dt_m.strftime(format="%d.%m.%Y %H:%M")}"
                 )
 
-# Получить список 10 последних обновленных заметок
+# Получить список последних обновленных заметок
 notes.sort(key=lambda x: x.updated_at, reverse=True)
 last_updated_notes = ""
-for note in notes[:10]:
+for note in notes[:LAST_UPDATED_QTY]:
     last_updated_notes += f"- [[{note.title}]]\n"
 
 index_md = f"""
