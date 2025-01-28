@@ -33,6 +33,13 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[ollama]]
+- [[PYTHONPATH]]
+- [[What Can Strong Engineers Do That Weak Engineers Can't]]
+- [[Постгрес И Отчеты]]
+- [[Darkest Dungeon Без Боли 100 Страниц Боевого Опыта]]
+- [[The Darkest Dungeon]]
+- [[Книга Цель]]
 - [[План по чтению]]
 - [[Эвристический алгоритм (эвристика)]]
 - [[Инвариант (Invariant)]]
@@ -41,13 +48,6 @@ title: Оглавление
 - [[Полностью завершить можно только неудачное ПО]]
 - [[Код, который умещается в голове]]
 - [[say]]
-- [[Как читать книги]]
-- [[How I Ship Projects at Big Tech Companies]]
-- [[Getting the Path to the Note I Have Open in Obsidian]]
-- [[How to Take Smart Notes One Simple Technique to Boost Writing, Learning and Thinking – For Students, Academics and Nonfiction Book Writers]]
-- [[Отказ – затем отступление]]
-- [[Взаимные уступки]]
-- [[Правило взаимного обмена]]
 
 
 ----
@@ -148,6 +148,7 @@ title: Оглавление
 	- 📄 [[Nginx]]<br>
 	- 📄 [[restic]]<br>
 	- 📄 [[Caddy]]<br>
+	- 📄 [[ollama]]<br>
 	- 📄 [[Locust]]<br>
 	- 📄 [[migrate]]<br>
 	- 📄 [[golangci-lint]]<br>
@@ -258,6 +259,7 @@ title: Оглавление
 	- 📄 [[Why I Write]]<br>
 	- 📄 [[Why Goals Fail]]<br>
 	- 📄 [[Dark Souls III Прохождение  StopGame - P.1]]<br>
+	- 📄 [[Darkest Dungeon Без Боли 100 Страниц Боевого Опыта]]<br>
 	- 📄 [[A unified theory of fucks  A Working Library]]<br>
 	- 📄 [[Programming Stuff Главный Навык Программиста]]<br>
 	- 📄 [[Everything You Need to Know About Sorcery in Dark Souls 3]]<br>
@@ -268,9 +270,11 @@ title: Оглавление
 	- 📄 [[Dec 8 Suite Smells Undertesting and Overtesting]]<br>
 	- 📄 [[Unexpected Glass Ceilings for Junior Developers]]<br>
 	- 📄 [[How to Contribute to Open Source  Open Source Guides]]<br>
+	- 📄 [[Книга Цель]]<br>
 	- 📄 [[Effective Changelogs  xavd.id]]<br>
 	- 📄 [[Getting the Path to the Note I Have Open in Obsidian]]<br>
 	- 📄 [[3 Hours or Nothing]]<br>
+	- 📄 [[Постгрес И Отчеты]]<br>
 	- 📄 [[Last Week in Fediverse – Ep 60 – The Fediverse Report]]<br>
 	- 📄 [[Programming Stuff О Мотивации]]<br>
 	- 📄 [[How to Fix Snapd Process Consuming Lot of Data and CPU]]<br>
@@ -285,6 +289,7 @@ title: Оглавление
 	- 📄 [[Pt.3 - How a RESTful API Represents Resources – O’Reilly]]<br>
 	- 📄 [[Why Engineers Should Focus on Writing - Dmitry Kudryavtsev]]<br>
 	- 📄 [[Protecting Your Time From Predators in Large Tech Companies]]<br>
+	- 📄 [[The Darkest Dungeon]]<br>
 	- 📄 [[Tim Ferriss on tolerable mediocrity, false idols, diversifying your identity, and the advice he gives startups – Signal v. Noise]]<br>
 	- 📄 [[Пол Макги - Мастерство Общения]]<br>
 	- 📄 [[Pt.2 - How a RESTful API Server Reacts to Requests – O’Reilly]]<br>
@@ -343,6 +348,7 @@ title: Оглавление
 	- 📄 [[Dark Souls III Прохождение  StopGame - P.3]]<br>
 	- 📄 [[(1) Асинхронный SQLAlchemy 2 простой пошаговый гайд по настройке, моделям, связям и миграциям с использованием Alembic]]<br>
 	- 📄 [[Meetings]]<br>
+	- 📄 [[What Can Strong Engineers Do That Weak Engineers Can't]]<br>
 	- 📄 [[Knowing How You Work Best is a Cheat Code for Better Productivity – The Sweet Setup]]<br>
 	- 📄 [[Mastering the Reading to Knowledge Pipeline With Omnivore]]<br>
 	- 📄 [[The Art of DJing CCL · Feature ⟋ RA]]<br>
@@ -442,6 +448,7 @@ title: Оглавление
 		- 📄 [[Python]]<br>
 		- 📄 [[Advanced Syntax]]<br>
 		- 📄 [[Choosing Python Concurrency API]]<br>
+		- 📄 [[PYTHONPATH]]<br>
 		- 📄 [[Algorithms]]<br>
 		- 📄 [[Arrays]]<br>
 		- 📄 [[Books About Concurrency In Python]]<br>
