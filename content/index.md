@@ -33,21 +33,21 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[Crushing JIRA tickets is a party trick, not a path to impact]]
+- [[Glue Work Considered Harmful]]
+- [[Why Are Big Tech Companies So Slow]]
+- [[Working Fast and Slow]]
+- [[How to Give Pushback to Leadership]]
+- [[Giving Pushback to Leadership]]
+- [[Playing Politics Is How Senior Engineers Protect Their Team]]
+- [[SOLID И Контекст]]
+- [[SOLID И Другие Аббревиатуры]]
 - [[ollama]]
 - [[PYTHONPATH]]
 - [[What Can Strong Engineers Do That Weak Engineers Can't]]
 - [[Постгрес И Отчеты]]
 - [[Darkest Dungeon Без Боли 100 Страниц Боевого Опыта]]
 - [[The Darkest Dungeon]]
-- [[Книга Цель]]
-- [[План по чтению]]
-- [[Эвристический алгоритм (эвристика)]]
-- [[Инвариант (Invariant)]]
-- [[Код – это не актив, это ответственность]]
-- [[Хороший программист пишет код, который будет понятен людям]]
-- [[Полностью завершить можно только неудачное ПО]]
-- [[Код, который умещается в голове]]
-- [[say]]
 
 
 ----
@@ -256,6 +256,8 @@ title: Оглавление
 	- 📄 [[Programming Stuff Я Выгорел]]<br>
 	- 📄 [[Single and Double Underscores in Python Names – Real Python]]<br>
 	- 📄 [[Testing With Python (Part 2) Moving to Pytest]]<br>
+	- 📄 [[How to Give Pushback to Leadership]]<br>
+	- 📄 [[SOLID И Другие Аббревиатуры]]<br>
 	- 📄 [[Why I Write]]<br>
 	- 📄 [[Why Goals Fail]]<br>
 	- 📄 [[Dark Souls III Прохождение  StopGame - P.1]]<br>
@@ -285,10 +287,12 @@ title: Оглавление
 	- 📄 [[Let’s Build A Web Server. Part 1. - Ruslan's Blog]]<br>
 	- 📄 [[Division of Labor]]<br>
 	- 📄 [[Making Use of Code Coverage  Epic Web Dev]]<br>
+	- 📄 [[Working Fast and Slow]]<br>
 	- 📄 [[Мы Не Пьем, А Лечимся]]<br>
 	- 📄 [[Pt.3 - How a RESTful API Represents Resources – O’Reilly]]<br>
 	- 📄 [[Why Engineers Should Focus on Writing - Dmitry Kudryavtsev]]<br>
 	- 📄 [[Protecting Your Time From Predators in Large Tech Companies]]<br>
+	- 📄 [[Giving Pushback to Leadership]]<br>
 	- 📄 [[The Darkest Dungeon]]<br>
 	- 📄 [[Tim Ferriss on tolerable mediocrity, false idols, diversifying your identity, and the advice he gives startups – Signal v. Noise]]<br>
 	- 📄 [[Пол Макги - Мастерство Общения]]<br>
@@ -297,10 +301,12 @@ title: Оглавление
 	- 📄 [[Common Testing Mistakes]]<br>
 	- 📄 [[The Beautiful Theory of TDD and the Reality Check of Practice]]<br>
 	- 📄 [[Where’s That Log File Debugging Failed Docker Builds]]<br>
+	- 📄 [[Playing Politics Is How Senior Engineers Protect Their Team]]<br>
 	- 📄 [[Palworld Купить Пропустить Скачать Бесплатно Наш Обзор  Видеоигры  Мир Фантастики И Фэнтези]]<br>
 	- 📄 [[Redis and Python 20% of Effort, 80% of Effects]]<br>
 	- 📄 [[Mistakes Engineers Make in Large Established Codebases]]<br>
 	- 📄 [[What Color Is Your Function]]<br>
+	- 📄 [[SOLID И Контекст]]<br>
 	- 📄 [[How to Stay Junior Forever - Dmitry Kudryavtsev]]<br>
 	- 📄 [[The True Purpose of Testing  Epic Web Dev]]<br>
 	- 📄 [[(3) Асинхронный SQLAlchemy 2 улучшение кода, методы обновления и удаления данных]]<br>
@@ -317,6 +323,7 @@ title: Оглавление
 	- 📄 [[Time Management]]<br>
 	- 📄 [[Глава Московского Района «Все Хотят Самую Лучшую Школу И Самый Лучший Садик — Во Дворе Своего Дома»]]<br>
 	- 📄 [[Tracking Engineering Time - Jacob Kaplan-Moss]]<br>
+	- 📄 [[Crushing JIRA tickets is a party trick, not a path to impact]]<br>
 	- 📄 [[Стоит Ли Идти В IT И Становиться Программистом Как Пройти Путь От Джуна До Сеньора  Skillbox Media]]<br>
 	- 📄 [[Что Работодатели Ждут От Джуниоров-Разработчиков В 2024 Году — Карьера На vc.ru]]<br>
 	- 📄 [[Tailwind Marketing and Misinformation Engine]]<br>
@@ -349,12 +356,14 @@ title: Оглавление
 	- 📄 [[(1) Асинхронный SQLAlchemy 2 простой пошаговый гайд по настройке, моделям, связям и миграциям с использованием Alembic]]<br>
 	- 📄 [[Meetings]]<br>
 	- 📄 [[What Can Strong Engineers Do That Weak Engineers Can't]]<br>
+	- 📄 [[Glue Work Considered Harmful]]<br>
 	- 📄 [[Knowing How You Work Best is a Cheat Code for Better Productivity – The Sweet Setup]]<br>
 	- 📄 [[Mastering the Reading to Knowledge Pipeline With Omnivore]]<br>
 	- 📄 [[The Art of DJing CCL · Feature ⟋ RA]]<br>
 	- 📄 [[Jan 14 A career ending mistake]]<br>
 	- 📄 [[Ghost Engineers]]<br>
 	- 📄 [[(2) Асинхронный SQLAlchemy 2 пошаговый гайд по управлению сессиями, добавлению и извлечению данных с Pydantic]]<br>
+	- 📄 [[Why Are Big Tech Companies So Slow]]<br>
 	- 📄 [[Что Джуну Без Опыта Показать На Собеседовании Вклад В Open Source Или Пет-Проекты  Хабр]]<br>
 	- 📄 [[2023 Gems of the year winners - Obsidian]]<br>
 - 📂 [[Идеи]]<br>
