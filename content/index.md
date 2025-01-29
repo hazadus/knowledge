@@ -33,6 +33,11 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[Writing Good Technical Explanations]]
+- [[Alembic]]
+- [[Services in Go]]
+- [[Go]]
+- [[ollama]]
 - [[Crushing JIRA tickets is a party trick, not a path to impact]]
 - [[Glue Work Considered Harmful]]
 - [[Why Are Big Tech Companies So Slow]]
@@ -42,12 +47,7 @@ title: Оглавление
 - [[Playing Politics Is How Senior Engineers Protect Their Team]]
 - [[SOLID И Контекст]]
 - [[SOLID И Другие Аббревиатуры]]
-- [[ollama]]
 - [[PYTHONPATH]]
-- [[What Can Strong Engineers Do That Weak Engineers Can't]]
-- [[Постгрес И Отчеты]]
-- [[Darkest Dungeon Без Боли 100 Страниц Боевого Опыта]]
-- [[The Darkest Dungeon]]
 
 
 ----
@@ -298,6 +298,7 @@ title: Оглавление
 	- 📄 [[Пол Макги - Мастерство Общения]]<br>
 	- 📄 [[Pt.2 - How a RESTful API Server Reacts to Requests – O’Reilly]]<br>
 	- 📄 [[The Multiple Meanings of Nameserver and DNS Resolver]]<br>
+	- 📄 [[Writing Good Technical Explanations]]<br>
 	- 📄 [[Common Testing Mistakes]]<br>
 	- 📄 [[The Beautiful Theory of TDD and the Reality Check of Practice]]<br>
 	- 📄 [[Where’s That Log File Debugging Failed Docker Builds]]<br>
@@ -443,6 +444,7 @@ title: Оглавление
 		- 📄 [[Модули в Go]]<br>
 		- 📄 [[Пустой интерфейс и приведение типов]]<br>
 		- 📂 [[Best Practices]]<br>
+			- 📄 [[Services in Go]]<br>
 			- 📄 [[Practical Go - Real world advice for writing maintainable Go programs]]<br>
 			- 📄 [[Builder Pattern]]<br>
 			- 📄 [[Guard Expression и цикломатическая сложность кода]]<br>
@@ -495,7 +497,6 @@ title: Оглавление
 - 📂 [[Интервью]]<br>
 	- 📄 [[Подготовка к интервью]]<br>
 - 📂 [[Slip-box]]<br>
-	- 📄 [[Код – это не актив, это ответственность]]<br>
 	- 📄 [[Инвариант (Invariant)]]<br>
 	- 📄 [[Permanent Notes]]<br>
 	- 📄 [[Эвристический алгоритм (эвристика)]]<br>

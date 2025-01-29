@@ -71,6 +71,7 @@
 - [[Builder Pattern]] (См. также книгу *100 Go Mistakes*)
 - [[How I write HTTP services in Go after 13 years]]
 - [[Guard Expression и цикломатическая сложность кода]]
+- [[Services in Go]]
 
 ----
 ### Практика
@@ -104,4 +105,4 @@
 
 
 ----
-📂 [[Go]] | Последнее изменение: 21.01.2025 08:25
+📂 [[Go]] | Последнее изменение: 29.01.2025 13:47

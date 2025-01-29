@@ -21,3 +21,5 @@ build:
 deploy:
 	make prepare
 	npx quartz sync
+open:
+	open https://hazadus.github.io/knowledge/

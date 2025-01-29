@@ -48,9 +48,14 @@ P.S.
 Это имхо очень круто: если вложиться в железо, можно очень быстро и просто поднять у себя самый топовый чат и не посылать больше свои секреты ни в OpenAI, ни в Китай.
 
 ----
+- Run `ollama list` to display a list of all installed models.
+- For more details about specific models, use `ollama info <model_name>`.
+- Manually check the models directory with `cd ~/.ollama/models/ && ls`.
+
+----
 ## Reference
 
 - https://t.me/ntuzov/600
 
 ----
-📂 [[Tooling]] | Последнее изменение: 28.01.2025 18:34
+📂 [[Tooling]] | Последнее изменение: 28.01.2025 19:48
