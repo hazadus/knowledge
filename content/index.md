@@ -33,10 +33,13 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[I Don't Know How to Build Software and You Don't Either]]
+- [[Acing the Design Interview]]
+- [[План изучения языка Go]]
+- [[Go]]
 - [[Writing Good Technical Explanations]]
 - [[Alembic]]
 - [[Services in Go]]
-- [[Go]]
 - [[ollama]]
 - [[Crushing JIRA tickets is a party trick, not a path to impact]]
 - [[Glue Work Considered Harmful]]
@@ -45,9 +48,6 @@ title: Оглавление
 - [[How to Give Pushback to Leadership]]
 - [[Giving Pushback to Leadership]]
 - [[Playing Politics Is How Senior Engineers Protect Their Team]]
-- [[SOLID И Контекст]]
-- [[SOLID И Другие Аббревиатуры]]
-- [[PYTHONPATH]]
 
 
 ----
@@ -245,7 +245,9 @@ title: Оглавление
 	- 📄 [[The Thaumaturge Обзор RPG От создателей «Ведьмака»  StopGame]]<br>
 	- 📄 [[Pt.1 - How to Design a RESTful API Architecture From a Human-Language Spec – O’Reilly]]<br>
 	- 📄 [[Writing a Blog on the Internet]]<br>
+	- 📄 [[I Don't Know How to Build Software and You Don't Either]]<br>
 	- 📄 [[Tips and Resources for Learning Go in 2025]]<br>
+	- 📄 [[Acing the Design Interview]]<br>
 	- 📄 [[Marshmallow vs. Pydantic - Python's 2 Best Libraries for Data Serialization and Validation]]<br>
 	- 📄 [[Mental Health in Open Source]]<br>
 	- 📄 [[Go Composition Does Not Compose Well With Implicit Interfaces]]<br>

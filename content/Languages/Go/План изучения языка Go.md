@@ -33,11 +33,14 @@
 	- [Introduction to gRPC in Go](https://mail.google.com/mail/u/0/#inbox/WhctKLbMzLTkLCTTfSNbLlJtQvQLLWfxjnnchQwPQFZVLZcxGFrhMkCMPwGjWQsZhMtkqXQ) (рассылка от Jon Calhoun)
 	- Видео *gRPC сервис (Тузов)* (скачано)
 	- См. книгу *gRPC: запуск и эксплуатация облачных приложений* (скачана).
+	- Простой аналог Ngrok https://github.com/0jk6/tunnel
 	- Поискать https://www.bytesizego.com/grpc-with-go?coupon=jonsentme
+	- [Simple Bank](https://github.com/techschool/simplebank) — код для учебного курса "Backend Master Class". 🌟 В этом курсе пошагово объясняется, как разработать и развернуть бэкенд-сервис для банковской системы на Go. Проект предоставляет API для работы с банковскими счетами, отслеживания изменений баланса и выполнения денежных переводов между счетами. 💡 Курс охватывает ключевые аспекты бэкенд-разработки, включая проектирование баз данных, создание RESTful API с использованием Gin, аутентификацию с JWT/PASETO, а также развертывание приложения в Kubernetes на AWS. Проект также демонстрирует использование Docker, GitHub Actions и других инструментов для разработки и автоматизации.
 - Видео туториалы по разработке мини-проектов (скачаны):
 	- *Simple Redis Server From Scratch In Golang*
 	- *Distributed File Storage In Go*
 -  [[Идеи проектов на Go]].
+	- Для референса: [Real-time Distributed Chat](https://github.com/JoyalAJohney/Realtime-Distributed-Chat)
 - 💡 Проекты DIY (`tag:DIY`, `tag:Try`) в Readwise.
 
 ----
@@ -143,4 +146,4 @@
 		- Разработка gRPC клиента (агента?) и сервера
 
 ----
-📂 [[Go]] | Последнее изменение: 13.01.2025 00:08
+📂 [[Go]] | Последнее изменение: 30.01.2025 10:30
