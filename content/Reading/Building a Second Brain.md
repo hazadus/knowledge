@@ -6,7 +6,7 @@
 - Author: [[Tiago Forte]]
 - Full Title: Building a Second Brain
 - Category: #books
-- Document Tags: [[basb]] [[productivity]] 
+- Document Tags: [[BASB]] [[productivity]] 
 - Summary: In "Building a Second Brain," Tiago Forte emphasizes the importance of organizing notes to capture valuable insights effectively. He suggests separating the steps of capturing and organizing ideas to make information easier to revisit later. By treating notes as knowledge assets, individuals can enhance their creativity and discover which ideas resonate most with others.
 
 ## Highlights
@@ -110,4 +110,4 @@
 
 
 ----
-📂 [[Reading]] | Последнее изменение: 07.01.2025 09:31
+📂 [[Reading]] | Последнее изменение: 04.02.2025 09:26

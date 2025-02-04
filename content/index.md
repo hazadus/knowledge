@@ -33,21 +33,21 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[English Idioms]]
+- [[Building a Second Brain]]
+- [[I Could Do That in a Weekend!]]
+- [[bash]]
+- [[Психология влияния]]
+- [[План по чтению]]
 - [[I Don't Know How to Build Software and You Don't Either]]
 - [[Acing the Design Interview]]
+- [[Полезные библиотеки на Go]]
 - [[План изучения языка Go]]
 - [[Go]]
 - [[Writing Good Technical Explanations]]
 - [[Alembic]]
 - [[Services in Go]]
 - [[ollama]]
-- [[Crushing JIRA tickets is a party trick, not a path to impact]]
-- [[Glue Work Considered Harmful]]
-- [[Why Are Big Tech Companies So Slow]]
-- [[Working Fast and Slow]]
-- [[How to Give Pushback to Leadership]]
-- [[Giving Pushback to Leadership]]
-- [[Playing Politics Is How Senior Engineers Protect Their Team]]
 
 
 ----
@@ -72,11 +72,13 @@ title: Оглавление
 	- 📂 [[Linux]]<br>
 		- 📂 [[CLI - Shell]]<br>
 - 📂 [[Languages]]<br>
+	- 📂 [[Русский]]<br>
 	- 📂 [[Go]]<br>
 		- 📂 [[Best Practices]]<br>
 		- 📂 [[Рецепты]]<br>
 	- 📂 [[Python]]<br>
 	- 📂 [[Rust]]<br>
+	- 📂 [[English]]<br>
 	- 📂 [[JavaScript]]<br>
 	- 📂 [[SQL]]<br>
 - 📂 [[Тестирование]]<br>
@@ -120,6 +122,7 @@ title: Оглавление
 	- 📄 [[System Design, Алекс Сюй]]<br>
 	- 📄 [[Алгоритмы. Род Стивенс]]<br>
 	- 📄 [[Building a Second Brain]]<br>
+	- 📄 [[BASB]]<br>
 	- 📄 [[Психология влияния]]<br>
 	- 📄 [[Books]]<br>
 	- 📄 [[Django 5 by Example]]<br>
@@ -130,6 +133,7 @@ title: Оглавление
 - 📂 [[Misc]]<br>
 	- 📄 [[Changelog]]<br>
 	- 📄 [[Invariants]]<br>
+	- 📄 [[Base64]]<br>
 	- 📄 [[Code Review]]<br>
 	- 📄 [[Large Legacy Codebases]]<br>
 - 📂 [[Tooling]]<br>
@@ -337,6 +341,7 @@ title: Оглавление
 	- 📄 [[Best Journaling App for iPhone, iPad, and Mac — The Sweet Setup]]<br>
 	- 📄 [[Pydantic 2 Полное Руководство Для Python-Разработчиков — От Основ До Продвинутых Техник]]<br>
 	- 📄 [[How I Ship Projects at Big Tech Companies]]<br>
+	- 📄 [[I Could Do That in a Weekend!]]<br>
 	- 📄 [[Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024  SleepEasy Website Monitor]]<br>
 	- 📄 [[The Dark Side of Open Source - kettanaito.com]]<br>
 	- 📄 [[How to Perform Code Reviews in Tech – The Painless Way]]<br>
@@ -393,6 +398,8 @@ title: Оглавление
 	- 📄 [[PLpgSQL]]<br>
 	- 📄 [[TypeScript]]<br>
 	- 📄 [[HTML]]<br>
+	- 📂 [[Русский]]<br>
+		- 📄 [[Гласные с ударением]]<br>
 	- 📂 [[Go]]<br>
 		- 📄 [[Пакеты и импорты в Go]]<br>
 		- 📄 [[Юнит-тесты и покрытие кода]]<br>
@@ -400,6 +407,7 @@ title: Оглавление
 		- 📄 [[Система типов]]<br>
 		- 📄 [[Рефлексия]]<br>
 		- 📄 [[Слайсы]]<br>
+		- 📄 [[Полезные библиотеки на Go]]<br>
 		- 📄 [[План изучения языка Go]]<br>
 		- 📄 [[Race Conditions in Go]]<br>
 		- 📄 [[Go Proverbs]]<br>
@@ -473,6 +481,8 @@ title: Оглавление
 		- 📄 [[subprocess]]<br>
 	- 📂 [[Rust]]<br>
 		- 📄 [[Rust]]<br>
+	- 📂 [[English]]<br>
+		- 📄 [[English Idioms]]<br>
 	- 📂 [[JavaScript]]<br>
 		- 📄 [[JavaScript]]<br>
 		- 📄 [[Vue.js]]<br>

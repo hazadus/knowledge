@@ -40,7 +40,12 @@ num=$((num1 + 2 + 3))        # ...
 num=$[num1+num2]             # Old, deprecated arithmetic expression syntax
 ```
 
+## Посчитать количество файлов определенного типа
+
+```bash
+find ./src ./tasks ./tests ./bots ./alembic -type f -name "*.py" | wc -l
+```
 
 
 ----
-📂 [[Tooling]] | Последнее изменение: 11.01.2025 19:12
+📂 [[Tooling]] | Последнее изменение: 01.02.2025 16:51
