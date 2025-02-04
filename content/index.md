@@ -33,21 +33,21 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
-- [[English Idioms]]
-- [[Building a Second Brain]]
-- [[I Could Do That in a Weekend!]]
-- [[bash]]
-- [[Психология влияния]]
-- [[План по чтению]]
-- [[I Don't Know How to Build Software and You Don't Either]]
-- [[Acing the Design Interview]]
-- [[Полезные библиотеки на Go]]
-- [[План изучения языка Go]]
-- [[Go]]
-- [[Writing Good Technical Explanations]]
-- [[Alembic]]
-- [[Services in Go]]
-- [[ollama]]
+- [[Автоматическое поведение]]
+- [[Literature Notes]]
+- [[Permanent Notes]]
+- [[Эвристический алгоритм (эвристика)]]
+- [[Хороший программист пишет код, который будет понятен людям]]
+- [[Принцип контраста]]
+- [[Правило взаимного обмена]]
+- [[Полностью завершить можно только неудачное ПО]]
+- [[Отказ – затем отступление]]
+- [[Инвариант (Invariant)]]
+- [[Дорогой – лучший]]
+- [[Взаимные уступки]]
+- [[Fleeting Notes]]
+- [[Как читать книги]]
+- [[Как читать книги для самообразования]]
 
 
 ----
@@ -348,6 +348,7 @@ title: Оглавление
 	- 📄 [[Programming Stuff О Книге Джона Сонмеза “The Complete Software Developer’s Career Guide”]]<br>
 	- 📄 [[Managing Technical Debt - Jacob Kaplan-Moss]]<br>
 	- 📄 [[Tips for Writing Clean Go Code]]<br>
+	- 📄 [[Как читать книги для самообразования]]<br>
 	- 📄 [[So you've been reorg'd... - Jacob Kaplan-Moss]]<br>
 	- 📄 [[My Approach to Running a Link Blog]]<br>
 	- 📄 [[Dunning–Kruger Effect]]<br>
