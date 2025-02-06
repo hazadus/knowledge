@@ -9,6 +9,31 @@
 - Document Tags: [[BASB]] [[productivity]] 
 - Summary: In "Building a Second Brain," Tiago Forte emphasizes the importance of organizing notes to capture valuable insights effectively. He suggests separating the steps of capturing and organizing ideas to make information easier to revisit later. By treating notes as knowledge assets, individuals can enhance their creativity and discover which ideas resonate most with others.
 
+----
+## Описание
+
+Книга Тиаго Форте **«Building a Second Brain»** — это вдохновляющее и практичное руководство по управлению информационной перегрузкой, помогающее превратить хаос знаний в структурированную систему для креативности и продуктивности. Автор предлагает методику **CODE** (Capture, Organize, Distill, Express), которая учит эффективно собирать, организовывать и использовать идеи, заметки и ресурсы с помощью цифровых инструментов. В отличие от классических подходов к тайм-менеджменту, здесь фокус смещён на создание «второго мозга» — внешнего хранилища знаний, освобождающего разум для творчества и решений. Книга насыщена кейсами, советами по интеграции системы в повседневную работу и стратегиями превращения накопленной информации в реальные проекты. Это must-read для всех, кто хочет победить прокрастинацию, усилить интеллектуальную отдачу и системно воплощать идеи в жизнь — от предпринимателей до творческих профессионалов.
+
+----
+
+```yaml
+    author: 
+    title: 
+    publisher: 
+    year: 
+    description: ""
+    url: 
+    coverUrl: /images/books/image.jpg
+    reviewURL:
+    tags:
+      - Inspiration
+      - PKM
+    status: read
+    dateFinished:
+```
+
+----
+
 ## Highlights
 - Whether you call it a “personal cloud,” “field notes,” or an “external brain” as some of my students have done, it is a digital archive of your most valuable memories, ideas, and knowledge to help you do your job, run your business, and manage your life without having to keep every detail in your head. Like a personal library in your pocket, a Second Brain enables you to recall everything you might want to remember so you can achieve anything you desire. ([View Highlight](https://read.readwise.io/read/01jc0pbq8cafj2xb652t5xxd49))
 - Your mind is for having ideas, not holding them.
@@ -110,4 +135,4 @@
 
 
 ----
-📂 [[Reading]] | Последнее изменение: 04.02.2025 09:26
+📂 [[Reading]] | Последнее изменение: 06.02.2025 21:53

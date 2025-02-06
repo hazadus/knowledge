@@ -33,21 +33,21 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
-- [[Автоматическое поведение]]
-- [[Literature Notes]]
-- [[Permanent Notes]]
-- [[Эвристический алгоритм (эвристика)]]
-- [[Хороший программист пишет код, который будет понятен людям]]
-- [[Принцип контраста]]
-- [[Правило взаимного обмена]]
-- [[Полностью завершить можно только неудачное ПО]]
-- [[Отказ – затем отступление]]
-- [[Инвариант (Invariant)]]
-- [[Дорогой – лучший]]
-- [[Взаимные уступки]]
-- [[Fleeting Notes]]
+- [[Building a Second Brain]]
+- [[Осваиваем Ethereum]]
 - [[Как читать книги]]
-- [[Как читать книги для самообразования]]
+- [[Код, который умещается в голове]]
+- [[Психология влияния]]
+- [[System Design, Алекс Сюй]]
+- [[Let's Go]]
+- [[Думай медленно, решай быстро]]
+- [[Новые правила деловой переписки]]
+- [[Пиши, сокращай]]
+- [[Как использовать LLM]]
+- [[How I Got Promoted to Staff Engineer Twice]]
+- [[Подготовка к работе над проектом]]
+- [[3 Ways a Website Project Falls Apart]]
+- [[Slip-box]]
 
 
 ----
@@ -118,11 +118,14 @@ title: Оглавление
 	- 📄 [[План по чтению]]<br>
 	- 📄 [[Чистый Agile. Основы гибкости]]<br>
 	- 📄 [[Теоретический минимум по Computer Science. Сети, криптография и data science]]<br>
+	- 📄 [[Новые правила деловой переписки]]<br>
 	- 📄 [[Zero To Production In Rust]]<br>
 	- 📄 [[System Design, Алекс Сюй]]<br>
 	- 📄 [[Алгоритмы. Род Стивенс]]<br>
 	- 📄 [[Building a Second Brain]]<br>
 	- 📄 [[BASB]]<br>
+	- 📄 [[Думай медленно, решай быстро]]<br>
+	- 📄 [[Осваиваем Ethereum]]<br>
 	- 📄 [[Психология влияния]]<br>
 	- 📄 [[Books]]<br>
 	- 📄 [[Django 5 by Example]]<br>
@@ -347,12 +350,14 @@ title: Оглавление
 	- 📄 [[How to Perform Code Reviews in Tech – The Painless Way]]<br>
 	- 📄 [[Programming Stuff О Книге Джона Сонмеза “The Complete Software Developer’s Career Guide”]]<br>
 	- 📄 [[Managing Technical Debt - Jacob Kaplan-Moss]]<br>
+	- 📄 [[How I Got Promoted to Staff Engineer Twice]]<br>
 	- 📄 [[Tips for Writing Clean Go Code]]<br>
 	- 📄 [[Как читать книги для самообразования]]<br>
 	- 📄 [[So you've been reorg'd... - Jacob Kaplan-Moss]]<br>
 	- 📄 [[My Approach to Running a Link Blog]]<br>
 	- 📄 [[Dunning–Kruger Effect]]<br>
 	- 📄 [[Get your work recognized write a brag document]]<br>
+	- 📄 [[3 Ways a Website Project Falls Apart]]<br>
 	- 📄 [[How to Learn Stuff Quickly]]<br>
 	- 📄 [[Как читать книги]]<br>
 	- 📄 [[Unexpected python traps for beginners - Bite code!]]<br>
@@ -512,6 +517,8 @@ title: Оглавление
 - 📂 [[Slip-box]]<br>
 	- 📄 [[Инвариант (Invariant)]]<br>
 	- 📄 [[Permanent Notes]]<br>
+	- 📄 [[Подготовка к работе над проектом]]<br>
+	- 📄 [[Slip-box]]<br>
 	- 📄 [[Эвристический алгоритм (эвристика)]]<br>
 	- 📄 [[Принцип контраста]]<br>
 	- 📄 [[Literature Notes]]<br>
@@ -519,6 +526,7 @@ title: Оглавление
 	- 📄 [[Fleeting Notes]]<br>
 	- 📄 [[Отказ – затем отступление]]<br>
 	- 📄 [[Автоматическое поведение]]<br>
+	- 📄 [[Как использовать LLM]]<br>
 	- 📄 [[Полностью завершить можно только неудачное ПО]]<br>
 	- 📄 [[Взаимные уступки]]<br>
 	- 📄 [[Правило взаимного обмена]]<br>
