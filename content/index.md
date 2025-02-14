@@ -33,21 +33,21 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
-- [[Building a Second Brain]]
-- [[Осваиваем Ethereum]]
+- [[Как использовать LLM]]
+- [[jq]]
+- [[uv uvx]]
+- [[Ускоряйся! Наука DevOps]]
+- [[vim]]
+- [[Good Engineers Are Right, a Lot]]
+- [[How to Take Smart Notes One Simple Technique to Boost Writing, Learning and Thinking – For Students, Academics and Nonfiction Book Writers]]
 - [[Как читать книги]]
 - [[Код, который умещается в голове]]
-- [[Психология влияния]]
+- [[Переговоры с монстрами]]
 - [[System Design, Алекс Сюй]]
-- [[Let's Go]]
-- [[Думай медленно, решай быстро]]
-- [[Новые правила деловой переписки]]
-- [[Пиши, сокращай]]
-- [[Как использовать LLM]]
-- [[How I Got Promoted to Staff Engineer Twice]]
-- [[Подготовка к работе над проектом]]
-- [[3 Ways a Website Project Falls Apart]]
-- [[Slip-box]]
+- [[Atomic Habits Tiny Changes, Remarkable Results]]
+- [[Мама, я тимлид!]]
+- [[От джуна до сеньора]]
+- [[Building a Second Brain]]
 
 
 ----
@@ -120,17 +120,22 @@ title: Оглавление
 	- 📄 [[Теоретический минимум по Computer Science. Сети, криптография и data science]]<br>
 	- 📄 [[Новые правила деловой переписки]]<br>
 	- 📄 [[Zero To Production In Rust]]<br>
+	- 📄 [[Переговоры с монстрами]]<br>
 	- 📄 [[System Design, Алекс Сюй]]<br>
+	- 📄 [[Мама, я тимлид!]]<br>
 	- 📄 [[Алгоритмы. Род Стивенс]]<br>
 	- 📄 [[Building a Second Brain]]<br>
 	- 📄 [[BASB]]<br>
 	- 📄 [[Думай медленно, решай быстро]]<br>
+	- 📄 [[Ускоряйся! Наука DevOps]]<br>
 	- 📄 [[Осваиваем Ethereum]]<br>
+	- 📄 [[От джуна до сеньора]]<br>
 	- 📄 [[Психология влияния]]<br>
 	- 📄 [[Books]]<br>
 	- 📄 [[Django 5 by Example]]<br>
 	- 📄 [[Django 3 Web Development Cookbook]]<br>
 	- 📄 [[Building an Effective Dev Portfolio]]<br>
+	- 📄 [[Как поддерживать дела в порядке]]<br>
 	- 📄 [[Внутри CPYTHON. Энтони Шоу]]<br>
 	- 📄 [[Пиши, сокращай]]<br>
 - 📂 [[Misc]]<br>
@@ -314,6 +319,7 @@ title: Оглавление
 	- 📄 [[Playing Politics Is How Senior Engineers Protect Their Team]]<br>
 	- 📄 [[Palworld Купить Пропустить Скачать Бесплатно Наш Обзор  Видеоигры  Мир Фантастики И Фэнтези]]<br>
 	- 📄 [[Redis and Python 20% of Effort, 80% of Effects]]<br>
+	- 📄 [[Good Engineers Are Right, a Lot]]<br>
 	- 📄 [[Mistakes Engineers Make in Large Established Codebases]]<br>
 	- 📄 [[What Color Is Your Function]]<br>
 	- 📄 [[SOLID И Контекст]]<br>

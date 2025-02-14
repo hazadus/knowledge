@@ -8,6 +8,28 @@
 - Category: #books
 - Summary: "Atomic Habits" by James Clear offers a practical guide to building better habits for a lifetime. It explains how small changes can lead to significant improvements over time and emphasizes the importance of making habits attractive and easy to follow. The book provides tools and strategies to help you create and maintain positive habits while understanding the science behind them.
 
+## Описание
+
+Книга Джеймса Клира **«Atomic Habits»** — это вдохновляющее и научно обоснованное руководство о том, как крошечные привычки приводят к грандиозным изменениям. Автор доказывает, что успех строится не на масштабных целях, а на систематическом улучшении повседневных ритуалов, и предлагает четкую схему: сделать привычки **очевидными, привлекательными, легкими** и **удовлетворяющими**. Практичные стратегии, вроде «правила двух минут» или «среды, облегчающей действия», сочетаются с примерами из спорта, бизнеса и жизни, показывая, как «атомарные» шаги помогают преодолеть прокрастинацию, прокачать продуктивность и трансформировать личность. Книга — идеальный инструмент для всех, кто хочет не просто ставить цели, а создавать устойчивые системы роста, превращая дисциплину в автоматизм и достигая выдающихся результатов через малые, но постоянные усилия.
+
+----
+Узнал о ней из блога [The Sweet Setup](https://thesweetsetup.com/notion-habit-tracker-ultimate-guide-and-template/). Самая запавшая идея – о том, что сначала нужно создать и закрепить привычку, а потом уже улучшать результаты.
+
+```yaml
+    author: James Clear
+    title: Atomic Habits: Tiny C. anges, Remarkable Results
+    publisher: 
+    year: 
+    description: ""
+    url: https://jamesclear.com/atomic-habits
+    coverUrl: /images/books/image.jpg
+    reviewURL:
+    tags:
+      - Inspiration
+    status: read
+    dateFinished:
+```
+----
 ## Highlights
 - “the aggregation of marginal gains,” which was the philosophy of searching for a tiny margin of improvement in everything you do. Brailsford said, “The whole principle came from the idea that if you broke down everything you could think of that goes into riding a bike, and then improve it by 1 percent, you will get a significant increase when you put them all together.” ([View Highlight](https://read.readwise.io/read/01jdhg3sdc4d31ky19pcf34cpr))
 
@@ -83,4 +105,4 @@
 
 
 ----
-📂 [[Reading]] | Последнее изменение: 19.12.2024 14:22
+📂 [[Reading]] | Последнее изменение: 07.02.2025 00:19

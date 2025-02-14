@@ -20,13 +20,13 @@ There are 3 ways to enter the Insert mode from the default Normal mode:
 
 Reference: https://www.warp.dev/terminus/vim-go-to-line
 
-To go to a specific line number, enter the line number in Command-line Mode (`:<line number>`) or the line number and G (`<line number>G`) in Normal Mode.
+To ==go to a specific line number==, enter the line number in Command-line Mode (`:<line number>`) or the line number and G (`<line number>G`) in Normal Mode.
 
 ## Deleting lines
 
 Reference: https://www.warp.dev/terminus/delete-line-vim
 
-- `dd` deletes the whole line under the cursor.
+- `dd` ==deletes the whole line under the cursor==.
 - `5dd` deletes multiple (5) lines, starting at the cursor.
 - `d$` deletes to the end of the line, starting at the cursor.
 - `dG` deletes all lines starting from the line under the cursor.
@@ -56,4 +56,4 @@ Reference: https://www.warp.dev/terminus/vim-find-and-replace
 
 
 ----
-📂 [[Tooling]] | Последнее изменение: 19.08.2024 11:42
+📂 [[Tooling]] | Последнее изменение: 10.02.2025 09:51

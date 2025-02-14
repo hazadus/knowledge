@@ -17,7 +17,21 @@ uvx --no-cache --from yt-dlp yt-dlp --extract-audio --audio-format mp3 "https://
 uvx -p 3.12 --with flask --with pyqt5 --from qtconsole jupyter qtconsole
 ```
 
+## Init Project
+
+Init project in current directory:
+
+```bash
+uv init
+```
+
+## Add Stuff
+
+```
+uv add fastapi
+```
+
 
 
 ----
-📂 [[Tooling]] | Последнее изменение: 24.12.2024 14:25
+📂 [[Tooling]] | Последнее изменение: 10.02.2025 16:49
