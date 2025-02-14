@@ -33,10 +33,11 @@ title: Оглавление
 
 ### Недавно обновлённые заметки
 
+- [[Ускоряйся! Наука DevOps]]
+- [[Мифический человеко-месяц]]
 - [[Как использовать LLM]]
 - [[jq]]
 - [[uv uvx]]
-- [[Ускоряйся! Наука DevOps]]
 - [[vim]]
 - [[Good Engineers Are Right, a Lot]]
 - [[How to Take Smart Notes One Simple Technique to Boost Writing, Learning and Thinking – For Students, Academics and Nonfiction Book Writers]]
@@ -47,7 +48,6 @@ title: Оглавление
 - [[Atomic Habits Tiny Changes, Remarkable Results]]
 - [[Мама, я тимлид!]]
 - [[От джуна до сеньора]]
-- [[Building a Second Brain]]
 
 
 ----
@@ -99,6 +99,7 @@ title: Оглавление
 
 ## Полное оглавление
 - 📂 [[Reading]]<br>
+	- 📄 [[Язык программирования Go (Донован, Керниган)]]<br>
 	- 📄 [[Asyncio. Мэтью Фаулер]]<br>
 	- 📄 [[Atomic Habits Tiny Changes, Remarkable Results]]<br>
 	- 📄 [[Fast API. Bill Lubanovic]]<br>
@@ -128,6 +129,7 @@ title: Оглавление
 	- 📄 [[BASB]]<br>
 	- 📄 [[Думай медленно, решай быстро]]<br>
 	- 📄 [[Ускоряйся! Наука DevOps]]<br>
+	- 📄 [[Мифический человеко-месяц]]<br>
 	- 📄 [[Осваиваем Ethereum]]<br>
 	- 📄 [[От джуна до сеньора]]<br>
 	- 📄 [[Психология влияния]]<br>
